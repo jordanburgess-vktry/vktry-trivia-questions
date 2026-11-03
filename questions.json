@@ -9313,15 +9313,6 @@
     },
     {
       "category": "Pop Culture",
-      "question": "What term describes the internet phenomenon where a photo or video goes unnoticed for years before suddenly becoming viral, as happened with the 'Woman Yelling at Cat' meme?",
-      "answer": "Belated viral",
-      "hint": "Think about content that finds its audience long after it was originally posted.",
-      "difficulty": 3,
-      "open_ended": true,
-      "id": 2126
-    },
-    {
-      "category": "Pop Culture",
       "question": "Kim Kardashian's shapewear brand faced backlash over its original name before being rebranded. What is the brand's current name?",
       "answer": "SKIMS",
       "hint": "The original name borrowed from a Japanese cultural term, which sparked the controversy.",
@@ -9897,15 +9888,6 @@
       "hint": "This band was closely associated with 4AD Records and helped pave the way for the alternative rock boom of the early 1990s",
       "difficulty": 3,
       "id": 2212
-    },
-    {
-      "category": "Pop Culture",
-      "question": "What term describes the viral internet trend of placing a fictional character in an unexpected domestic setting, often with lo-fi music?",
-      "answer": "Cozy fandom",
-      "hint": "Think: a hobbit hole aesthetic applied to your favorite villain.",
-      "difficulty": 3,
-      "open_ended": true,
-      "id": 2213
     },
     {
       "category": "Pop Culture",
@@ -12329,15 +12311,6 @@
       "id": 2596
     },
     {
-      "category": "Math",
-      "question": "If you fold a standard piece of paper in half 42 times — in theory — how thick would the stack be compared to the distance from Earth to the Moon?",
-      "answer": "Thicker",
-      "hint": "Each fold doubles the thickness — by fold 42, exponential growth has gotten completely out of hand.",
-      "difficulty": 2,
-      "open_ended": true,
-      "id": 2597
-    },
-    {
       "category": "Sports",
       "question": "In baseball, what rare defensive play occurs when a catcher catches a third strike that bounces in the dirt, and the batter must be thrown out at first base?",
       "answer": "Dropped third strike",
@@ -12472,6 +12445,527 @@
       "hint": "Their 1994 album 'Mars Audiac Quintet' is considered essential listening for fans of post-rock and lounge-influenced indie music.",
       "difficulty": 3,
       "id": 2624
+    },
+    {
+      "id": 2625,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: R · S · T",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "RST",
+      "examples": [
+        "roster",
+        "first",
+        "rusty"
+      ]
+    },
+    {
+      "id": 2626,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: P · N · T",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "PNT",
+      "examples": [
+        "paint",
+        "point",
+        "planet"
+      ]
+    },
+    {
+      "id": 2627,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: C · L · D",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "CLD",
+      "examples": [
+        "cloud",
+        "child",
+        "cold"
+      ]
+    },
+    {
+      "id": 2628,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: B · R · D",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "BRD",
+      "examples": [
+        "bread",
+        "board",
+        "bird"
+      ]
+    },
+    {
+      "id": 2629,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: M · S · C",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "MSC",
+      "examples": [
+        "music",
+        "muscle",
+        "mascot"
+      ]
+    },
+    {
+      "id": 2630,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: F · L · T",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "FLT",
+      "examples": [
+        "float",
+        "flute",
+        "fault"
+      ]
+    },
+    {
+      "id": 2631,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: G · R · N",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "GRN",
+      "examples": [
+        "green",
+        "garden",
+        "grin"
+      ]
+    },
+    {
+      "id": 2632,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: H · S · E",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "HSE",
+      "examples": [
+        "house",
+        "horse",
+        "chase"
+      ]
+    },
+    {
+      "id": 2633,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: T · B · L",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "TBL",
+      "examples": [
+        "table",
+        "tablet",
+        "stable"
+      ]
+    },
+    {
+      "id": 2634,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: W · T · R",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "WTR",
+      "examples": [
+        "water",
+        "winter",
+        "writer"
+      ]
+    },
+    {
+      "id": 2635,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: S · N · K",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "SNK",
+      "examples": [
+        "snake",
+        "snack",
+        "sink"
+      ]
+    },
+    {
+      "id": 2636,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: P · L · E",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "PLE",
+      "examples": [
+        "plate",
+        "apple",
+        "purple"
+      ]
+    },
+    {
+      "id": 2637,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: C · M · R",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "CMR",
+      "examples": [
+        "camera",
+        "chamber",
+        "computer"
+      ]
+    },
+    {
+      "id": 2638,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: D · N · R",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "DNR",
+      "examples": [
+        "dinner",
+        "diner",
+        "donor"
+      ]
+    },
+    {
+      "id": 2639,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: K · T · N",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "KTN",
+      "examples": [
+        "kitten",
+        "kitchen",
+        "skating"
+      ]
+    },
+    {
+      "id": 2640,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: L · M · N",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "LMN",
+      "examples": [
+        "lemon",
+        "salmon",
+        "element"
+      ]
+    },
+    {
+      "id": 2641,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: B · S · K",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "BSK",
+      "examples": [
+        "basket",
+        "brisk",
+        "bask"
+      ]
+    },
+    {
+      "id": 2642,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: F · R · M",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "FRM",
+      "examples": [
+        "farm",
+        "form",
+        "firm"
+      ]
+    },
+    {
+      "id": 2643,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: V · L · T",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "VLT",
+      "examples": [
+        "violet",
+        "vault",
+        "velvet"
+      ]
+    },
+    {
+      "id": 2644,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: P · R · T",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "PRT",
+      "examples": [
+        "party",
+        "parrot",
+        "sport"
+      ]
+    },
+    {
+      "id": 2645,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: N · G · T",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "NGT",
+      "examples": [
+        "night",
+        "nugget",
+        "knight"
+      ]
+    },
+    {
+      "id": 2646,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: S · P · R",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "SPR",
+      "examples": [
+        "spring",
+        "super",
+        "spark"
+      ]
+    },
+    {
+      "id": 2647,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: C · H · N",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "CHN",
+      "examples": [
+        "chicken",
+        "kitchen",
+        "chain"
+      ]
+    },
+    {
+      "id": 2648,
+      "category": "Word Play",
+      "question": "Name a word that contains these 3 letters, in this order: T · R · N",
+      "answer": "(open ended)",
+      "hint": "",
+      "difficulty": 2,
+      "open_ended": true,
+      "letters": "TRN",
+      "examples": [
+        "train",
+        "turn",
+        "return"
+      ]
+    },
+    {
+      "category": "Science",
+      "question": "What colorless, odorless gas do yeast produce as a byproduct when they ferment sugar — the same gas that makes bread rise and beer bubble?",
+      "answer": "Carbon dioxide",
+      "hint": "It's what you exhale, and it's what makes sodas fizzy.",
+      "difficulty": 2,
+      "id": 2650
+    },
+    {
+      "category": "Science",
+      "question": "What is the term for the minimum speed an object must reach to escape a planet's gravitational pull without further propulsion?",
+      "answer": "Escape velocity",
+      "hint": "For Earth, it's about 11.2 kilometers per second.",
+      "difficulty": 2,
+      "id": 2651
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What Stanley Kubrick novel adaptation, banned in several countries upon release, follows a teen gang leader named Alex in a dystopian Britain?",
+      "answer": "A Clockwork Orange",
+      "hint": "The author of the original novel was Anthony Burgess — the title refers to something organic being made mechanical.",
+      "difficulty": 2,
+      "id": 2652
+    },
+    {
+      "category": "Math",
+      "question": "If you write out the number one googol, how many zeros does it have?",
+      "answer": "100",
+      "hint": "A googol is defined as ten to the power of this number — it's also what inspired a famous search engine's name.",
+      "difficulty": 2,
+      "numeric_type": "exact",
+      "id": 2654
+    },
+    {
+      "category": "Sports",
+      "question": "The Commanders, the Capitals, and the Nationals all represent which US city?",
+      "answer": "Washington DC",
+      "hint": "It's also the city where a fourth team, an NHL franchise, recently won a Stanley Cup.",
+      "difficulty": 2,
+      "id": 2655
+    },
+    {
+      "category": "Word Play",
+      "question": "What word sounds like both a piece of land surrounded by water and a verb meaning to find the answer?",
+      "answer": "Isle / Aisle / I'll",
+      "hint": "Think of the narrow passage between rows of seats in a theater — and then think of what you say when you get back to you.",
+      "difficulty": 3,
+      "id": 2656
+    },
+    {
+      "category": "Word Play",
+      "question": "What word connects the spine of a book, the rear part of the foot, and someone who chases another person?",
+      "answer": "Heel",
+      "hint": "One meaning is what your shoe wears down, another is a command given to a dog.",
+      "difficulty": 2,
+      "id": 2657
+    },
+    {
+      "category": "Word Play",
+      "question": "Finish the phrase: 'You can't make an omelette without...'",
+      "answer": "Breaking eggs",
+      "hint": "It's used to justify collateral damage in pursuit of a goal.",
+      "difficulty": 2,
+      "id": 2658
+    },
+    {
+      "category": "Word Play",
+      "question": "What word connects a playing card value, a breakfast staple served in strips, and a pig's back?",
+      "answer": "Rasher",
+      "hint": "One meaning is reckless or hasty — and that's also a valid use of this word.",
+      "difficulty": 3,
+      "id": 2659
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with R, what word means to search through something, turning it over messily looking for an item?",
+      "answer": "Rummage",
+      "hint": "You might do this in a drawer, a bag, or at a sale of secondhand goods.",
+      "difficulty": 2,
+      "id": 2660
+    },
+    {
+      "category": "Food & Drink",
+      "question": "What Japanese dish consists of raw fish sliced and served without rice, unlike its close relative sushi?",
+      "answer": "Sashimi",
+      "hint": "It's often confused with sushi, but there's no vinegared rice involved.",
+      "difficulty": 2,
+      "id": 2663
+    },
+    {
+      "category": "Food & Drink",
+      "question": "What cocktail is made with vodka, triple sec, cranberry juice, and lime juice, popularized by Sex and the City?",
+      "answer": "Cosmopolitan",
+      "hint": "Carrie Bradshaw's drink of choice — often called a 'Cosmo' for short.",
+      "difficulty": 2,
+      "id": 2664
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What literary technique involves repeating the same consonant sound at the beginning of closely connected words, as in 'Peter Piper picked a peck'?",
+      "answer": "Alliteration",
+      "hint": "It's a favorite tool in poetry and advertising copy alike.",
+      "difficulty": 2,
+      "id": 2665
+    },
+    {
+      "category": "Arts & Style",
+      "question": "Starting with K, what is the traditional Japanese theater form known for its elaborate costumes, white-painted faces, and highly stylized performance?",
+      "answer": "Kabuki",
+      "hint": "It has been performed since the Edo period and is designated as a UNESCO Intangible Cultural Heritage.",
+      "difficulty": 2,
+      "id": 2666
+    },
+    {
+      "category": "Arts & Style",
+      "question": "In music, what Italian term means to gradually get louder?",
+      "answer": "Crescendo",
+      "hint": "It's marked with a hairpin symbol that opens to the right, and it's the opposite of diminuendo.",
+      "difficulty": 2,
+      "id": 2667
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What 20th-century art movement, pioneered by Salvador Dalí and René Magritte, blended dreamlike imagery with realistic painting technique?",
+      "answer": "Surrealism",
+      "hint": "The movement drew heavily on Freudian ideas about the unconscious mind.",
+      "difficulty": 2,
+      "id": 2668
+    },
+    {
+      "question": "Finish these lyrics: \"I promise that I'll run away with...\"",
+      "answer": "you",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "The Cure — Just Like Heaven",
+      "id": 2669
+    },
+    {
+      "question": "Finish these lyrics: \"How many times must the cannonballs fly before they're forever...\"",
+      "answer": "banned",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Bob Dylan — Blowin in the Wind",
+      "id": 2671
+    },
+    {
+      "question": "Finish these lyrics: \"Did they get you to trade your heroes for...\"",
+      "answer": "ghosts",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Pink Floyd — Wish You Were Here",
+      "id": 2672
+    },
+    {
+      "question": "Finish these lyrics: \"Sally, take my hand, travel south cross...\"",
+      "answer": "land",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "The Who — Baba O'Riley",
+      "id": 2673
     }
   ]
 }
