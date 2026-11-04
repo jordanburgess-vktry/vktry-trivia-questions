@@ -1,47 +1,47 @@
 [
   {
     "question": "What is the population of the United States?",
-    "answer": "331,000,000",
+    "answer": "342,000,000",
     "hint": "Third most populous country"
   },
   {
     "question": "What is the population of China?",
-    "answer": "1,425,000,000",
-    "hint": "Most populous country on Earth"
+    "answer": "1,410,000,000",
+    "hint": "Second most populous country on Earth"
   },
   {
     "question": "What is the population of Brazil?",
-    "answer": "215,000,000",
+    "answer": "213,000,000",
     "hint": "Largest country in South America"
   },
   {
     "question": "What is the population of Japan?",
-    "answer": "125,000,000",
+    "answer": "123,000,000",
     "hint": "Island nation in East Asia"
   },
   {
     "question": "What is the population of Nigeria?",
-    "answer": "224,000,000",
+    "answer": "235,000,000",
     "hint": "Most populous country in Africa"
   },
   {
     "question": "What is the population of the United Kingdom?",
-    "answer": "67,000,000",
+    "answer": "69,000,000",
     "hint": "Island nation in Western Europe"
   },
   {
     "question": "What is the population of Australia?",
-    "answer": "26,000,000",
+    "answer": "27,000,000",
     "hint": "Continent-sized country in the Southern Hemisphere"
   },
   {
     "question": "What is the population of Canada?",
-    "answer": "40,000,000",
+    "answer": "41,500,000",
     "hint": "Second-largest country by land area"
   },
   {
     "question": "What is the population of India?",
-    "answer": "1,440,000,000",
+    "answer": "1,460,000,000",
     "hint": "Recently surpassed China"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "question": "What is the population of Egypt?",
-    "answer": "105,000,000",
+    "answer": "108,000,000",
     "hint": "Home of the pyramids"
   },
   {
@@ -110,12 +110,12 @@
     "hint": "Roughly — scientists still debate the exact number"
   },
   {
-    "question": "What is the US national debt in trillions of dollars?",
+    "question": "What was the US national debt in trillions of dollars at the start of 2024?",
     "answer": "34",
-    "hint": "As of 2024"
+    "hint": "It passed this mark in early January 2024"
   },
   {
-    "question": "What is the GDP of the United States in trillions of dollars?",
+    "question": "What was the GDP of the United States in trillions of dollars in 2023?",
     "answer": "27",
     "hint": "Largest economy in the world"
   },
@@ -125,9 +125,9 @@
     "hint": "Less than a dollar"
   },
   {
-    "question": "What was the Dow Jones Industrial Average on January 1, 2000?",
+    "question": "What was the Dow Jones Industrial Average at the close of the last trading day of 1999?",
     "answer": "11,500",
-    "hint": "Start of the new millennium"
+    "hint": "End of the old millennium"
   },
   {
     "question": "How many years ago did dinosaurs go extinct?",
@@ -180,9 +180,9 @@
     "hint": "Most are harmless to humans"
   },
   {
-    "question": "How many hot dogs are eaten at Nathan's contest on July 4th by the winner?",
+    "question": "What is the record number of hot dogs eaten at Nathan's July 4th Hot Dog Eating Contest?",
     "answer": "76",
-    "hint": "Joey Chestnut's record"
+    "hint": "Set by Joey Chestnut in 2021"
   },
   {
     "question": "What is the population of Germany?",
@@ -191,7 +191,7 @@
   },
   {
     "question": "What is the population of Indonesia?",
-    "answer": "277,000,000",
+    "answer": "284,000,000",
     "hint": "Largest archipelago nation"
   },
   {
@@ -261,13 +261,13 @@
   },
   {
     "question": "What is the diameter of the Earth in miles?",
-    "answer": "7,918",
+    "answer": "7,926",
     "hint": "Measured at the equator"
   },
   {
     "question": "How many cells are in the human body?",
     "answer": "37,000,000,000,000",
-    "hint": "37 trillion — a very big number"
+    "hint": "In the trillions — a very big number"
   },
   {
     "question": "What is the average temperature of the Sun's surface in degrees Fahrenheit?",
@@ -295,14 +295,14 @@
     "hint": "About 12-20 per minute"
   },
   {
-    "question": "What is the average price of a new car in the US in dollars?",
-    "answer": "48,000",
-    "hint": "As of recent years"
+    "question": "In 2025, what was the average price of a new car in the US in dollars?",
+    "answer": "50,000",
+    "hint": "According to Kelley Blue Book"
   },
   {
-    "question": "What is the median household income in the US in dollars?",
-    "answer": "75,000",
-    "hint": "Before taxes"
+    "question": "In 2024, what was the median household income in the US in dollars?",
+    "answer": "83,730",
+    "hint": "Before taxes, per the US Census Bureau"
   },
   {
     "question": "How much does the International Space Station cost in billions of dollars?",
@@ -310,19 +310,19 @@
     "hint": "Most expensive single object ever built"
   },
   {
-    "question": "How much revenue does Apple generate per year in billions of dollars?",
+    "question": "How much revenue did Apple generate in fiscal year 2023, in billions of dollars?",
     "answer": "383",
-    "hint": "World's most valuable company"
+    "hint": "Maker of the iPhone"
   },
   {
-    "question": "How much does a 30-second Super Bowl ad cost in millions of dollars?",
-    "answer": "7",
+    "question": "How much did a 30-second Super Bowl ad cost in 2025, in millions of dollars?",
+    "answer": "8",
     "hint": "The price has been rising every year"
   },
   {
-    "question": "How many steps are in the Empire State Building from bottom to top?",
+    "question": "How many steps are in the Empire State Building from street level to the top?",
     "answer": "1,860",
-    "hint": "86 floors to the observation deck"
+    "hint": "The climb goes all the way up to the 102nd floor"
   },
   {
     "question": "How many islands make up the Philippines?",
@@ -350,8 +350,8 @@
     "hint": "All between 1969 and 1972"
   },
   {
-    "question": "How many stars are visible to the naked eye on a clear night?",
-    "answer": "5,000",
+    "question": "About how many stars are visible to the naked eye at one time on a clear, dark night?",
+    "answer": "2,500",
     "hint": "Fewer than most people think"
   },
   {
@@ -362,7 +362,7 @@
   {
     "question": "What is the average cruising speed in miles per hour of a Boeing 747 passenger jet?",
     "answer": "570",
-    "hint": "It travels faster than sound is often misremembered — it does not break the sound barrier."
+    "hint": "Just under the speed of sound — it does not break the sound barrier."
   },
   {
     "question": "What year did the Titanic sink?",
@@ -375,13 +375,8 @@
     "hint": "It was in the late 1960s, shortly after the NFL and AFL merged."
   },
   {
-    "question": "As of 2026, how much does a McDonald's Big Mac meal cost in the US (in dollars)?",
-    "answer": "9.29",
-    "hint": "It's a fast food combo — think single digits to low double digits."
-  },
-  {
-    "question": "As of 2026, how much does a first-class US postage stamp cost (in cents)?",
-    "answer": "73",
+    "question": "After the July 2025 price increase, how much does a first-class US postage stamp cost (in cents)?",
+    "answer": "78",
     "hint": "It's gone up over the years — think somewhere between 50 and 100 cents."
   },
   {
@@ -390,19 +385,9 @@
     "hint": "It was an 1803 land deal — think millions, not billions."
   },
   {
-    "question": "How many years did it take to build the Great Wall of China?",
-    "answer": "1800",
-    "hint": "It wasn't built all at once — multiple dynasties contributed over many centuries."
-  },
-  {
     "question": "How many years did it take to build the Eiffel Tower?",
     "answer": "2",
     "hint": "It was constructed surprisingly quickly for its size, completed in 1889."
-  },
-  {
-    "question": "How many months did it take to film the movie 'Avatar' (2009)?",
-    "answer": "15",
-    "hint": "James Cameron spent years developing it but principal photography was over a year."
   },
   {
     "question": "How many miles is it from the Earth to the Moon (on average)?",
@@ -412,17 +397,12 @@
   {
     "question": "How fast does light travel in miles per second?",
     "answer": "186,282",
-    "hint": "It's roughly 186 thousand miles per second."
+    "hint": "Light could circle the Earth about 7.5 times in one second."
   },
   {
     "question": "How many career points did Michael Jordan score in the NBA?",
     "answer": "32,292",
     "hint": "He played 15 seasons and was one of the highest scorers ever."
-  },
-  {
-    "question": "How many episodes of 'The Simpsons' have aired as of 2026?",
-    "answer": "790",
-    "hint": "It's the longest-running animated TV show — think in the hundreds."
   },
   {
     "question": "How much did the movie 'Avengers: Endgame' gross worldwide in dollars?",
@@ -435,23 +415,18 @@
     "hint": "It was near the end of the Cold War, during the late 1980s."
   },
   {
-    "question": "As of 2026, how much does a McDonald's Big Mac cost in the US (in dollars)?",
-    "answer": "5.99",
-    "hint": "It's a classic burger — think somewhere between a cheap snack and a sit-down meal appetizer."
-  },
-  {
     "question": "How many years did it take to build the Golden Gate Bridge?",
     "answer": "4",
     "hint": "Construction started in the early 1930s and it opened in 1937."
   },
   {
-    "question": "How many years did it take to build the Panama Canal?",
+    "question": "How many years did it take the United States to build the Panama Canal?",
     "answer": "10",
     "hint": "The US took over the project in 1904 and it opened in 1914."
   },
   {
     "question": "How much did the film Titanic gross worldwide at the box office (in dollars)?",
-    "answer": "2,187,000,000",
+    "answer": "2,264,000,000",
     "hint": "It was the highest-grossing film ever made for over a decade after its 1997 release."
   },
   {
@@ -475,24 +450,9 @@
     "hint": "It started at Harvard in 2004 but opened to everyone a couple years later."
   },
   {
-    "question": "As of 2026, how much does a Chipotle burrito cost in the US in dollars?",
-    "answer": "10.70",
-    "hint": "It's a fast-casual staple that has steadily risen in price over the years."
-  },
-  {
-    "question": "As of 2026, how much does a gallon of regular gasoline cost on average in the US in dollars?",
-    "answer": "3.20",
-    "hint": "Prices fluctuate with oil markets but tend to hover around a familiar range for American drivers."
-  },
-  {
-    "question": "As of 2026, how much does a Netflix standard subscription cost per month in the US in dollars?",
+    "question": "After its January 2025 price increase, how much does a Netflix Standard subscription cost per month in the US in dollars?",
     "answer": "17.99",
     "hint": "This is their mid-tier plan without the extra cost of the premium option."
-  },
-  {
-    "question": "As of 2026, how much does the average American pay per month for a gym membership in dollars?",
-    "answer": "58",
-    "hint": "It varies widely from budget chains at $10 to premium clubs, but the average sits somewhere in between."
   },
   {
     "question": "How many years did it take to build the Taj Mahal?",
@@ -500,9 +460,9 @@
     "hint": "Emperor Shah Jahan commissioned it as a mausoleum for his wife in 17th-century India."
   },
   {
-    "question": "How many years did it take to complete the construction of the Sagrada Família in Barcelona, from start through its major completion milestones as of 2026?",
+    "question": "As of 2026, how many years has the Sagrada Família in Barcelona been under construction?",
     "answer": "144",
-    "hint": "Antoni Gaudí began this iconic cathedral in the 1880s and it still isn't fully finished."
+    "hint": "Antoni Gaudí took over this iconic basilica in the 1880s, and it still isn't fully finished."
   },
   {
     "question": "How many years did it take to carve Mount Rushmore?",
@@ -515,7 +475,7 @@
     "hint": "Usain Bolt set this record at the 2009 World Championships in Berlin."
   },
   {
-    "question": "How many career goals did Wayne Gretzky score in the NHL?",
+    "question": "How many regular-season career goals did Wayne Gretzky score in the NHL?",
     "answer": "894",
     "hint": "He is widely considered the greatest hockey player of all time and holds numerous records."
   },
@@ -525,14 +485,14 @@
     "hint": "No other actor in history has received more nominations from the Academy Awards."
   },
   {
-    "question": "What year was the Mona Lisa painted?",
+    "question": "In what year did Leonardo da Vinci begin painting the Mona Lisa?",
     "answer": "1503",
-    "hint": "Leonardo da Vinci began it during the Italian Renaissance, around the same time Columbus was still exploring the Americas."
+    "hint": "He started it during the Italian Renaissance, around the same time Columbus was still exploring the Americas."
   },
   {
     "question": "What year did Nintendo release the original Game Boy?",
     "answer": "1989",
-    "hint": "It launched in Japan the same year the Berlin Wall fell, and came bundled with Tetris."
+    "hint": "It launched the same year the Berlin Wall fell, and in North America it came bundled with Tetris."
   },
   {
     "question": "What year did the Great Fire of London occur?",
@@ -540,24 +500,9 @@
     "hint": "It destroyed much of the medieval city and started in a bakery on Pudding Lane."
   },
   {
-    "question": "As of 2026, how much does a Starbucks Grande Pumpkin Spice Latte cost in the US in dollars?",
-    "answer": "7.25",
-    "hint": "It's one of Starbucks' most popular seasonal drinks and costs noticeably more than a regular drip coffee."
-  },
-  {
-    "question": "As of 2026, how much does a large Domino's pepperoni pizza cost in the US in dollars?",
-    "answer": "14.99",
-    "hint": "It's a standard menu-priced large pizza without any special deals or coupons applied."
-  },
-  {
     "question": "How much did the United States pay Russia for Alaska in dollars?",
     "answer": "7,200,000",
     "hint": "The 1867 purchase was criticized as 'Seward's Folly' and worked out to about 2 cents per acre."
-  },
-  {
-    "question": "As of 2026, how much does the average wedding in the United States cost in dollars?",
-    "answer": "35,000",
-    "hint": "It's a number that shocks most couples — enough to buy a decent used car several times over."
   },
   {
     "question": "How many years did it take to build the Burj Khalifa in Dubai?",
@@ -576,13 +521,13 @@
   },
   {
     "question": "How many worldwide box office dollars did The Lion King (1994) gross in its original theatrical release?",
-    "answer": "968,483,777",
+    "answer": "763,000,000",
     "hint": "It was Disney's highest-grossing traditionally animated film and dominated the box office throughout 1994."
   },
   {
     "question": "How many career strikeouts did Nolan Ryan record in his MLB pitching career?",
     "answer": "5,714",
-    "hint": "He holds the all-time record by a massive margin — nearly 1,000 more than the pitcher in second place."
+    "hint": "He holds the all-time record by a massive margin — more than 800 ahead of the pitcher in second place."
   },
   {
     "question": "What year was the first Pokémon video game released in Japan?",
@@ -590,17 +535,7 @@
     "hint": "The games were Pokémon Red and Green, released for the Game Boy."
   },
   {
-    "question": "As of 2026, how much does a Chick-fil-A Original Chicken Sandwich meal cost in the US in dollars?",
-    "answer": "11.49",
-    "hint": "It includes a sandwich, medium waffle fries, and a drink — a classic fast food combo."
-  },
-  {
-    "question": "As of 2026, how much does the average Broadway show ticket cost in the US in dollars?",
-    "answer": "128",
-    "hint": "Prices vary widely but this is a commonly cited average across all Broadway productions."
-  },
-  {
-    "question": "How much did the US government pay France for the Gadsden Purchase in dollars?",
+    "question": "How much did the US government pay Mexico for the Gadsden Purchase in dollars?",
     "answer": "10,000,000",
     "hint": "It was an 1853 land deal that added parts of present-day Arizona and New Mexico."
   },
@@ -610,9 +545,9 @@
     "hint": "It was famously constructed at a record-breaking pace during the Great Depression."
   },
   {
-    "question": "How many months did it take to film the movie 'The Lord of the Rings' trilogy simultaneously?",
-    "answer": "16",
-    "hint": "The entire trilogy was shot back-to-back in New Zealand starting in 1999."
+    "question": "How many months did principal photography for 'The Lord of the Rings' trilogy last?",
+    "answer": "15",
+    "hint": "The entire trilogy was shot back-to-back in New Zealand, starting in October 1999."
   },
   {
     "question": "How many years did it take to complete the construction of the Hoover Dam?",
@@ -640,24 +575,9 @@
     "hint": "It came out in 2022, over 35 years after the original, and became Tom Cruise's biggest hit ever."
   },
   {
-    "question": "How many career three-pointers did Stephen Curry make in the NBA, setting the all-time record as of 2026?",
-    "answer": "3,747",
-    "hint": "He surpassed Ray Allen's record in 2021 and has continued adding to his total with the Golden State Warriors."
-  },
-  {
     "question": "What year did the Roman Empire officially fall (Western Roman Empire)?",
     "answer": "476",
     "hint": "It happened in the 5th century AD, around the time barbarian tribes were overrunning Europe."
-  },
-  {
-    "question": "As of 2026, how much does a large Coca-Cola at a McDonald's in the US cost in dollars?",
-    "answer": "1.89",
-    "hint": "It's one of the cheaper items on the menu, though prices have risen from the famous $1 any-size era."
-  },
-  {
-    "question": "As of 2026, how much does the average one-bedroom apartment rent for per month in the US in dollars?",
-    "answer": "1,500",
-    "hint": "It varies wildly by city — think somewhere between a small Midwest town and a major coastal metro averaged out."
   },
   {
     "question": "How much did the US government pay France for the Louisiana Purchase per acre, in cents?",
@@ -680,24 +600,14 @@
     "hint": "It's much slower than light — a lightning bolt you see instantly might not be heard for several seconds from a distance."
   },
   {
-    "question": "How many career NBA points did LeBron James score, making him the all-time leading scorer?",
-    "answer": "40,000",
-    "hint": "He passed Kareem Abdul-Jabbar's record in 2023 and kept padding his total through the 2024-25 season."
-  },
-  {
     "question": "How many worldwide box office dollars did Jurassic Park (1993) gross in its original theatrical release?",
-    "answer": "1,029,000,000",
-    "hint": "It was a Steven Spielberg blockbuster that became one of the first films to cross the billion-dollar mark globally."
+    "answer": "912,000,000",
+    "hint": "It was a Steven Spielberg blockbuster that became the highest-grossing film of all time up to that point."
   },
   {
     "question": "How many career wins did Serena Williams accumulate in professional singles tennis matches?",
-    "answer": "857",
+    "answer": "858",
     "hint": "She won 23 Grand Slam singles titles over a career spanning more than two decades on the WTA tour."
-  },
-  {
-    "question": "As of 2026, how much does a movie ticket cost on average in the US in dollars?",
-    "answer": "15",
-    "hint": "Prices have risen significantly since the $5-ticket days — premium formats like IMAX push the average up considerably."
   },
   {
     "question": "How many episodes of 'Seinfeld' aired across all nine seasons?",
@@ -720,24 +630,14 @@
     "hint": "It came out around the same time as the iPad 2 and quickly became one of the best-selling games ever made."
   },
   {
-    "question": "As of 2026, how much does a Subway footlong sandwich cost on average in the US in dollars?",
-    "answer": "12.99",
-    "hint": "Subway used to famously sell these for five dollars during a promotional era that ended years ago."
-  },
-  {
     "question": "As of 2026, how much does a gallon of whole milk cost on average in the US in dollars?",
     "answer": "4.20",
     "hint": "It costs more than a dollar more than it did in 2000, and you can find it in basically every grocery store."
   },
   {
-    "question": "How much did the United States pay Spain for Florida in dollars?",
+    "question": "Under the 1819 Adams-Onís Treaty, how many dollars in claims did the United States agree to cover in exchange for Spain ceding Florida?",
     "answer": "5,000,000",
-    "hint": "The deal was made in 1819 and was considered a bargain — it was roughly half of what the US paid for Alaska decades later."
-  },
-  {
-    "question": "As of 2026, how much does an average Uber ride cost in the US in dollars?",
-    "answer": "25",
-    "hint": "Prices have risen significantly due to surge pricing and inflation — it's now comparable to a decent lunch for two people."
+    "hint": "The deal was made in 1819 and was considered a bargain — less than the $7.2 million the US later paid for Alaska."
   },
   {
     "question": "How many feet tall is the Burj Khalifa in Dubai, the world's tallest building?",
@@ -745,7 +645,7 @@
     "hint": "It's more than twice as tall as the Empire State Building and was completed around 2010."
   },
   {
-    "question": "How many career regular-season goals did Wayne Gretzky score combined with his career assists — what was his total career points record in the NHL?",
+    "question": "How many total career regular-season points (goals plus assists) did Wayne Gretzky record, the NHL record?",
     "answer": "2,857",
     "hint": "The Great One's assist total alone would still be the all-time NHL points record even without counting any of his goals."
   },
@@ -755,29 +655,14 @@
     "hint": "It was a small private dinner event lasting only about 15 minutes, held in Hollywood."
   },
   {
-    "question": "As of 2026, how much does a 12-pack of Coca-Cola cans cost on average at a US grocery store in dollars?",
-    "answer": "7.49",
-    "hint": "Soda prices have climbed in recent years; think somewhere between the cost of a coffee and a pizza."
-  },
-  {
     "question": "How many feet long is a standard American football field from end zone to end zone?",
     "answer": "360",
     "hint": "The playing field is 100 yards, but don't forget to include both end zones in your calculation."
   },
   {
-    "question": "How many calories are in a standard McDonald's Big Mac?",
-    "answer": "550",
-    "hint": "It's a double-patty burger with special sauce, lettuce, cheese, pickles, and onions on a sesame seed bun."
-  },
-  {
     "question": "How many career rushing yards did Walter Payton accumulate in the NFL, setting the record before Emmitt Smith?",
     "answer": "16,726",
     "hint": "Known as 'Sweetness,' he played for the Chicago Bears and was considered the greatest running back of his era."
-  },
-  {
-    "question": "How much did the movie 'Gone with the Wind' gross worldwide adjusted for inflation in dollars?",
-    "answer": "3,440,000,000",
-    "hint": "Released in 1939, it is widely considered the highest-grossing film of all time when adjusted for inflation."
   },
   {
     "question": "How many total episodes of 'The Office' (US version) aired across all nine seasons?",
@@ -805,19 +690,14 @@
     "hint": "It happened the year after the first Moon landing, and the phrase 'Houston, we have a problem' became iconic."
   },
   {
-    "question": "As of 2026, how much does a Wendy's Baconator combo meal cost in the US in dollars?",
-    "answer": "14.49",
-    "hint": "It's a premium fast food combo — think somewhere between a basic value meal and a sit-down restaurant entree."
-  },
-  {
     "question": "How many years did it take to build the Sydney Opera House?",
-    "answer": "16",
+    "answer": "14",
     "hint": "Construction started in the late 1950s and it opened in 1973 — it went way over schedule and budget."
   },
   {
-    "question": "How many miles long is the coastline of the continental United States?",
+    "question": "According to NOAA, how many miles long is the general coastline of the United States, including Alaska and Hawaii?",
     "answer": "12,383",
-    "hint": "Think about how much shoreline the Atlantic, Pacific, and Gulf coasts combined add up to."
+    "hint": "Alaska alone accounts for more than half of it — add the Atlantic, Gulf, Pacific and Arctic coasts together."
   },
   {
     "question": "How many career rushing yards did Emmitt Smith accumulate in the NFL, setting the all-time record?",
@@ -825,29 +705,14 @@
     "hint": "He passed Walter Payton's record and played most of his career with the Dallas Cowboys in the 1990s."
   },
   {
-    "question": "As of 2026, how much does a large popcorn at a typical US movie theater cost in dollars?",
-    "answer": "9.50",
-    "hint": "It's famously overpriced — more expensive than many grocery store items but less than your movie ticket."
-  },
-  {
     "question": "How many years did it take to complete the construction of the Washington Monument in Washington D.C.?",
     "answer": "36",
     "hint": "Construction was interrupted for decades due to funding problems and the Civil War — it wasn't a quick build."
   },
   {
-    "question": "How many feet per second does a bullet travel from a typical handgun?",
-    "answer": "1,100",
-    "hint": "It's often compared to just around the speed of sound — slightly below or right at that threshold."
-  },
-  {
     "question": "What year did the Chernobyl nuclear disaster occur?",
     "answer": "1986",
     "hint": "It happened during the Cold War era in Soviet Ukraine — the same decade as the Challenger space shuttle disaster."
-  },
-  {
-    "question": "As of 2026, how much does the average American spend annually on coffee in dollars?",
-    "answer": "1,100",
-    "hint": "Think about buying a couple of coffee shop drinks per week throughout the year — it adds up fast."
   },
   {
     "question": "How many career hat tricks did Wayne Gretzky score in the NHL?",
@@ -867,12 +732,7 @@
   {
     "question": "What year did the Great Fire of Chicago occur?",
     "answer": "1871",
-    "hint": "It happened after the Civil War but before the 20th century, in the same decade as the transcontinental railroad completion."
-  },
-  {
-    "question": "As of 2026, how much does the average domestic round-trip airfare cost in the US in dollars?",
-    "answer": "320",
-    "hint": "Think about what you'd expect to pay for a flight within the US — not a bargain basement deal, but not business class either."
+    "hint": "It happened a few years after the Civil War ended, just two years after the transcontinental railroad was completed."
   },
   {
     "question": "How many years did it take to build the Egyptian pyramids at Giza (the Great Pyramid of Khufu specifically)?",
@@ -885,17 +745,12 @@
     "hint": "The height was chosen deliberately to reference a very significant year in American history."
   },
   {
-    "question": "How many miles long is the coastline of Australia?",
-    "answer": "16,007",
-    "hint": "Australia is a continent-sized island nation — its coastline is significantly longer than the continental US coastline."
-  },
-  {
     "question": "How fast is the top speed of a cheetah in miles per hour?",
     "answer": "70",
     "hint": "It's the fastest land animal — faster than highway speed limits but slower than a commercial airplane."
   },
   {
-    "question": "How many career strikeouts did Reggie Jackson accumulate in his MLB career, earning the nickname 'Mr. October'?",
+    "question": "How many career strikeouts did Reggie Jackson, nicknamed 'Mr. October', accumulate in his MLB career?",
     "answer": "2,597",
     "hint": "He was known for both his power hitting and his high strikeout totals — think in the low thousands."
   },
@@ -910,16 +765,6 @@
     "hint": "He's widely considered the greatest wide receiver of all time — think in the low-to-mid twenty thousands."
   },
   {
-    "question": "How many total seasons did the TV show 'Grey's Anatomy' air through 2026?",
-    "answer": "22",
-    "hint": "It premiered in the mid-2000s and is one of the longest-running primetime medical dramas on American television."
-  },
-  {
-    "question": "How many calories are in a standard slice of plain cheese pizza from a major chain like Pizza Hut?",
-    "answer": "285",
-    "hint": "Think about a single slice from a medium pizza — more than a piece of bread but less than a full fast food burger."
-  },
-  {
     "question": "What year did the construction of the Berlin Wall begin?",
     "answer": "1961",
     "hint": "It divided East and West Germany for nearly three decades before famously coming down in 1989."
@@ -927,25 +772,15 @@
   {
     "question": "What year was the original Disneyland in California opened to the public?",
     "answer": "1955",
-    "hint": "Walt Disney himself hosted the televised opening day event, which was famously chaotic."
-  },
-  {
-    "question": "As of 2026, how much does a Burger King Whopper combo meal cost on average in the US in dollars?",
-    "answer": "12.49",
-    "hint": "Fast food prices have risen significantly since the pandemic; think in the $10–$15 range."
-  },
-  {
-    "question": "As of 2026, how much does the average American pay per month for a streaming service like Disney+ in the US in dollars?",
-    "answer": "13.99",
-    "hint": "It's one of the more affordable major streaming options, positioned below Netflix's standard plan."
+    "hint": "Walt Disney gave a dedication speech during the televised opening day, which was famously chaotic."
   },
   {
     "question": "How many years did it take to build the Transcontinental Railroad in the United States?",
-    "answer": "7",
+    "answer": "6",
     "hint": "Two companies built from opposite ends, meeting at Promontory Summit, Utah with a golden spike ceremony."
   },
   {
-    "question": "How many feet long is the wingspan of a Boeing 747 jumbo jet?",
+    "question": "How many feet long is the wingspan of a Boeing 747-400 jumbo jet?",
     "answer": "211",
     "hint": "It's often called the 'Queen of the Skies' — think about the width of a standard city block."
   },
@@ -990,7 +825,7 @@
     "hint": "This price is famously one of the best deals in retail history and hasn't changed since the 1980s."
   },
   {
-    "question": "How many feet tall is the Cn Tower in Toronto, Canada?",
+    "question": "How many feet tall is the CN Tower in Toronto, Canada?",
     "answer": "1,815",
     "hint": "It held the title of world's tallest freestanding structure for over 30 years."
   },
@@ -1000,8 +835,8 @@
     "hint": "He played for over 20 seasons and far surpassed the previous record held by Peyton Manning."
   },
   {
-    "question": "As of 2026, how much does a new Nintendo Switch 2 console cost in the US in dollars?",
-    "answer": "449",
+    "question": "What was the US launch price of the Nintendo Switch 2 console in dollars?",
+    "answer": "449.99",
     "hint": "Nintendo's latest console launched in 2025 and is priced higher than the original Switch."
   },
   {
@@ -1020,24 +855,9 @@
     "hint": "It was hosted in South America during the Great Depression era."
   },
   {
-    "question": "As of 2026, how much does a Taco Bell Crunchy Taco cost in the US in dollars?",
-    "answer": "2.19",
-    "hint": "It's one of the cheapest fast food items you can buy — think well under three dollars."
-  },
-  {
-    "question": "As of 2026, how much does the average American pay per month for car insurance in dollars?",
-    "answer": "179",
-    "hint": "It's more than a streaming service but less than most car payments — think in the low hundreds."
-  },
-  {
     "question": "How much did the United States pay for the purchase of the Virgin Islands from Denmark in dollars?",
     "answer": "25,000,000",
     "hint": "The deal was made during World War I — think in the tens of millions."
-  },
-  {
-    "question": "How many years did it take to build Stonehenge in its various phases?",
-    "answer": "1500",
-    "hint": "It wasn't built all at once — construction spanned many generations across prehistoric Britain."
   },
   {
     "question": "How many miles is it from New York City to London as the crow flies?",
@@ -1046,7 +866,7 @@
   },
   {
     "question": "How many feet tall is the Leaning Tower of Pisa on its tallest side?",
-    "answer": "183",
+    "answer": "186",
     "hint": "It's a medieval Italian bell tower — shorter than most skyscrapers but taller than a typical building."
   },
   {
@@ -1072,25 +892,10 @@
   {
     "question": "What year was the Eiffel Tower completed?",
     "answer": "1889",
-    "hint": "It was built for a World's Fair and was briefly the world's tallest structure."
+    "hint": "It was built for a World's Fair in Paris and remained the world's tallest structure for about four decades."
   },
   {
-    "question": "As of 2026, how much does a Popeyes Classic Chicken Sandwich combo meal cost in the US in dollars?",
-    "answer": "13.49",
-    "hint": "It went viral when it launched and sparked a fast food chicken sandwich war."
-  },
-  {
-    "question": "As of 2026, how much does the average American pay per month for their electric bill in dollars?",
-    "answer": "137",
-    "hint": "It varies widely by state and season but most households pay somewhere in the triple digits."
-  },
-  {
-    "question": "How many miles is it from the tip of Florida to the southernmost point of South America as the crow flies?",
-    "answer": "4,600",
-    "hint": "You would fly over the Caribbean, Central America, and most of South America to get there."
-  },
-  {
-    "question": "How fast does a commercial skydiver fall in miles per hour during a typical freefall?",
+    "question": "How fast does a skydiver in a belly-to-earth position fall in miles per hour during a typical freefall?",
     "answer": "120",
     "hint": "It is slower than the speed of sound but fast enough to feel extreme wind resistance on your body."
   },
@@ -1110,13 +915,43 @@
     "hint": "The show ran from 2005 to 2014 and its series finale was famously controversial with fans."
   },
   {
-    "question": "How many calories are in a standard Starbucks Grande Frappuccino (Caramel)?",
-    "answer": "420",
-    "hint": "It contains whipped cream and caramel drizzle on top and is closer to a dessert than a coffee."
-  },
-  {
     "question": "How many feet tall is the Rockefeller Center's 30 Rock skyscraper in New York City?",
     "answer": "850",
     "hint": "It is located in Midtown Manhattan and was completed in the 1930s during the Art Deco era."
+  },
+  {
+    "question": "What year did the construction of the Suez Canal begin?",
+    "answer": "1859",
+    "hint": "It opened about 10 years later and connected the Mediterranean to the Red Sea."
+  },
+  {
+    "question": "What year was the first successful powered airplane flight by the Wright Brothers?",
+    "answer": "1903",
+    "hint": "It happened at Kitty Hawk, North Carolina."
+  },
+  {
+    "question": "What year did William Shakespeare die?",
+    "answer": "1616",
+    "hint": "He died in the same year as Miguel de Cervantes, author of Don Quixote."
+  },
+  {
+    "question": "As of 2026, how much does a standard McDonald's Big Mac cost on average in the US in dollars?",
+    "answer": "5.99",
+    "hint": "It's the chain's most iconic burger and costs under ten dollars at most locations."
+  },
+  {
+    "question": "How many miles long is the Colorado River from its source to its mouth?",
+    "answer": "1,450",
+    "hint": "It carved the Grand Canyon and its basin spans seven US states before the river reaches Mexico."
+  },
+  {
+    "question": "How many feet per second does sound travel through water?",
+    "answer": "4,921",
+    "hint": "Sound travels much faster through water than through air, which moves at about 1,125 feet per second."
+  },
+  {
+    "question": "How many worldwide box office dollars did Toy Story 4 (2019) gross in its theatrical release?",
+    "answer": "1,073,394,593",
+    "hint": "It was the fourth installment of Pixar's beloved franchise and crossed the billion-dollar mark."
   }
 ]

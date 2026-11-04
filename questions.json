@@ -44,9 +44,9 @@
     {
       "id": 8,
       "category": "Sports",
-      "question": "Which city has hosted the Summer Olympics three times?",
+      "question": "Which city was the first to host the Summer Olympics three times?",
       "answer": "London",
-      "hint": "The capital of England — hosted in 1908, 1948, and 2012",
+      "hint": "A European capital whose third Games were in 2012",
       "difficulty": 2
     },
     {
@@ -61,7 +61,7 @@
       "id": 11,
       "category": "History & Geography",
       "question": "In which country did the Industrial Revolution begin?",
-      "answer": "England",
+      "answer": "Great Britain (accept England or the UK)",
       "hint": "Think factories, steam engines, and tea",
       "difficulty": 2
     },
@@ -77,9 +77,9 @@
     {
       "id": 17,
       "category": "Sports",
-      "question": "What is the only sport to have been played on the moon?",
+      "question": "What sport did astronaut Alan Shepard play on the moon during Apollo 14?",
       "answer": "Golf",
-      "hint": "Alan Shepard hit a ball during Apollo 14 — uses clubs",
+      "hint": "Uses clubs and a small white ball",
       "difficulty": 2
     },
     {
@@ -88,14 +88,6 @@
       "question": "Which side of the brain deals with language?",
       "answer": "Left",
       "hint": "It's the opposite of right — in both senses",
-      "difficulty": 2
-    },
-    {
-      "id": 20,
-      "category": "History & Geography",
-      "question": "What is the capital of Indiana?",
-      "answer": "Indianapolis",
-      "hint": "It's the state name + a Greek word for city",
       "difficulty": 2
     },
     {
@@ -119,7 +111,7 @@
       "category": "Science",
       "question": "What is the chemical symbol for gold?",
       "answer": "Au",
-      "hint": "Two-letter symbol derived from a Latin word meaning \"shining dawn\"",
+      "hint": "Two-letter symbol from the Latin word 'aurum'",
       "difficulty": 2
     },
     {
@@ -151,7 +143,7 @@
       "category": "Science",
       "question": "What type of animal is a seahorse?",
       "answer": "Fish",
-      "hint": "Despite its name, it lives underwater and has gills",
+      "hint": "Despite its name, it's not a horse — it has gills and fins",
       "difficulty": 2
     },
     {
@@ -165,7 +157,7 @@
     {
       "id": 39,
       "category": "TV & Movies",
-      "question": "Who won a daytime Emmy, was a WWII volunteer, and is an avid animal welfare advocate?",
+      "question": "Who won a daytime Emmy, was a WWII volunteer, and was an avid animal welfare advocate?",
       "answer": "Betty White",
       "hint": "She lived to 99 — starred in The Golden Girls",
       "difficulty": 2
@@ -176,14 +168,6 @@
       "question": "What is the name of the lowest male voice in a choir?",
       "answer": "Bass",
       "hint": "Four letters — also a type of guitar and a fish",
-      "difficulty": 2
-    },
-    {
-      "id": 44,
-      "category": "Sports",
-      "question": "What NFL team has won the most Super Bowls?",
-      "answer": "New England Patriots",
-      "hint": "Tom Brady played most of his career here — based in the Boston area",
       "difficulty": 2
     },
     {
@@ -213,7 +197,7 @@
     {
       "id": 54,
       "category": "History & Geography",
-      "question": "What type of bridge has cables that hang from tall towers?",
+      "question": "What type of bridge has its deck hung from main cables strung between tall towers?",
       "answer": "Suspension bridge",
       "hint": "Two words — the Golden Gate Bridge is this type",
       "difficulty": 2
@@ -230,8 +214,8 @@
       "id": 56,
       "category": "History & Geography",
       "question": "Besides Germany, name a nation that was part of the Axis powers in World War II.",
-      "answer": "Italy or Japan",
-      "hint": "One is in Europe, the other in Asia — both fought alongside Germany",
+      "answer": "Italy or Japan (also accept Hungary, Romania, Bulgaria)",
+      "hint": "The two best-known ones are in Europe and Asia",
       "difficulty": 2
     },
     {
@@ -311,8 +295,8 @@
       "id": 82,
       "category": "Science",
       "question": "What part of the eye controls how much light enters?",
-      "answer": "Pupil",
-      "hint": "It's the dark circle in the center of your eye — also a word for a student",
+      "answer": "Iris",
+      "hint": "The colored part of your eye — also a flower",
       "difficulty": 2
     },
     {
@@ -421,7 +405,7 @@
     },
     {
       "category": "Math",
-      "question": "What is the only number that is neither prime nor composite?",
+      "question": "What is the only positive integer that is neither prime nor composite?",
       "answer": "1",
       "hint": "The smallest positive integer — it only has one factor",
       "difficulty": 2,
@@ -432,7 +416,7 @@
       "id": 116,
       "category": "Sports",
       "question": "What gymnastic apparatus consists of two parallel bars set at different heights?",
-      "answer": "Uneven bars",
+      "answer": "Uneven bars (also accept asymmetric bars)",
       "hint": "Two words — one bar is higher than the other, used in women's gymnastics",
       "difficulty": 2
     },
@@ -494,7 +478,7 @@
     },
     {
       "category": "Sports",
-      "question": "In basketball, how far is the three-point line from the basket in the NBA?",
+      "question": "In the NBA, how far is the three-point line from the basket at the top of the arc?",
       "answer": "23 feet 9 inches",
       "hint": "Almost 24 feet — farther than in college basketball",
       "difficulty": 2,
@@ -505,7 +489,7 @@
       "category": "Science",
       "question": "What particle in an atom has a negative charge?",
       "answer": "Electron",
-      "hint": "It orbits the nucleus — the word 'electric' comes from it",
+      "hint": "It orbits the nucleus — its name comes from the Greek word for amber",
       "difficulty": 2
     },
     {
@@ -518,7 +502,7 @@
     },
     {
       "category": "Sports",
-      "question": "What is the term for a wrestling move where you grab an opponent around the waist from behind?",
+      "question": "What is the term for a wrestling hold where you wrap your arms around an opponent's torso from the front and squeeze?",
       "answer": "Bear hug",
       "hint": "Two words — named after the embrace of a large forest animal",
       "difficulty": 2,
@@ -568,7 +552,7 @@
     {
       "id": 155,
       "category": "History & Geography",
-      "question": "What ancient city was buried by the eruption of Mount Vesuvius in 79 AD?",
+      "question": "Starting with P, what ancient Roman city was buried by the eruption of Mount Vesuvius in 79 AD?",
       "answer": "Pompeii",
       "hint": "A Roman city near Naples — preserved under volcanic ash",
       "difficulty": 2
@@ -592,7 +576,7 @@
     {
       "category": "History & Geography",
       "question": "What type of map uses contour lines to show elevation?",
-      "answer": "Topographic map",
+      "answer": "Topographic map (also accept contour map)",
       "hint": "Two words — 'topo' relates to the surface of the land",
       "difficulty": 2,
       "id": 162
@@ -625,7 +609,7 @@
       "category": "Sports",
       "question": "In what year were women first allowed to compete in the modern Olympic Games?",
       "answer": "1900",
-      "hint": "The first year of the 20th century — the Paris Olympics",
+      "hint": "The year the Paris Olympics were held — a round number at the turn of the century",
       "difficulty": 2,
       "id": 170,
       "numeric_type": "exact"
@@ -665,9 +649,9 @@
     {
       "id": 181,
       "category": "Science",
-      "question": "What is the term for the distance light travels in one year?",
+      "question": "What unit of distance, roughly 5.88 trillion miles, is used to say the nearest star beyond the Sun is about 4.2 of them away?",
       "answer": "Light-year",
-      "hint": "It's a unit of distance, not time — about 5.88 trillion miles",
+      "hint": "Despite its name, it measures distance, not time — two words joined by a hyphen",
       "difficulty": 2
     },
     {
@@ -721,7 +705,7 @@
     },
     {
       "category": "Science",
-      "question": "What scientific instrument separates light into its component colors?",
+      "question": "What triangular block of glass splits white light into its component colors?",
       "answer": "Prism",
       "hint": "Five letters — Pink Floyd's Dark Side of the Moon album cover shows one",
       "difficulty": 2,
@@ -777,9 +761,9 @@
     },
     {
       "category": "Science",
-      "question": "What is the only organ in the human body that can regenerate itself?",
+      "question": "What human organ can regrow to nearly full size even after most of it is removed?",
       "answer": "Liver",
-      "hint": "It can regrow up to 75% of its tissue — five letters",
+      "hint": "Five letters — it processes alcohol",
       "difficulty": 2,
       "id": 217
     },
@@ -790,14 +774,6 @@
       "answer": "Marshall Plan",
       "hint": "Named after US Secretary of State George Marshall — two words",
       "difficulty": 2
-    },
-    {
-      "category": "TV & Movies",
-      "question": "What was the first Pixar movie to receive a PG-13 rating?",
-      "answer": "Turning Red",
-      "hint": "Two words — set in Toronto, about a girl who turns into a red panda",
-      "difficulty": 2,
-      "id": 219
     },
     {
       "category": "Science",
@@ -818,7 +794,7 @@
     {
       "category": "TV & Movies",
       "question": "What anime series features a boy named Goku who collects mystical orbs?",
-      "answer": "Dragon Ball",
+      "answer": "Dragon Ball (also accept Dragon Ball Z / Super)",
       "hint": "Two words — the orbs grant wishes when all seven are gathered",
       "difficulty": 2,
       "id": 228
@@ -961,15 +937,6 @@
       "id": 264
     },
     {
-      "id": 269,
-      "category": "Sports",
-      "question": "How many Jeopardy games must a contestant win to qualify for the Tournament of Champions?",
-      "answer": "5",
-      "hint": "Same number as fingers on one hand",
-      "difficulty": 3,
-      "numeric_type": "exact"
-    },
-    {
       "id": 270,
       "category": "Sports",
       "question": "What playground structure features an octagonal pit where players dodge a ball?",
@@ -1019,9 +986,9 @@
     },
     {
       "category": "TV & Movies",
-      "question": "In the TV show The Office, what city is the Scranton branch located in?",
-      "answer": "Scranton, Pennsylvania",
-      "hint": "A city in northeastern PA — the answer is in the question",
+      "question": "In the TV show The Office, in what Pennsylvania city is the Dunder Mifflin branch located?",
+      "answer": "Scranton",
+      "hint": "A city in northeastern Pennsylvania — it also lends its name to the branch",
       "difficulty": 2,
       "id": 282
     },
@@ -1030,7 +997,7 @@
       "category": "Sports",
       "question": "In track and field, how many hurdles are in a 110-meter hurdles race?",
       "answer": "10",
-      "hint": "A nice round number — same as the number of lanes on a track",
+      "hint": "A nice round number — double digits",
       "difficulty": 3,
       "numeric_type": "exact"
     },
@@ -1060,15 +1027,6 @@
       "id": 291
     },
     {
-      "id": 296,
-      "category": "Sports",
-      "question": "How many dimples are on a standard golf ball?",
-      "answer": "336",
-      "hint": "Between 300 and 400 — they help the ball fly farther",
-      "difficulty": 3,
-      "numeric_type": "approximation"
-    },
-    {
       "category": "Science",
       "question": "What is the name for the point at which a substance changes from solid to liquid?",
       "answer": "Melting point",
@@ -1086,9 +1044,9 @@
     },
     {
       "category": "TV & Movies",
-      "question": "What is the name of the fictional country where the movie Borat is supposedly from?",
+      "question": "In the movie Borat, what country is the title character supposedly from?",
       "answer": "Kazakhstan",
-      "hint": "A real Central Asian country — the character is a fictional version of a journalist from there",
+      "hint": "A real Central Asian country — the largest landlocked country in the world",
       "difficulty": 2,
       "id": 300
     },
@@ -1118,9 +1076,9 @@
     },
     {
       "category": "Sports",
-      "question": "How many total squares are on a chess board?",
+      "question": "Counting every square of every size, from 1x1 up to 8x8, how many squares are on a chess board?",
       "answer": "204",
-      "hint": "Not just 64 — count all possible square sizes (1x1, 2x2, 3x3, etc.)",
+      "hint": "Far more than 64 — add up 1x1, 2x2, 3x3 and so on",
       "difficulty": 3,
       "id": 314,
       "numeric_type": "exact"
@@ -1134,25 +1092,17 @@
       "id": 316
     },
     {
-      "category": "History & Geography",
-      "question": "What is the most spoken language in South America?",
-      "answer": "Portuguese",
-      "hint": "Not Spanish — spoken in the continent's largest country",
-      "difficulty": 2,
-      "id": 317
-    },
-    {
       "category": "Sports",
-      "question": "What is the record for most consecutive wins in men's professional tennis?",
-      "answer": "49",
-      "hint": "Held by Guillermo Vilas — just under 50",
+      "question": "What is the record for most consecutive match wins in men's Open Era tennis?",
+      "answer": "46",
+      "hint": "Held by Guillermo Vilas since 1977 — in the mid-40s",
       "difficulty": 3,
       "id": 323,
       "numeric_type": "approximation"
     },
     {
       "category": "Science",
-      "question": "What rare atmospheric phenomenon creates a circular rainbow around the sun?",
+      "question": "What atmospheric phenomenon creates a circular rainbow-like ring around the sun?",
       "answer": "Halo (22-degree halo)",
       "hint": "Four letters — caused by ice crystals in cirrus clouds",
       "difficulty": 3,
@@ -1165,14 +1115,6 @@
       "hint": "Two words — the letter and a word meaning minus",
       "difficulty": 2,
       "id": 325
-    },
-    {
-      "category": "History & Geography",
-      "question": "What African country is the only one never colonized by a European power?",
-      "answer": "Ethiopia",
-      "hint": "Located in East Africa — it maintained independence through two Italian invasion attempts",
-      "difficulty": 2,
-      "id": 326
     },
     {
       "category": "Sports",
@@ -1193,9 +1135,9 @@
     },
     {
       "category": "Science",
-      "question": "What is the process by which rocks are broken down by wind, water, and ice?",
+      "question": "What is the process by which rocks are broken down in place by wind, water, and ice, without being carried away?",
       "answer": "Weathering",
-      "hint": "The gradual process — can be physical, chemical, or biological",
+      "hint": "Not erosion — it can be physical, chemical, or biological",
       "difficulty": 2,
       "id": 334
     },
@@ -1206,14 +1148,6 @@
       "hint": "Two words — it runs through Greenwich, England",
       "difficulty": 2,
       "id": 335
-    },
-    {
-      "category": "Sports",
-      "question": "What was the first country outside of the UK to play football (soccer)?",
-      "answer": "Denmark",
-      "hint": "A Scandinavian nation — they played their first match in 1889",
-      "difficulty": 3,
-      "id": 340
     },
     {
       "category": "Science",
@@ -1235,7 +1169,7 @@
       "category": "Sports",
       "question": "How many weight classes are in Olympic boxing for men?",
       "answer": "7",
-      "hint": "Reduced from the previous number for the 2020 Olympics — a single digit",
+      "hint": "Reduced for the Paris 2024 Olympics — a single digit",
       "difficulty": 3,
       "id": 348,
       "numeric_type": "exact"
@@ -1251,18 +1185,10 @@
     {
       "category": "Science",
       "question": "What is the term for an organism that makes its own food using sunlight?",
-      "answer": "Autotroph",
+      "answer": "Autotroph (also accept photoautotroph or producer)",
       "hint": "Nine letters — 'auto' means self, 'troph' means feeding",
       "difficulty": 2,
       "id": 350
-    },
-    {
-      "category": "History & Geography",
-      "question": "What is the world's most visited city by international tourists?",
-      "answer": "Bangkok",
-      "hint": "The capital of Thailand — seven letters",
-      "difficulty": 2,
-      "id": 351
     },
     {
       "id": 352,
@@ -1272,14 +1198,6 @@
       "hint": "Mid-90s — the same year Windows 95 came out",
       "difficulty": 3,
       "numeric_type": "exact"
-    },
-    {
-      "category": "Sports",
-      "question": "What is the only team sport where the defending team has possession of the ball?",
-      "answer": "Baseball",
-      "hint": "America's pastime — the pitcher and catcher have the ball",
-      "difficulty": 3,
-      "id": 356
     },
     {
       "category": "Science",
@@ -1301,7 +1219,7 @@
       "category": "Sports",
       "question": "What is the width of an NFL goal post crossbar in feet?",
       "answer": "18 feet 6 inches",
-      "hint": "A little over 18 feet — the same at every level of football",
+      "hint": "A little over 18 feet — the same width as in college football",
       "difficulty": 3,
       "id": 363
     },
@@ -1428,15 +1346,6 @@
       "numeric_type": "exact"
     },
     {
-      "category": "Sports",
-      "question": "How many total games are possible in a best-of-seven playoff series?",
-      "answer": "7",
-      "hint": "The series ends when one team wins 4 — the maximum is when it goes the distance",
-      "difficulty": 3,
-      "id": 394,
-      "numeric_type": "exact"
-    },
-    {
       "category": "Science",
       "question": "What type of lens is thicker in the middle and thinner at the edges?",
       "answer": "Convex lens",
@@ -1456,7 +1365,7 @@
       "category": "Math",
       "question": "What is the only number whose letters are in alphabetical order when spelled out?",
       "answer": "Forty",
-      "hint": "Five letters — F-O-R-T-Y, each comes after the previous alphabetically",
+      "hint": "Five letters — it's a multiple of ten",
       "difficulty": 3,
       "id": 398
     },
@@ -1489,13 +1398,13 @@
       "category": "Science",
       "question": "What is considered the first phase of mitosis?",
       "answer": "Prophase",
-      "hint": "It starts with 'Pro'",
+      "hint": "Chromosomes condense and become visible during this phase",
       "difficulty": 3
     },
     {
       "id": 403,
       "category": "History & Geography",
-      "question": "Which 13th-century British document declared that no one, including the king, is above the law?",
+      "question": "Which 13th-century English document established that no one, including the king, is above the law?",
       "answer": "Magna Carta",
       "hint": "Two Latin words meaning 'Great Charter'",
       "difficulty": 3
@@ -1537,8 +1446,8 @@
     {
       "id": 409,
       "category": "History & Geography",
-      "question": "Off which Australian coast is the Great Barrier Reef located?",
-      "answer": "Queensland (northeast coast)",
+      "question": "Off the coast of which Australian state is the Great Barrier Reef located?",
+      "answer": "Queensland",
       "hint": "This Australian state starts with Q",
       "difficulty": 3
     },
@@ -1561,9 +1470,9 @@
     {
       "id": 412,
       "category": "History & Geography",
-      "question": "Name a country that borders directly north of Hungary.",
-      "answer": "Slovakia or Ukraine",
-      "hint": "One starts with S, the other with U — both are in Eastern Europe",
+      "question": "Which country borders Hungary directly to the north?",
+      "answer": "Slovakia",
+      "hint": "Its capital, Bratislava, sits on the Danube near the Austrian border",
       "difficulty": 3
     },
     {
@@ -1585,7 +1494,7 @@
     {
       "id": 415,
       "category": "History & Geography",
-      "question": "What organization was founded in 1919 after World War I to maintain world peace?",
+      "question": "What international organization was founded in 1920 after World War I to maintain world peace?",
       "answer": "League of Nations",
       "hint": "Three words — it came before the United Nations",
       "difficulty": 3
@@ -1617,9 +1526,9 @@
     {
       "id": 421,
       "category": "History & Geography",
-      "question": "What strait separates Europe from Asia in Turkey?",
+      "question": "What narrow strait running through Istanbul separates Europe from Asia?",
       "answer": "Bosphorus",
-      "hint": "It runs through Istanbul — starts with B",
+      "hint": "It connects the Black Sea to the Sea of Marmara — starts with B",
       "difficulty": 3
     },
     {
@@ -1647,14 +1556,6 @@
       "id": 424
     },
     {
-      "id": 425,
-      "category": "History & Geography",
-      "question": "What is the only country that spans both Europe and Asia?",
-      "answer": "Turkey",
-      "hint": "Its largest city, Istanbul, sits on both continents — also a bird",
-      "difficulty": 3
-    },
-    {
       "category": "Science",
       "question": "What is the name of the theoretical boundary around a black hole beyond which nothing can escape?",
       "answer": "Event horizon",
@@ -1672,7 +1573,7 @@
     },
     {
       "category": "Science",
-      "question": "What element has the highest melting point of all elements?",
+      "question": "What metal has the highest melting point of all metals?",
       "answer": "Tungsten",
       "hint": "Chemical symbol W — used in light bulb filaments",
       "difficulty": 3,
@@ -1720,7 +1621,7 @@
     },
     {
       "category": "History & Geography",
-      "question": "What island nation is the most densely populated country in the world?",
+      "question": "What country is the most densely populated in the world?",
       "answer": "Monaco",
       "hint": "A tiny principality on the French Riviera — famous for its Grand Prix",
       "difficulty": 3,
@@ -1745,19 +1646,11 @@
     },
     {
       "category": "Science",
-      "question": "What is the name of the effect where light frequency shifts when a source moves toward or away from an observer?",
+      "question": "What is the name of the effect where the frequency of a wave, such as sound or light, shifts when its source moves toward or away from an observer?",
       "answer": "Doppler effect",
       "hint": "Named after an Austrian physicist — two words, explains why ambulance sirens change pitch",
       "difficulty": 3,
       "id": 438
-    },
-    {
-      "category": "History & Geography",
-      "question": "What ancient civilization invented the concept of zero as a number?",
-      "answer": "Maya (or Indian)",
-      "hint": "A Mesoamerican civilization known for its calendar — or a South Asian one",
-      "difficulty": 3,
-      "id": 439
     },
     {
       "category": "Science",
@@ -1818,14 +1711,6 @@
     },
     {
       "category": "Science",
-      "question": "What is the name of the largest known structure in the universe?",
-      "answer": "Hercules-Corona Borealis Great Wall",
-      "hint": "A galactic filament — named after two constellations",
-      "difficulty": 3,
-      "id": 448
-    },
-    {
-      "category": "Science",
       "question": "What physicist proposed the uncertainty principle in quantum mechanics?",
       "answer": "Werner Heisenberg",
       "hint": "A German physicist — his last name also inspired a TV character's alias",
@@ -1858,7 +1743,7 @@
     },
     {
       "category": "Science",
-      "question": "What is the name of the phenomenon where entangled particles instantaneously affect each other regardless of distance?",
+      "question": "What is the name of the quantum phenomenon where linked particles instantaneously affect each other regardless of distance?",
       "answer": "Quantum entanglement",
       "hint": "Two words — Einstein called it 'spooky action at a distance'",
       "difficulty": 3,
@@ -1867,8 +1752,8 @@
     {
       "category": "Science",
       "question": "What is the approximate speed of light in a vacuum in meters per second?",
-      "answer": "299,792,458 m/s",
-      "hint": "Roughly 300 million meters per second — an exact defined constant",
+      "answer": "About 300,000,000 m/s (exactly 299,792,458 m/s)",
+      "hint": "An exact defined constant — about 300 million meters per second",
       "difficulty": 3,
       "id": 456
     },
@@ -1882,7 +1767,7 @@
     },
     {
       "category": "Science",
-      "question": "What rare blood type is sometimes called 'golden blood' because fewer than 50 people are known to have it?",
+      "question": "What rare blood type is sometimes called 'golden blood' because only about 50 people are known to have it?",
       "answer": "Rh-null",
       "hint": "Two parts — it lacks all Rh antigens entirely",
       "difficulty": 3,
@@ -1923,7 +1808,7 @@
     {
       "category": "History & Geography",
       "question": "What civilization built the ancient city of Mohenjo-daro?",
-      "answer": "Indus Valley civilization",
+      "answer": "Indus Valley civilization (also accept Harappan civilization)",
       "hint": "Three words — one of the world's earliest urban societies, in modern Pakistan",
       "difficulty": 3,
       "id": 463
@@ -1995,7 +1880,7 @@
     {
       "category": "Sports",
       "question": "In tennis, what is the term for when a player wins a set 6-0?",
-      "answer": "Bagel",
+      "answer": "Bagel (also accept 'love set')",
       "hint": "The score's shape inspired this delicious nickname.",
       "difficulty": 2,
       "id": 543
@@ -2019,7 +1904,7 @@
     {
       "id": 551,
       "category": "Science",
-      "question": "What type of animal is a Portuguese man-of-war?",
+      "question": "The Portuguese man-of-war isn't a true jellyfish but a colony of organisms known as what?",
       "answer": "Siphonophore",
       "hint": "It's often mistaken for a jellyfish but isn't one",
       "difficulty": 3
@@ -2028,7 +1913,7 @@
       "id": 557,
       "category": "Science",
       "question": "What phenomenon causes the Northern Lights?",
-      "answer": "Solar wind",
+      "answer": "Solar wind (accept charged particles from the Sun hitting the atmosphere)",
       "hint": "Charged particles from the sun interact with Earth's magnetic field",
       "difficulty": 2
     },
@@ -2171,9 +2056,9 @@
     {
       "id": 658,
       "category": "Sports",
-      "question": "What is the national sport of Canada?",
+      "question": "What is Canada's official national summer sport?",
       "answer": "Lacrosse",
-      "hint": "It's not hockey — that's the national winter sport",
+      "hint": "Hockey is the national winter sport",
       "difficulty": 2
     },
     {
@@ -2201,14 +2086,6 @@
       "difficulty": 3
     },
     {
-      "id": 680,
-      "category": "Science",
-      "question": "What animal has the largest brain relative to its body size?",
-      "answer": "Ant",
-      "hint": "It's tiny but mighty",
-      "difficulty": 3
-    },
-    {
       "id": 682,
       "category": "Science",
       "question": "What is the most abundant metal in Earth's crust?",
@@ -2225,18 +2102,10 @@
       "difficulty": 2
     },
     {
-      "id": 684,
-      "category": "Science",
-      "question": "What animal can sleep for up to three years?",
-      "answer": "Snail",
-      "hint": "Carries its house",
-      "difficulty": 2
-    },
-    {
       "id": 688,
       "category": "Science",
-      "question": "What is the only letter not found on the periodic table?",
-      "answer": "J",
+      "question": "What two letters of the alphabet don't appear in any element symbol on the periodic table?",
+      "answer": "J and Q",
       "hint": "Think about element symbols",
       "difficulty": 2
     },
@@ -2261,7 +2130,7 @@
       "category": "History & Geography",
       "question": "What river runs through the Grand Canyon?",
       "answer": "Colorado River",
-      "hint": "Named after a US state",
+      "hint": "Shares its name with a US state",
       "difficulty": 2
     },
     {
@@ -2316,8 +2185,8 @@
       "id": 714,
       "category": "TV & Movies",
       "question": "What TV sitcom is set in a bar called Paddy's Pub?",
-      "answer": "It's Always Sunny",
-      "hint": "Set in Philadelphia",
+      "answer": "It's Always Sunny in Philadelphia",
+      "hint": "Danny DeVito plays Frank Reynolds",
       "difficulty": 2
     },
     {
@@ -2353,19 +2222,11 @@
       "difficulty": 2
     },
     {
-      "id": 771,
-      "category": "Science",
-      "question": "What common household item contains a gyroscope that spins at over 100,000 RPM?",
-      "answer": "A hard drive",
-      "hint": "It stores your computer's data",
-      "difficulty": 2
-    },
-    {
       "id": 772,
       "category": "Science",
-      "question": "What animal can survive being frozen solid and then thawed back to life?",
+      "question": "What North American frog can survive being frozen solid and then thawed back to life?",
       "answer": "Wood frog",
-      "hint": "It's an amphibian found in North America",
+      "hint": "It lives in forests as far north as Alaska",
       "difficulty": 2
     },
     {
@@ -2373,7 +2234,7 @@
       "category": "Science",
       "question": "What common yellow fruit is technically classified as a berry by botanists?",
       "answer": "Banana",
-      "hint": "It's the yellow one",
+      "hint": "It grows in bunches called 'hands'",
       "difficulty": 2
     },
     {
@@ -2395,9 +2256,9 @@
     {
       "id": 778,
       "category": "Science",
-      "question": "What animal has blue blood?",
+      "question": "What animal's blue blood is harvested to test vaccines and medical equipment for bacterial contamination?",
       "answer": "Horseshoe crab",
-      "hint": "Its blood is used to test vaccine safety",
+      "hint": "Despite its name, it's more closely related to spiders than to crabs",
       "difficulty": 3
     },
     {
@@ -2407,30 +2268,6 @@
       "answer": "Hyoid",
       "hint": "It's in your throat and helps you speak",
       "difficulty": 3
-    },
-    {
-      "id": 782,
-      "category": "Science",
-      "question": "What percentage of the ocean floor has been mapped in detail?",
-      "answer": "About 25%",
-      "hint": "We know more about the Moon's surface",
-      "difficulty": 2
-    },
-    {
-      "id": 783,
-      "category": "Science",
-      "question": "What animal sleeps with one eye open?",
-      "answer": "Dolphin",
-      "hint": "Half its brain stays awake while swimming",
-      "difficulty": 2
-    },
-    {
-      "id": 784,
-      "category": "Science",
-      "question": "What common kitchen spice was once worth more than gold by weight?",
-      "answer": "Saffron",
-      "hint": "It comes from crocus flowers and is bright red-orange",
-      "difficulty": 2
     },
     {
       "id": 787,
@@ -2484,7 +2321,7 @@
     {
       "id": 807,
       "category": "TV & Movies",
-      "question": "What actor voiced both Donkey in Shrek and the Genie in Aladdin... wait, those were different actors. Who voiced Donkey?",
+      "question": "Who voiced Donkey in the Shrek movies?",
       "answer": "Eddie Murphy",
       "hint": "He's also known for Beverly Hills Cop",
       "difficulty": 2
@@ -2492,7 +2329,7 @@
     {
       "id": 808,
       "category": "TV & Movies",
-      "question": "What Netflix documentary about a tiger zoo owner became a massive hit in 2020?",
+      "question": "What 2020 Netflix docuseries about big-cat zoo owners became a massive pandemic hit?",
       "answer": "Tiger King",
       "hint": "Joe Exotic is the main subject",
       "difficulty": 2
@@ -2532,9 +2369,9 @@
     {
       "id": 840,
       "category": "Math",
-      "question": "What is the only number that is twice the sum of its digits?",
+      "question": "What is the only positive whole number that is exactly twice the sum of its digits?",
       "answer": "18",
-      "hint": "1 + 8 = 9, and 9 x 2 = ?",
+      "hint": "It's a two-digit number between 10 and 20",
       "difficulty": 2,
       "numeric_type": "exact"
     },
@@ -2597,19 +2434,11 @@
       "difficulty": 2
     },
     {
-      "id": 858,
-      "category": "Sports",
-      "question": "What country invented the sport of badminton?",
-      "answer": "India",
-      "hint": "It was originally called 'Poona' and was brought to England",
-      "difficulty": 3
-    },
-    {
       "id": 871,
       "category": "Sports",
-      "question": "Who won the 2025 NFL MVP award at age 37, becoming the oldest first-time winner since 1963?",
+      "question": "Which LA Rams quarterback won the NFL MVP award for the 2025 season, the first MVP of his career?",
       "answer": "Matthew Stafford",
-      "hint": "LA Rams quarterback — threw 46 touchdowns that season",
+      "hint": "He won a Super Bowl with the Rams after many years with the Detroit Lions",
       "difficulty": 2
     },
     {
@@ -2621,27 +2450,11 @@
       "difficulty": 2
     },
     {
-      "id": 873,
-      "category": "Sports",
-      "question": "Who won back-to-back NBA MVP awards with the Oklahoma City Thunder in 2025 and 2026?",
-      "answer": "Shai Gilgeous-Alexander",
-      "hint": "Canadian guard — led OKC to a 64-win season",
-      "difficulty": 2
-    },
-    {
       "id": 874,
       "category": "Sports",
       "question": "What team won Super Bowl LX, beating the New England Patriots 29-13?",
       "answer": "Seattle Seahawks",
       "hint": "Their running back Kenneth Walker III won MVP",
-      "difficulty": 2
-    },
-    {
-      "id": 875,
-      "category": "Sports",
-      "question": "Who won the 2026 NBA Finals MVP, leading the Knicks to their first title in 53 years?",
-      "answer": "Jalen Brunson",
-      "hint": "Averaged 32.6 points per game in the Finals — scored 45 in the clincher",
       "difficulty": 2
     },
     {
@@ -2655,25 +2468,9 @@
     {
       "id": 877,
       "category": "Sports",
-      "question": "Which Yankees slugger won back-to-back AL MVP awards in 2024 and 2025, hitting 50 homers in '25?",
+      "question": "Which Yankees slugger won back-to-back AL MVP awards in 2024 and 2025, hitting 53 homers in '25?",
       "answer": "Aaron Judge",
       "hint": "6'7\" outfielder — also led MLB in batting average at .331",
-      "difficulty": 2
-    },
-    {
-      "id": 878,
-      "category": "Sports",
-      "question": "What NBA player led the league in scoring in 2025-26 with 33.5 points per game?",
-      "answer": "Luka Dončić",
-      "hint": "Slovenian guard — known for his stepback three",
-      "difficulty": 2
-    },
-    {
-      "id": 879,
-      "category": "Sports",
-      "question": "Which Spurs rookie became the first player since Shaquille O'Neal to average 25 points, 10 rebounds, and 3 blocks in a season?",
-      "answer": "Victor Wembanyama",
-      "hint": "7'4\" French center — first overall pick in 2023",
       "difficulty": 2
     },
     {
@@ -2695,18 +2492,10 @@
     {
       "id": 882,
       "category": "Sports",
-      "question": "What Patriots quarterback finished runner-up for 2025 NFL MVP, losing by just 5 points in voting?",
+      "question": "What Patriots quarterback finished runner-up to Matthew Stafford for 2025 NFL MVP?",
       "answer": "Drake Maye",
       "hint": "Former North Carolina QB — led the Pats to the Super Bowl",
       "difficulty": 3
-    },
-    {
-      "id": 883,
-      "category": "Sports",
-      "question": "What NBA team won the 2026 championship, their first title since 1973?",
-      "answer": "New York Knicks",
-      "hint": "Beat the Spurs 4-1 in the Finals — Madison Square Garden went wild",
-      "difficulty": 1
     },
     {
       "id": 884,
@@ -2734,27 +2523,11 @@
       "difficulty": 1
     },
     {
-      "id": 888,
-      "category": "Sports",
-      "question": "What Pistons guard was named to the All-NBA First Team in 2025-26?",
-      "answer": "Cade Cunningham",
-      "hint": "First overall pick in 2021 — joined Luka, Shai, Wemby, and Jokic on the team",
-      "difficulty": 3
-    },
-    {
       "id": 889,
       "category": "Sports",
       "question": "Which Blue Jays player won the 2025 ALCS MVP before losing to the Dodgers in the World Series?",
       "answer": "Vladimir Guerrero Jr.",
       "hint": "Son of a Hall of Famer — first baseman and slugger",
-      "difficulty": 2
-    },
-    {
-      "id": 890,
-      "category": "Sports",
-      "question": "What team did the Knicks beat in the 2026 NBA Finals to win the championship?",
-      "answer": "San Antonio Spurs",
-      "hint": "Wembanyama's team — lost 4-1 in the series",
       "difficulty": 2
     },
     {
@@ -2812,8 +2585,8 @@
     {
       "category": "TV & Movies",
       "question": "What is the highest-grossing R-rated movie of all time?",
-      "answer": "Joker",
-      "hint": "2019 DC film starring Joaquin Phoenix",
+      "answer": "Deadpool & Wolverine",
+      "hint": "2024 Marvel film starring Ryan Reynolds and Hugh Jackman",
       "difficulty": 3,
       "id": 899
     },
@@ -2844,7 +2617,7 @@
     },
     {
       "category": "Sports",
-      "question": "What tennis tournament is played on grass courts in London every summer?",
+      "question": "What Grand Slam tennis tournament is played on grass courts in London every summer?",
       "answer": "Wimbledon",
       "hint": "The oldest tennis tournament in the world — strict white dress code",
       "difficulty": 1,
@@ -2896,15 +2669,6 @@
     },
     {
       "category": "Science",
-      "question": "How many bones does a newborn baby have?",
-      "answer": "270",
-      "hint": "More than an adult — some fuse together as you grow",
-      "difficulty": 3,
-      "numeric_type": "approximation",
-      "id": 942
-    },
-    {
-      "category": "Science",
       "question": "What percentage of the human body is water?",
       "answer": "60",
       "hint": "More than half — slightly higher for men than women",
@@ -2924,7 +2688,7 @@
       "category": "History & Geography",
       "question": "What mountain range separates Europe from Asia?",
       "answer": "Ural Mountains",
-      "hint": "Located entirely within Russia — runs north to south",
+      "hint": "Located almost entirely within Russia — runs north to south",
       "difficulty": 3,
       "id": 946
     },
@@ -3019,9 +2783,9 @@
     },
     {
       "category": "TV & Movies",
-      "question": "In the 1999 animated film set in Maine during the Cold War, what is the giant robot called?",
+      "question": "What 1999 animated film, set in Maine during the Cold War, follows a boy named Hogarth who befriends a metal-eating robot from space?",
       "answer": "The Iron Giant",
-      "hint": "A 1999 animated film set during the Cold War",
+      "hint": "Vin Diesel voices the title character",
       "difficulty": 2,
       "id": 972
     },
@@ -3043,9 +2807,9 @@
     },
     {
       "category": "TV & Movies",
-      "question": "What Netflix show follows a con artist named Anna Delvey?",
+      "question": "What 2022 Netflix miniseries follows a con artist who posed as a wealthy German heiress in New York?",
       "answer": "Inventing Anna",
-      "hint": "Based on a true story of a fake German heiress",
+      "hint": "Created by Shonda Rhimes, starring Julia Garner",
       "difficulty": 2,
       "id": 976
     },
@@ -3202,20 +2966,12 @@
       "category": "Food & Drink"
     },
     {
-      "question": "What country has more sheep than people?",
+      "question": "What South Pacific country, made up of two main islands, famously has more sheep than people?",
       "answer": "New Zealand",
-      "hint": "It's two islands in the South Pacific",
+      "hint": "Home of the All Blacks rugby team",
       "difficulty": 2,
       "id": 1060,
       "category": "History & Geography"
-    },
-    {
-      "question": "Which organ in the human body uses the most energy?",
-      "answer": "The brain",
-      "hint": "It uses about 20% of your calories",
-      "difficulty": 2,
-      "id": 1063,
-      "category": "Animals & the Body"
     },
     {
       "question": "How many time zones does Russia span?",
@@ -3250,17 +3006,17 @@
       "category": "Animals & the Body"
     },
     {
-      "question": "What country invented the sauna?",
+      "question": "The word 'sauna' comes from the language of what country?",
       "answer": "Finland",
-      "hint": "There are more saunas than cars there",
+      "hint": "It has around 3 million saunas",
       "difficulty": 2,
       "id": 1073,
       "category": "History & Geography"
     },
     {
-      "question": "What common kitchen spice was once so valuable it was used as currency?",
+      "question": "What common seasoning, once traded as currency, is the Latin root of the word 'salary'?",
       "answer": "Salt",
-      "hint": "The word 'salary' comes from it",
+      "hint": "Chemically, it's sodium chloride",
       "difficulty": 2,
       "id": 1074,
       "category": "Food & Drink"
@@ -3308,7 +3064,7 @@
     {
       "question": "What is the most common blood type in humans?",
       "answer": "O positive",
-      "hint": "It's the universal donor type",
+      "hint": "Roughly a third or more of people have it",
       "difficulty": 2,
       "id": 1089,
       "category": "Animals & the Body"
@@ -3322,14 +3078,6 @@
       "category": "Science"
     },
     {
-      "question": "What part of the human body contains the most gold?",
-      "answer": "Toenails",
-      "hint": "It's below the ankle — trace amounts only",
-      "difficulty": 3,
-      "id": 1091,
-      "category": "Animals & the Body"
-    },
-    {
       "question": "What is the national animal of Scotland?",
       "answer": "Unicorn",
       "hint": "It's a mythical creature with a horn",
@@ -3338,7 +3086,7 @@
       "category": "Animals & the Body"
     },
     {
-      "question": "What cocktail is made with vodka, coffee liqueur, and espresso?",
+      "question": "What cocktail is made with vodka, coffee liqueur and a fresh shot of strong coffee, then shaken until frothy?",
       "answer": "Espresso Martini",
       "hint": "It keeps you wide awake at the party",
       "difficulty": 2,
@@ -3352,14 +3100,6 @@
       "difficulty": 3,
       "id": 1095,
       "category": "History & Geography"
-    },
-    {
-      "question": "What vegetable was the first to be grown in space?",
-      "answer": "Potato",
-      "hint": "It was grown aboard the Space Shuttle Columbia in 1995",
-      "difficulty": 3,
-      "id": 1097,
-      "category": "Science"
     },
     {
       "question": "What is the largest internal organ in the human body?",
@@ -3418,28 +3158,12 @@
       "category": "Acronyms & Terms"
     },
     {
-      "question": "What is the most widely eaten meat in the world?",
-      "answer": "Pork",
-      "hint": "It's not chicken or beef",
-      "difficulty": 2,
-      "id": 1109,
-      "category": "Food & Drink"
-    },
-    {
       "question": "What country has the most islands in the world?",
       "answer": "Sweden",
       "hint": "It's in Scandinavia — over 200,000 islands",
       "difficulty": 3,
       "id": 1110,
       "category": "History & Geography"
-    },
-    {
-      "question": "What is the only body part that is fully grown at birth?",
-      "answer": "Eyes",
-      "hint": "That's why babies' eyes look so big",
-      "difficulty": 3,
-      "id": 1111,
-      "category": "Animals & the Body"
     },
     {
       "question": "What unit of measurement is used to rate the spiciness of peppers?",
@@ -3450,28 +3174,12 @@
       "category": "Food & Drink"
     },
     {
-      "question": "What is the tallest breed of dog?",
-      "answer": "Great Dane",
-      "hint": "Scooby-Doo is one",
-      "difficulty": 2,
-      "id": 1113,
-      "category": "Animals & the Body"
-    },
-    {
       "question": "What is the only US state that starts with two vowels?",
       "answer": "Iowa",
       "hint": "It's in the Midwest",
       "difficulty": 3,
       "id": 1114,
       "category": "History & Geography"
-    },
-    {
-      "question": "What is the most shoplifted food item in the world?",
-      "answer": "Cheese",
-      "hint": "About 4% of all of it produced globally gets stolen",
-      "difficulty": 3,
-      "id": 1115,
-      "category": "Food & Drink"
     },
     {
       "question": "What do you call the space between your eyebrows?",
@@ -3498,36 +3206,12 @@
       "category": "Animals & the Body"
     },
     {
-      "question": "What is the only food that provides all the nutrients humans need to survive?",
-      "answer": "Breast milk",
-      "hint": "Every mammal produces it",
-      "difficulty": 3,
-      "id": 1119,
-      "category": "Food & Drink"
-    },
-    {
       "question": "What is the softest mineral on the Mohs hardness scale?",
       "answer": "Talc",
       "hint": "Baby powder is made from it",
       "difficulty": 3,
       "id": 1120,
       "category": "Science"
-    },
-    {
-      "question": "What country is home to the world's oldest known restaurant, operating since 725 AD?",
-      "answer": "Japan",
-      "hint": "It's called Nishiyama Onsen Keiunkan — it's also a hot spring hotel",
-      "difficulty": 3,
-      "id": 1121,
-      "category": "Food & Drink"
-    },
-    {
-      "question": "What is the most common last name in the world?",
-      "answer": "Wang",
-      "hint": "It's Chinese in origin",
-      "difficulty": 3,
-      "id": 1123,
-      "category": "History & Geography"
     },
     {
       "question": "What fruit is the most produced worldwide?",
@@ -3554,9 +3238,9 @@
       "category": "History & Geography"
     },
     {
-      "question": "If Big Ben represents London, what clock represents New York's New Year?",
+      "question": "If Big Ben's chimes ring in the New Year in London, what famous object drops at midnight to ring it in for New York?",
       "answer": "The Times Square Ball",
-      "hint": "It drops at midnight every December 31st",
+      "hint": "It's covered in thousands of crystal panels",
       "difficulty": 2,
       "id": 1130,
       "category": "History & Geography"
@@ -3570,15 +3254,15 @@
       "category": "History & Geography"
     },
     {
-      "question": "If Barbie represents Mattel, what toy represents Hasbro?",
+      "question": "If Barbie is Mattel's iconic doll, what military action figure launched in 1964 is Hasbro's?",
       "answer": "G.I. Joe",
-      "hint": "A military action figure launched in 1964",
+      "hint": "A real American hero",
       "difficulty": 2,
       "id": 1135,
       "category": "Brands & Business"
     },
     {
-      "question": "If the yellow arches represent McDonald's, what does a mermaid represent?",
+      "question": "If the golden arches represent McDonald's, what does a mermaid represent?",
       "answer": "Starbucks",
       "hint": "She's technically a siren, not a mermaid",
       "difficulty": 1,
@@ -3586,7 +3270,7 @@
       "category": "Brands & Business"
     },
     {
-      "question": "If Wall Street represents finance, what road represents music in Nashville?",
+      "question": "If Wall Street represents finance, what Nashville district represents the country recording industry?",
       "answer": "Music Row",
       "hint": "It's a pretty literal name",
       "difficulty": 2,
@@ -3610,23 +3294,15 @@
       "category": "Word Play"
     },
     {
-      "question": "What word connects a planet and a car brand?",
+      "question": "What word connects a planet, a chemical element, and a discontinued Ford car brand?",
       "answer": "Mercury",
-      "hint": "Also an element on the periodic table",
+      "hint": "Also the Roman messenger god",
       "difficulty": 2,
       "id": 1147,
       "category": "Word Play"
     },
     {
-      "question": "What word connects these things: a card game, a poker move, and a type of bridge?",
-      "answer": "Draw",
-      "hint": "You can also do this with a pencil",
-      "difficulty": 2,
-      "id": 1148,
-      "category": "Word Play"
-    },
-    {
-      "question": "What word connects these things: a type of jacket, a military rank, and a league in baseball?",
+      "question": "What word connects these things: a military rank, a league in baseball, and a musical key?",
       "answer": "Major",
       "hint": "It's a big deal",
       "difficulty": 2,
@@ -3650,9 +3326,9 @@
       "category": "Word Play"
     },
     {
-      "question": "What word connects these things: a dog breed, a boxing move, and a type of engine?",
+      "question": "What word connects these things: a dog breed, a type of men's underwear, and a type of engine?",
       "answer": "Boxer",
-      "hint": "Think of a fist and four legs",
+      "hint": "Also someone who fights in a ring",
       "difficulty": 2,
       "id": 1157,
       "category": "Word Play"
@@ -3668,7 +3344,7 @@
     {
       "question": "What word connects a James Bond movie and a card game?",
       "answer": "Casino",
-      "hint": "Casino Royale",
+      "hint": "It's the first word of Daniel Craig's first Bond film",
       "difficulty": 2,
       "id": 1163,
       "category": "Word Play"
@@ -3905,7 +3581,7 @@
       "category": "Sports"
     },
     {
-      "question": "The Suns, the Diamondbacks, and the Cardinals all belong to which city?",
+      "question": "The Suns, the Diamondbacks, and the Mercury all belong to which city?",
       "answer": "Phoenix",
       "hint": "Arizona's capital — hot as the desert it sits in",
       "difficulty": 2,
@@ -3938,7 +3614,7 @@
     },
     {
       "question": "The Rays, the Lightning, and the Buccaneers all belong to which city?",
-      "answer": "Tampa Bay",
+      "answer": "Tampa Bay (accept Tampa)",
       "hint": "Florida's Gulf Coast — Tom Brady won a Super Bowl here",
       "difficulty": 2,
       "id": 1222,
@@ -3971,7 +3647,7 @@
     {
       "question": "The Cavaliers, the Guardians, and the Browns all belong to which city?",
       "answer": "Cleveland",
-      "hint": "Ohio city on Lake Erie — LeBron's hometown team",
+      "hint": "Ohio city on Lake Erie — LeBron won an NBA title here in 2016",
       "difficulty": 2,
       "id": 1227,
       "category": "Sports"
@@ -4035,9 +3711,9 @@
     {
       "id": 1250,
       "category": "Word Play",
-      "question": "What word connects a planet and a day of the week?",
+      "question": "Which planet gives its name to a day of the week in English?",
       "answer": "Saturn",
-      "hint": "Think about the sixth planet",
+      "hint": "Think about the weekend",
       "difficulty": 2
     },
     {
@@ -4047,14 +3723,6 @@
       "answer": "Palm",
       "hint": "Think about reading lines on your hand",
       "difficulty": 3
-    },
-    {
-      "id": 1254,
-      "category": "Word Play",
-      "question": "What word connects a celestial body and a fish?",
-      "answer": "Star",
-      "hint": "Twinkle twinkle",
-      "difficulty": 2
     },
     {
       "id": 1255,
@@ -4083,15 +3751,15 @@
     {
       "id": 1260,
       "category": "Word Play",
-      "question": "What word connects these things: a playing card suit, a digging tool, and a neutering procedure?",
+      "question": "What word connects these things: a playing card suit, a digging tool, and a phrase meaning to speak bluntly?",
       "answer": "Spade",
-      "hint": "Think about the garden",
+      "hint": "Call a ___ a ___",
       "difficulty": 2
     },
     {
       "id": 1261,
       "category": "Word Play",
-      "question": "What word connects a gemstone and a music album format?",
+      "question": "What word connects a gemstone and a top music album sales certification?",
       "answer": "Diamond",
       "hint": "Think about baseball too",
       "difficulty": 2
@@ -4644,7 +4312,7 @@
       "category": "Pop Culture",
       "question": "Which rapper and TV host's real name is Calvin Cordozar Broadus Jr.?",
       "answer": "Snoop Dogg",
-      "hint": "He was a co-host of the 2024 Olympics coverage",
+      "hint": "He was NBC's special correspondent at the 2024 Paris Olympics",
       "difficulty": 2
     },
     {
@@ -4658,9 +4326,9 @@
     {
       "id": 1340,
       "category": "Pop Culture",
-      "question": "Which Kardashian-Jenner family member is a billionaire cosmetics mogul?",
+      "question": "Which Kardashian-Jenner was declared by Forbes in 2019 to be the youngest 'self-made' billionaire, thanks to her cosmetics brand?",
       "answer": "Kylie Jenner",
-      "hint": "Her brand is Kylie Cosmetics — she was once the youngest self-made billionaire",
+      "hint": "Her lip kits launched her makeup empire",
       "difficulty": 2
     },
     {
@@ -4722,7 +4390,7 @@
     {
       "id": 1350,
       "category": "Pop Culture",
-      "question": "Which couple had a wedding that reportedly cost $6.3 million, featured in a 4-hour TV special on E!?",
+      "question": "Which couple's 2011 wedding was broadcast as a 4-hour TV special on E!?",
       "answer": "Kim Kardashian and Kris Humphries",
       "hint": "The marriage lasted only 72 days",
       "difficulty": 3
@@ -4738,7 +4406,7 @@
     {
       "id": 1355,
       "category": "Pop Culture",
-      "question": "What reality competition show features RuPaul telling contestants 'Don't f*** it up'?",
+      "question": "On what reality competition show does the host tell contestants 'Good luck, and don't f*** it up'?",
       "answer": "RuPaul's Drag Race",
       "hint": "Contestants 'lip sync for their lives'",
       "difficulty": 2
@@ -4756,7 +4424,7 @@
       "category": "Pop Culture",
       "question": "Which boy band member went solo with the album 'Faith' and later came out as gay?",
       "answer": "George Michael",
-      "hint": "He was in Wham! — his biggest solo hit was 'Careless Whisper'",
+      "hint": "He was one half of Wham! alongside Andrew Ridgeley",
       "difficulty": 3
     },
     {
@@ -4770,7 +4438,7 @@
     {
       "id": 1360,
       "category": "Pop Culture",
-      "question": "Which actor has been married the most times in Hollywood history at 8 marriages?",
+      "question": "Which star of the 1963 film 'Cleopatra' was married eight times?",
       "answer": "Elizabeth Taylor",
       "hint": "She married Richard Burton twice",
       "difficulty": 3
@@ -4786,15 +4454,15 @@
     {
       "id": 1363,
       "category": "Pop Culture",
-      "question": "What dating show features a host handing out roses to contestants?",
+      "question": "What ABC dating show, on air since 2002, features a single man handing out roses to women?",
       "answer": "The Bachelor",
-      "hint": "It's been on ABC since 2002",
+      "hint": "Its spin-off flips the roles with a woman handing out roses",
       "difficulty": 2
     },
     {
       "id": 1364,
       "category": "Pop Culture",
-      "question": "Which singer performed at the halftime show of Super Bowl LVIII in 2024?",
+      "question": "Which singer headlined the halftime show of Super Bowl LVIII in 2024?",
       "answer": "Usher",
       "hint": "He performed hits spanning his 30-year career",
       "difficulty": 2
@@ -4802,7 +4470,7 @@
     {
       "id": 1366,
       "category": "Pop Culture",
-      "question": "Which actress was the face of a $1.1 billion Barbie movie in 2023?",
+      "question": "Which actress was the face of the billion-dollar Barbie movie in 2023?",
       "answer": "Margot Robbie",
       "hint": "She starred alongside Ryan Gosling as Ken",
       "difficulty": 2
@@ -4818,7 +4486,7 @@
     {
       "id": 1371,
       "category": "Pop Culture",
-      "question": "What streaming platform did Prince Harry and Meghan Markle sign a deal with after leaving the Royal Family?",
+      "question": "What video streaming platform did Prince Harry and Meghan Markle sign a deal with after leaving the Royal Family?",
       "answer": "Netflix",
       "hint": "Their docuseries was titled 'Harry & Meghan'",
       "difficulty": 2
@@ -4842,9 +4510,9 @@
     {
       "id": 1374,
       "category": "Pop Culture",
-      "question": "Which country music star opened a theme park called Dollywood?",
+      "question": "Which country music star opened a theme park in Pigeon Forge, Tennessee?",
       "answer": "Dolly Parton",
-      "hint": "It's in Pigeon Forge, Tennessee",
+      "hint": "She sang 'Jolene' and '9 to 5'",
       "difficulty": 2
     },
     {
@@ -4884,7 +4552,7 @@
       "question": "Cumulus, Stratus, and Cirrus are all types of what?",
       "answer": "Cloud",
       "difficulty": 2,
-      "hint": "Look up on a partly cloudy day",
+      "hint": "Look up at the sky",
       "id": 1384,
       "category": "Science",
       "mode": "buzz"
@@ -4918,7 +4586,7 @@
     },
     {
       "question": "Goblet, Flute, and Tumbler are all types of what?",
-      "answer": "Drinking glass",
+      "answer": "Drinking glass (or glass)",
       "difficulty": 2,
       "hint": "You'd find them in a kitchen cabinet",
       "id": 1388,
@@ -4963,7 +4631,7 @@
     },
     {
       "question": "Sparkling, Tonic, and Seltzer are all types of what?",
-      "answer": "Water",
+      "answer": "Water (or carbonated water)",
       "difficulty": 2,
       "hint": "They all have bubbles",
       "id": 1393,
@@ -4980,8 +4648,8 @@
       "mode": "buzz"
     },
     {
-      "question": "Gibson, Stratocaster, and Les Paul are all types of what?",
-      "answer": "Electric guitar",
+      "question": "Stratocaster, Telecaster, and Les Paul are all types of what?",
+      "answer": "Electric guitar (or guitar)",
       "difficulty": 2,
       "hint": "Instruments you'd plug into an amp",
       "id": 1395,
@@ -4992,7 +4660,7 @@
       "question": "Aperture, Shutter Speed, and ISO are all settings on what?",
       "answer": "Camera",
       "difficulty": 2,
-      "hint": "They control how much light gets in",
+      "hint": "Together they control a photo's exposure",
       "id": 1396,
       "category": "Arts & Style",
       "mode": "buzz"
@@ -5017,7 +4685,7 @@
     },
     {
       "question": "Windsor, Four-in-hand, and Half-Windsor are all types of what?",
-      "answer": "Tie knot",
+      "answer": "Tie knot (or knot)",
       "difficulty": 3,
       "hint": "You'd use one getting dressed for a formal event",
       "id": 1399,
@@ -5028,7 +4696,7 @@
       "question": "Baker, Bourbon, and Sesame are all famous what?",
       "answer": "Streets",
       "difficulty": 3,
-      "hint": "One is fictional, one is in New Orleans, one is for kids",
+      "hint": "One is home to Sherlock Holmes, one is in New Orleans, one is for kids",
       "id": 1400,
       "category": "History & Geography",
       "mode": "buzz"
@@ -5061,17 +4729,17 @@
       "mode": "buzz"
     },
     {
-      "question": "Starting with A, what do you call a word formed from the first letters of other words?",
+      "question": "Starting with A, what do you call a word formed from the first letters of other words and pronounced as a word, like NASA?",
       "answer": "Acronym",
       "difficulty": 2,
-      "hint": "NASA, SCUBA, and ASAP are examples",
+      "hint": "SCUBA and ASAP are other examples",
       "id": 1409,
       "category": "Acronyms & Terms",
       "mode": "buzz"
     },
     {
       "question": "Starting with P, what is a fake name used by a writer?",
-      "answer": "Pseudonym",
+      "answer": "Pseudonym (or pen name)",
       "difficulty": 2,
       "hint": "Mark Twain was one for Samuel Clemens",
       "id": 1410,
@@ -5100,7 +4768,7 @@
       "question": "Starting with S, what do you call the explosion of a massive dying star?",
       "answer": "Supernova",
       "difficulty": 2,
-      "hint": "Two syllables — it can briefly outshine an entire galaxy",
+      "hint": "It can briefly outshine an entire galaxy",
       "id": 1415,
       "category": "Science",
       "mode": "buzz"
@@ -5505,7 +5173,7 @@
       "question": "What does LASER stand for?",
       "answer": "Light Amplification by Stimulated Emission of Radiation",
       "difficulty": 3,
-      "hint": "Five words starting with Light — most people don't realize it's an acronym",
+      "hint": "Each of the five letters stands for a word, starting with Light — most people don't realize it's an acronym",
       "id": 1468,
       "category": "Acronyms & Terms",
       "mode": "buzz"
@@ -5559,7 +5227,7 @@
       "question": "What does the 'Y' in YAHOO stand for?",
       "answer": "Yet",
       "difficulty": 3,
-      "hint": "___ Another Hierarchically Organized Oracle",
+      "hint": "___ Another Hierarchical Officious Oracle",
       "id": 1475,
       "category": "Acronyms & Terms",
       "mode": "buzz"
@@ -5602,9 +5270,9 @@
     },
     {
       "question": "What does the 'C' in HVAC stand for?",
-      "answer": "Cooling",
+      "answer": "Conditioning",
       "difficulty": 3,
-      "hint": "Heating, Ventilation, and ___ — what keeps buildings comfortable",
+      "hint": "Heating, Ventilation, and Air ___ — what keeps buildings comfortable",
       "id": 1480,
       "category": "Acronyms & Terms",
       "mode": "buzz"
@@ -5622,7 +5290,7 @@
       "question": "What does NASDAQ stand for?",
       "answer": "National Association of Securities Dealers Automated Quotations",
       "difficulty": 3,
-      "hint": "The second-largest stock exchange in the world — six words",
+      "hint": "The second-largest stock exchange in the world — seven words",
       "id": 1483,
       "category": "Acronyms & Terms",
       "mode": "buzz"
@@ -5678,15 +5346,6 @@
       "difficulty": 3,
       "hint": "Special Weapons ___ Tactics",
       "id": 1489,
-      "category": "Acronyms & Terms",
-      "mode": "buzz"
-    },
-    {
-      "question": "What does NERF stand for?",
-      "answer": "Non-Expanding Recreational Foam",
-      "difficulty": 3,
-      "hint": "Four words — describes the soft material the toys are made of",
-      "id": 1490,
       "category": "Acronyms & Terms",
       "mode": "buzz"
     },
@@ -5763,7 +5422,7 @@
       "mode": "buzz"
     },
     {
-      "question": "What word sounds like both a day of mourning and the first light of day?",
+      "question": "What word sounds like both a period of grief and the first light of day?",
       "answer": "Morning / Mourning",
       "difficulty": 2,
       "hint": "One starts your day, the other follows a loss",
@@ -5790,7 +5449,7 @@
       "mode": "buzz"
     },
     {
-      "question": "What word sounds like both to permit and speaking out loud?",
+      "question": "What word sounds like both permitted and spoken out loud?",
       "answer": "Allowed / Aloud",
       "difficulty": 2,
       "hint": "One means you have permission, the other means not silently",
@@ -5817,7 +5476,7 @@
       "mode": "buzz"
     },
     {
-      "question": "What word sounds like both a royal seat and past tense of 'throw'?",
+      "question": "What word sounds like both a royal seat and the past participle of 'throw'?",
       "answer": "Throne / Thrown",
       "difficulty": 3,
       "hint": "A king sits on one — the other means something was hurled",
@@ -5844,7 +5503,7 @@
       "mode": "buzz"
     },
     {
-      "question": "What word sounds like both a compliment and to complete a set?",
+      "question": "What word sounds like both a flattering remark and something that completes a set?",
       "answer": "Complement / Compliment",
       "difficulty": 3,
       "hint": "One flatters you, the other fills in what's missing",
@@ -5853,7 +5512,7 @@
       "mode": "buzz"
     },
     {
-      "question": "What word sounds like both something you inherit and jeans material?",
+      "question": "What word sounds like both something you inherit from your parents and denim trousers?",
       "answer": "Genes / Jeans",
       "difficulty": 3,
       "hint": "One is in your DNA, the other is in your closet",
@@ -5896,9 +5555,9 @@
     },
     {
       "id": 1517,
-      "question": "Which artist released the album \"Blonde\" with no letter E in the title?",
+      "question": "Which artist released the 2016 album \"Blonde\", whose cover art spells the title without the final E?",
       "answer": "Frank Ocean",
-      "hint": "Previously went by the name Christopher Breaux",
+      "hint": "Born Christopher Breaux",
       "difficulty": 2,
       "category": "Music"
     },
@@ -5952,7 +5611,7 @@
     },
     {
       "id": 1525,
-      "question": "What duo performed \"Hey Ya!\" at the 2004 Grammys in a memorable split performance?",
+      "question": "What duo had a 2003 hit with \"Hey Ya!\"?",
       "answer": "OutKast",
       "hint": "André 3000 and Big Boi",
       "difficulty": 2,
@@ -6040,7 +5699,7 @@
     },
     {
       "id": 1537,
-      "question": "What band had the original version of \"Tainted Love\" covered famously by Soft Cell?",
+      "question": "What singer recorded the original version of \"Tainted Love,\" later covered famously by Soft Cell?",
       "answer": "Gloria Jones",
       "hint": "The original was a 1964 Northern soul track",
       "difficulty": 3,
@@ -6048,7 +5707,7 @@
     },
     {
       "id": 1539,
-      "question": "What supergroup featured members of Nirvana, Pearl Jam, and Soundgarden?",
+      "question": "What supergroup featured members of Soundgarden and Pearl Jam?",
       "answer": "Temple of the Dog",
       "hint": "Formed as a tribute to Andrew Wood of Mother Love Bone",
       "difficulty": 3,
@@ -6056,7 +5715,7 @@
     },
     {
       "id": 1541,
-      "question": "What was the name of the band Jack White and Meg White formed as a duo?",
+      "question": "What garage rock duo did Jack and Meg form in Detroit in 1997?",
       "answer": "The White Stripes",
       "hint": "Known for \"Seven Nation Army\"",
       "difficulty": 2,
@@ -6072,7 +5731,7 @@
     },
     {
       "category": "Word Play",
-      "question": "What word connects the outer edge of a wheel, a type of basketball shot, and glasses you wear on your face?",
+      "question": "What word connects the outer edge of a wheel, the edge of a basketball hoop, and the frame of glasses you wear on your face?",
       "answer": "Rim",
       "hint": "Think about circular edges in very different contexts",
       "difficulty": 2,
@@ -6090,7 +5749,7 @@
       "category": "Brands & Business",
       "question": "'Eat Fresh' is the long-running slogan of what sandwich chain?",
       "answer": "Subway",
-      "hint": "This chain has more global locations than any other fast food restaurant",
+      "hint": "Its staff are called 'sandwich artists'",
       "difficulty": 2,
       "id": 1548
     },
@@ -6112,9 +5771,9 @@
     },
     {
       "category": "Arts & Style",
-      "question": "If the Louvre represents Paris, what museum represents New York City's art world on Fifth Avenue?",
-      "answer": "The Met",
-      "hint": "Its full name has three words, and it sits on the edge of Central Park",
+      "question": "What is the largest art museum in the United States, located on Fifth Avenue in New York City?",
+      "answer": "The Metropolitan Museum of Art (The Met)",
+      "hint": "It hosts a famous annual fashion gala every May",
       "difficulty": 2,
       "id": 1552
     },
@@ -6160,8 +5819,8 @@
     },
     {
       "category": "Science",
-      "question": "Approximately how many miles away is the Moon from Earth?",
-      "answer": "238855",
+      "question": "Approximately how many miles away is the Moon from Earth, on average?",
+      "answer": "About 239,000 miles (accept roughly 240,000)",
       "hint": "It's roughly the distance you'd travel if you drove nonstop for about 130 days",
       "difficulty": 2,
       "numeric_type": "approximation",
@@ -6169,15 +5828,15 @@
     },
     {
       "category": "Science",
-      "question": "What is the term for an animal that can regulate its own body temperature internally?",
-      "answer": "Endotherm",
+      "question": "What is the scientific term for an animal that can regulate its own body temperature internally?",
+      "answer": "Endotherm (accept warm-blooded)",
       "hint": "Mammals and birds fall into this category; reptiles do not",
       "difficulty": 3,
       "id": 1563
     },
     {
       "category": "History & Geography",
-      "question": "What was the nickname of the medieval practice of paying money to the Church to reduce punishment for sins?",
+      "question": "What was the name of the medieval practice of paying money to the Church to reduce punishment for sins?",
       "answer": "Indulgences",
       "hint": "Martin Luther famously nailed a list of complaints about this practice to a church door",
       "difficulty": 2,
@@ -6225,7 +5884,7 @@
     },
     {
       "category": "Pop Culture",
-      "question": "What celebrity couple's split coined the term 'conscious uncoupling' after their 2014 separation?",
+      "question": "What celebrity couple's split made the term 'conscious uncoupling' famous after their 2014 separation?",
       "answer": "Gwyneth Paltrow and Chris Martin",
       "hint": "She is the founder of Goop; he fronts a British rock band",
       "difficulty": 2,
@@ -6233,7 +5892,7 @@
     },
     {
       "category": "Pop Culture",
-      "question": "What book series follows the Baudelaire orphans as they are repeatedly placed with their sinister relative Count Olaf?",
+      "question": "What book series follows the Baudelaire orphans as they are relentlessly pursued by their sinister relative Count Olaf?",
       "answer": "A Series of Unfortunate Events",
       "hint": "The author published it under a pen name and dedicated each book to a mysterious woman named Beatrice",
       "difficulty": 2,
@@ -6257,7 +5916,7 @@
     },
     {
       "category": "TV & Movies",
-      "question": "What streaming series features a giant green creature named the Child — commonly called 'Baby Yoda' — traveling with a bounty hunter?",
+      "question": "What streaming series features a small green creature named the Child — commonly called 'Baby Yoda' — traveling with a bounty hunter?",
       "answer": "The Mandalorian",
       "hint": "It was one of the flagship launch titles for Disney+",
       "difficulty": 2,
@@ -6460,9 +6119,9 @@
     },
     {
       "category": "Animals & the Body",
-      "question": "What is the national animal of Australia that also appears on its coat of arms alongside the emu?",
+      "question": "What animal appears alongside the emu on Australia's coat of arms?",
       "answer": "Kangaroo",
-      "hint": "Both animals were chosen partly because neither can walk backward.",
+      "hint": "It's a hopping marsupial that carries its young in a pouch.",
       "difficulty": 2,
       "id": 1613
     },
@@ -6508,9 +6167,9 @@
     },
     {
       "category": "History & Geography",
-      "question": "What medieval torture device was actually invented in the 18th century as a hoax?",
+      "question": "What supposedly medieval spiked torture cabinet is now believed by historians to be a later fabrication, never actually used in the Middle Ages?",
       "answer": "Iron Maiden",
-      "hint": "The spiked cabinet with a human shape was never actually used — historians say it was assembled from unrelated artifacts to fool tourists.",
+      "hint": "It's shaped like a human figure — and shares its name with a British heavy metal band.",
       "difficulty": 3,
       "id": 1622
     },
@@ -6518,7 +6177,7 @@
       "category": "History & Geography",
       "question": "What South American country is the only one where Portuguese is the official language?",
       "answer": "Brazil",
-      "hint": "All its neighbors speak Spanish — it's also the largest country on the continent.",
+      "hint": "It's the largest country on the continent and home to most of the Amazon rainforest.",
       "difficulty": 2,
       "id": 1623
     },
@@ -6556,15 +6215,15 @@
     },
     {
       "category": "Pop Culture",
-      "question": "What bestselling novel by Andy Weir follows an astronaut stranded alone on Mars who must science his way to survival?",
+      "question": "What bestselling novel by Andy Weir follows an astronaut stranded alone on another planet who must science his way to survival?",
       "answer": "The Martian",
-      "hint": "The protagonist's main survival strategy involves growing food in a most unexpected way.",
+      "hint": "The protagonist's main survival strategy involves growing potatoes in a most unexpected way.",
       "difficulty": 2,
       "id": 1630
     },
     {
       "category": "TV & Movies",
-      "question": "What streaming series, set in the Upside Down, features a group of kids in Hawkins, Indiana, facing supernatural threats?",
+      "question": "What streaming series features a group of kids in Hawkins, Indiana, facing supernatural threats from an alternate dimension called the Upside Down?",
       "answer": "Stranger Things",
       "hint": "The show is heavily inspired by 1980s pop culture and Steven Spielberg films.",
       "difficulty": 2,
@@ -6580,9 +6239,9 @@
     },
     {
       "category": "Math",
-      "question": "If you have a 3x3x3 Rubik's Cube, how many individual smaller cubes make up the entire structure?",
+      "question": "How many small unit cubes make up a solid 3x3x3 cube?",
       "answer": "27",
-      "hint": "Think about the geometry — it's a cube made of cubes.",
+      "hint": "Multiply 3 by itself three times.",
       "difficulty": 2,
       "numeric_type": "exact",
       "id": 1636
@@ -6600,7 +6259,7 @@
       "category": "Math",
       "question": "If a clock shows 3:15, what is the angle in degrees between the hour hand and the minute hand?",
       "answer": "7.5 degrees",
-      "hint": "The minute hand is on 12, but the hour hand has moved a quarter of the way from 3 to 4.",
+      "hint": "The minute hand is on 3, but the hour hand has moved a quarter of the way from 3 to 4.",
       "difficulty": 3,
       "numeric_type": "exact",
       "id": 1640
@@ -6632,9 +6291,9 @@
     },
     {
       "category": "Sports",
-      "question": "What country has won the most FIFA World Cups in history?",
+      "question": "Going into the 2026 tournament, what country had won the most FIFA World Cups?",
       "answer": "Brazil",
-      "hint": "They've won it five times and are the only team to have played in every tournament.",
+      "hint": "They had won it five times and are the only team to have played in every tournament.",
       "difficulty": 2,
       "id": 1645
     },
@@ -6746,23 +6405,23 @@
       "category": "Science",
       "question": "Sirocco, Chinook, and Mistral are all types of what?",
       "answer": "Wind",
-      "hint": "Each is named for a specific region of the world where it originates",
+      "hint": "Each is a regional weather phenomenon that blows through a particular part of the world",
       "difficulty": 2,
       "id": 1664
     },
     {
       "category": "Word Play",
-      "question": "What word sounds like both a method of cooking over fire and a type of legal questioning?",
+      "question": "What word means both a method of cooking over fire and to question someone intensely?",
       "answer": "Grill",
-      "hint": "One happens in a kitchen, the other in a courtroom",
+      "hint": "One happens in a kitchen, the other in an interrogation room",
       "difficulty": 2,
       "id": 1665
     },
     {
       "category": "Acronyms & Terms",
-      "question": "What does the 'P' in PIN number stand for?",
+      "question": "What does the 'P' in PIN stand for?",
       "answer": "Personal",
-      "hint": "The full phrase has four words, and the last one is 'number'",
+      "hint": "The full phrase has three words, and the last one is 'number' — so 'PIN number' is redundant",
       "difficulty": 2,
       "id": 1667
     },
@@ -6816,14 +6475,6 @@
     },
     {
       "category": "Science",
-      "question": "What is the name for the boundary layer where ocean meets freshwater in an estuary, creating a salinity gradient?",
-      "answer": "Halocline",
-      "hint": "'Halo' comes from the Greek for salt",
-      "difficulty": 3,
-      "id": 1678
-    },
-    {
-      "category": "Science",
       "question": "How many chromosomes does a typical human cell contain?",
       "answer": "46",
       "hint": "They come in 23 pairs, one set from each parent",
@@ -6835,7 +6486,7 @@
       "category": "History & Geography",
       "question": "What country contains more pyramids than Egypt?",
       "answer": "Sudan",
-      "hint": "The ancient Nubian kingdom of Kush built hundreds of them, though they are narrower and taller",
+      "hint": "The ancient Nubian kingdom of Kush built hundreds of them, though they are smaller with steeper sides",
       "difficulty": 3,
       "id": 1681
     },
@@ -6873,7 +6524,7 @@
     },
     {
       "category": "Pop Culture",
-      "question": "What social media platform, originally called 'Odeo,' pivoted to become a microblogging site after its podcast business failed?",
+      "question": "What social media platform was born as a side project at the podcasting company Odeo after its podcast business struggled?",
       "answer": "Twitter",
       "hint": "It later rebranded to a single letter under new ownership",
       "difficulty": 3,
@@ -7084,7 +6735,7 @@
       "category": "Music",
       "question": "What artist's real name is Melissa Viviane Jefferson?",
       "answer": "Lizzo",
-      "hint": "This artist won multiple Grammys for the album 'Cuz I Love You'",
+      "hint": "This artist's hits include 'Truth Hurts' and 'Good as Hell'",
       "difficulty": 2,
       "id": 1720
     },
@@ -7100,7 +6751,7 @@
       "category": "History & Geography",
       "question": "If London is to the Thames, what river runs through Paris?",
       "answer": "Seine",
-      "hint": "You might also know it as a homophone for something actors use",
+      "hint": "It shares its name with a type of fishing net",
       "difficulty": 2,
       "id": 1728
     },
@@ -7114,7 +6765,7 @@
     },
     {
       "category": "Science",
-      "question": "What color is blood inside the human body before it is exposed to oxygen?",
+      "question": "What color is deoxygenated blood inside the human body?",
       "answer": "Dark red",
       "hint": "It's never actually blue — that's a myth about veins appearing through skin",
       "difficulty": 2,
@@ -7155,7 +6806,7 @@
     },
     {
       "category": "History & Geography",
-      "question": "What river forms the natural border between the United States and Mexico?",
+      "question": "What river forms a large part of the natural border between the United States and Mexico?",
       "answer": "Rio Grande",
       "hint": "It's called the Río Bravo on the Mexican side",
       "difficulty": 2,
@@ -7163,7 +6814,7 @@
     },
     {
       "category": "History & Geography",
-      "question": "What city served as the capital of the United States before Washington D.C. was established?",
+      "question": "What city served as the capital of the United States from 1790 to 1800, immediately before Washington D.C.?",
       "answer": "Philadelphia",
       "hint": "It also hosted the signing of the Declaration of Independence",
       "difficulty": 2,
@@ -7179,7 +6830,7 @@
     },
     {
       "category": "Pop Culture",
-      "question": "What novel dystopia did author Suzanne Collins create, set in a future North America divided into numbered districts?",
+      "question": "What novel series by Suzanne Collins is set in a future North America divided into numbered districts?",
       "answer": "The Hunger Games",
       "hint": "The Capitol forces one boy and one girl from each district to compete on live television",
       "difficulty": 2,
@@ -7203,9 +6854,9 @@
     },
     {
       "category": "TV & Movies",
-      "question": "What fictional business in Breaking Bad is used as a front by Walter White and his associates?",
+      "question": "What fictional business in Breaking Bad do Walter White and his partners use as cover for cooking meth inside tented houses?",
       "answer": "Vamonos Pest",
-      "hint": "It's a pest control company whose tented houses give the cooks cover",
+      "hint": "It's an exterminator company run by Todd's crew and Walt's partners",
       "difficulty": 3,
       "id": 1742
     },
@@ -7245,7 +6896,7 @@
     },
     {
       "category": "Sports",
-      "question": "The Chiefs, the Royals, and Sporting KC all belong to what city?",
+      "question": "The NFL's Chiefs, MLB's Royals, and the NWSL's Current all represent what city?",
       "answer": "Kansas City",
       "hint": "It straddles the border of two states but goes by one name",
       "difficulty": 2,
@@ -7407,7 +7058,7 @@
       "category": "Acronyms & Terms",
       "question": "What does the 'R' in URL stand for?",
       "answer": "Resource",
-      "hint": "Think of the full phrase: Uniform Resource Locator",
+      "hint": "Think about what a web address points you to",
       "difficulty": 3,
       "id": 1781
     },
@@ -7438,8 +7089,8 @@
     },
     {
       "category": "Science",
-      "question": "What is the speed of sound in air at sea level, in miles per hour?",
-      "answer": "767",
+      "question": "Approximately what is the speed of sound in air at sea level, in miles per hour?",
+      "answer": "About 767 (accept roughly 760–770)",
       "hint": "Fighter jets break this barrier — it's called Mach 1",
       "difficulty": 2,
       "numeric_type": "approximation",
@@ -7497,7 +7148,7 @@
       "category": "TV & Movies",
       "question": "What long-running animated show is set in the fictional town of Arlen, Texas and follows a propane salesman named Hank?",
       "answer": "King of the Hill",
-      "hint": "It ran for 13 seasons and was created by Mike Judge",
+      "hint": "It originally ran for 13 seasons and was created by Mike Judge",
       "difficulty": 2,
       "id": 1795
     },
@@ -7684,7 +7335,7 @@
     },
     {
       "category": "Word Play",
-      "question": "What word sounds like both a past-tense verb meaning to use a needle and thread, and something you plant seeds in?",
+      "question": "What pair of sound-alike words means to stitch with a needle and thread, and to scatter seeds for planting?",
       "answer": "Sew/Sow",
       "hint": "One belongs in a garden, one belongs in a sewing basket",
       "difficulty": 2,
@@ -7702,7 +7353,7 @@
       "category": "Word Play",
       "question": "Finish the phrase: 'All that glitters is not...'",
       "answer": "Gold",
-      "hint": "Shakespeare wrote it — think precious metals",
+      "hint": "Shakespeare used a version of it in The Merchant of Venice. Think precious metals.",
       "difficulty": 2,
       "id": 1830
     },
@@ -7725,9 +7376,9 @@
     },
     {
       "category": "Science",
-      "question": "What element is named after the Greek god of the underworld and was discovered in 1940?",
+      "question": "What element, discovered in 1940, is named after the dwarf planet that lost full planet status in 2006?",
       "answer": "Plutonium",
-      "hint": "It shares its name with a dwarf planet that lost full planet status in 2006",
+      "hint": "It follows uranium and neptunium, which are also named after planets",
       "difficulty": 2,
       "id": 1835
     },
@@ -7743,15 +7394,15 @@
       "category": "Pop Culture",
       "question": "What novel by Gillian Flynn, later adapted into a film starring Rosamund Pike, centers on a woman who mysteriously disappears on her wedding anniversary?",
       "answer": "Gone Girl",
-      "hint": "The title refers to the missing woman — the tagline was 'What are you hiding?'",
+      "hint": "Ben Affleck co-starred as the husband suspected of her murder",
       "difficulty": 2,
       "id": 1838
     },
     {
       "category": "TV & Movies",
-      "question": "In the movie Home Alone, what is the name of the hotel Kevin McCallister accidentally books with his dad's credit card in the sequel?",
+      "question": "In Home Alone 2: Lost in New York, what hotel does Kevin McCallister check into using his dad's credit card?",
       "answer": "Plaza Hotel",
-      "hint": "It's a real, iconic New York City hotel on Fifth Avenue — Kevin has a famous run-in with a future US president there",
+      "hint": "It's a real, iconic New York City hotel on Fifth Avenue. Kevin has a famous run-in with a future US president there.",
       "difficulty": 2,
       "id": 1841
     },
@@ -7774,9 +7425,9 @@
     },
     {
       "category": "Math",
-      "question": "If you start with a penny and double it every day for 30 days, approximately how many dollars do you end up with?",
-      "answer": "5368709",
-      "hint": "It's far more than you'd expect — the answer is in the millions of dollars",
+      "question": "If you get a penny on day 1 and the amount doubles every day, approximately how many dollars do you get on day 30?",
+      "answer": "About $5.37 million (5368709)",
+      "hint": "It's far more than you'd expect. The answer is in the millions of dollars.",
       "difficulty": 3,
       "numeric_type": "approximation",
       "id": 1847
@@ -7983,7 +7634,7 @@
     },
     {
       "category": "TV & Movies",
-      "question": "What Netflix documentary series, directed by Chris Smith, chronicled the catastrophic failure of a luxury music festival in the Bahamas?",
+      "question": "What 2019 Netflix documentary film, directed by Chris Smith, chronicled the catastrophic failure of a luxury music festival in the Bahamas?",
       "answer": "Fyre",
       "hint": "A competing documentary on Hulu came out the same week, and the organizer Billy McFarland went to prison.",
       "difficulty": 2,
@@ -8001,7 +7652,7 @@
       "category": "TV & Movies",
       "question": "What 2022 film starring Austin Butler depicts the rise of one of the most iconic rock musicians of the 20th century, directed by Baz Luhrmann?",
       "answer": "Elvis",
-      "hint": "Austin Butler's immersive preparation for the role reportedly left him speaking in an accent for years afterward.",
+      "hint": "Austin Butler's immersive preparation for the role reportedly left him still speaking in the singer's accent long after filming ended.",
       "difficulty": 2,
       "id": 1883
     },
@@ -8021,15 +7672,6 @@
       "difficulty": 2,
       "numeric_type": "exact",
       "id": 1885
-    },
-    {
-      "category": "Math",
-      "question": "How many squares of any size are on a standard 8x8 chessboard?",
-      "answer": "204",
-      "hint": "Don't just count the 64 individual squares — count all the larger squares you can form within the grid too.",
-      "difficulty": 3,
-      "numeric_type": "exact",
-      "id": 1889
     },
     {
       "category": "Sports",
@@ -8139,7 +7781,7 @@
       "category": "Music",
       "question": "What electronic artist's real name is Thomas Wesley Pentz, known for producing high-energy party records and collaborating with M.I.A. on 'Paper Planes'?",
       "answer": "Diplo",
-      "hint": "This Philadelphia-born producer co-founded the Major Lazer project and the LoveSick record label.",
+      "hint": "This Mississippi-born producer co-founded the Major Lazer project and founded the Mad Decent record label.",
       "difficulty": 3,
       "id": 1907
     },
@@ -8155,7 +7797,7 @@
       "category": "Animals & the Body",
       "question": "Starting with the letter C, what is the term for the waxy buildup that forms naturally in your ear canal?",
       "answer": "Cerumen",
-      "hint": "You probably know it by a much simpler two-word nickname",
+      "hint": "You probably know it by a much simpler everyday name.",
       "difficulty": 3,
       "id": 1912
     },
@@ -8198,15 +7840,6 @@
       "hint": "Often attributed to Sun Tzu, though it was popularized by The Godfather Part II",
       "difficulty": 2,
       "id": 1919
-    },
-    {
-      "category": "Science",
-      "question": "Approximately how many neurons are in the human brain?",
-      "answer": "86000000000",
-      "hint": "It's roughly in the tens of billions — more than the number of stars in the Milky Way",
-      "difficulty": 2,
-      "numeric_type": "approximation",
-      "id": 1921
     },
     {
       "category": "History & Geography",
@@ -8318,7 +7951,7 @@
       "category": "Music",
       "question": "What band featured members Gord Downie, Rob Baker, and Gord Sinclair, becoming one of Canada's most beloved rock acts?",
       "answer": "The Tragically Hip",
-      "hint": "Their frontman passed away in 2017 after a battle with brain cancer, prompting a nationally televised farewell concert in Canada",
+      "hint": "After their frontman's terminal brain cancer diagnosis, the band played a nationally televised farewell concert in 2016; he died in 2017.",
       "difficulty": 2,
       "id": 1945
     },
@@ -8477,7 +8110,7 @@
     },
     {
       "category": "History & Geography",
-      "question": "Starting with U, what is the term for a government system where all adults can vote?",
+      "question": "Starting with U, what is the term for the right of all adult citizens to vote?",
       "answer": "Universal suffrage",
       "hint": "The second word relates to voting rights — the first means applying to everyone.",
       "difficulty": 3,
@@ -8549,7 +8182,7 @@
     },
     {
       "category": "Food & Drink",
-      "question": "What is the only fruit that has its seeds on the outside?",
+      "question": "What fruit is famous for having its seeds on the outside?",
       "answer": "Strawberry",
       "hint": "You eat this fruit at Wimbledon with cream — look closely at its surface.",
       "difficulty": 2,
@@ -8573,7 +8206,7 @@
     },
     {
       "category": "Brands & Business",
-      "question": "What car brand's logo features a prancing horse on a yellow background — the same symbol as a famous Italian city's coat of arms?",
+      "question": "What car brand's logo features a black prancing horse on a yellow background, the yellow being the colour of the city of Modena?",
       "answer": "Ferrari",
       "hint": "The logo was a gift from the mother of a WWI flying ace to honor her late son.",
       "difficulty": 2,
@@ -8581,9 +8214,9 @@
     },
     {
       "category": "Word Play",
-      "question": "What word connects a playing card rank, a ruling monarch, and a cobra's defensive display?",
+      "question": "What word connects a playing card rank, a ruling monarch, and the world's longest venomous snake?",
       "answer": "King",
-      "hint": "Think about authority — one is royalty, one is a game piece, one spreads its neck wide.",
+      "hint": "Think royalty — it's also the highest face card in most decks.",
       "difficulty": 2,
       "id": 1992
     },
@@ -8645,15 +8278,15 @@
     },
     {
       "category": "TV & Movies",
-      "question": "In the 2010 film 'Inception,' what is the name of the spinning object Cobb uses to test whether he is in a dream?",
+      "question": "In the 2010 film 'Inception,' what is the term for the personal object characters use to test whether they are in a dream?",
       "answer": "Totem",
-      "hint": "His specific one is a small top, but each character in the film has their own version.",
+      "hint": "Cobb's is a small spinning top, but each character has their own version.",
       "difficulty": 2,
       "id": 2006
     },
     {
       "category": "TV & Movies",
-      "question": "What actor has played both a U.S. president in 'Air Force One' and a carpenter in real life, famously recognized by a scar on his chin?",
+      "question": "What actor played a U.S. president in 'Air Force One', worked as a carpenter before becoming famous, and is recognized by a scar on his chin?",
       "answer": "Harrison Ford",
       "hint": "He's also played both a galaxy-hopping smuggler and a fedora-wearing archaeologist.",
       "difficulty": 2,
@@ -8669,7 +8302,7 @@
     },
     {
       "category": "Math",
-      "question": "How many faces does a standard soccer ball have?",
+      "question": "How many panels does a classic black-and-white soccer ball have?",
       "answer": "32",
       "hint": "It's made up of two types of polygons — pentagons and hexagons.",
       "difficulty": 2,
@@ -8687,14 +8320,14 @@
     {
       "category": "Sports",
       "question": "In baseball, what is the term for when a batter reaches base because the catcher fails to catch a third strike cleanly?",
-      "answer": "Uncaught third strike",
+      "answer": "Uncaught third strike (also accept 'dropped third strike')",
       "hint": "It allows the batter to run to first even though they struck out — the catcher must then throw them out.",
       "difficulty": 3,
       "id": 2011
     },
     {
       "category": "Sports",
-      "question": "The Jaguars, the Magic, and the Solar Bears all represent which Florida city?",
+      "question": "The Magic and the Solar Bears both represent which Florida city?",
       "answer": "Orlando",
       "hint": "This city is also home to one of the world's most-visited theme parks.",
       "difficulty": 3,
@@ -8782,7 +8415,7 @@
     },
     {
       "category": "Pop Culture",
-      "question": "What internet phenomenon features a deliberately poor-quality image of a cat with a Pop-Tart body flying through space, leaving a rainbow trail?",
+      "question": "What internet phenomenon features an 8-bit pixel-art cat with a Pop-Tart body flying through space, leaving a rainbow trail?",
       "answer": "Nyan Cat",
       "hint": "It became a viral YouTube video in 2011 and later sold as an NFT for nearly $600,000",
       "difficulty": 2,
@@ -8798,7 +8431,7 @@
     },
     {
       "category": "TV & Movies",
-      "question": "What streaming series follows a group of teenagers in a post-apocalyptic Earth who have been sent back from a space station to see if the planet is survivable?",
+      "question": "What TV series follows a group of teenagers in a post-apocalyptic Earth who have been sent back from a space station to see if the planet is survivable?",
       "answer": "The 100",
       "hint": "It aired on The CW network and ran for seven seasons starting in 2014",
       "difficulty": 2,
@@ -9097,7 +8730,7 @@
       "id": 2119,
       "category": "Acronyms & Terms",
       "question": "Starting with Z, what word means a fastener with two rows of interlocking teeth that are pulled together by a slider?",
-      "answer": "Zipper",
+      "answer": "Zipper (or Zip)",
       "hint": "Found on jackets, jeans and suitcases",
       "difficulty": 2
     },
@@ -9177,7 +8810,7 @@
     {
       "category": "Sports",
       "question": "What is the term for a score of three under par on a single hole in golf?",
-      "answer": "Albatross",
+      "answer": "Albatross (or Double eagle)",
       "hint": "It's named after a seabird that is rarer and larger than the eagle — which is only two under par.",
       "difficulty": 3,
       "id": 2077
@@ -9289,23 +8922,23 @@
     },
     {
       "category": "Science",
-      "question": "Starting with N, what word describes the process by which certain bacteria convert atmospheric nitrogen into ammonia, making it usable for plants?",
-      "answer": "Nitrification",
+      "question": "Starting with N, what two-word term describes the process by which certain bacteria convert a gas from the air into ammonia, making it usable for plants?",
+      "answer": "Nitrogen fixation",
       "hint": "Legumes like peas and beans are famous for hosting these bacteria in their roots.",
       "difficulty": 3,
       "id": 2123
     },
     {
       "category": "History & Geography",
-      "question": "What body of water separates the Danish mainland from the island of Zealand, where Copenhagen sits?",
-      "answer": "Øresund",
-      "hint": "A famous bridge-tunnel crossing links Denmark to Sweden here.",
+      "question": "What strait separates the Danish island of Zealand, where Copenhagen sits, from Sweden?",
+      "answer": "Øresund (The Sound)",
+      "hint": "A famous bridge-tunnel crossing here inspired the Nordic noir TV series 'The Bridge'.",
       "difficulty": 3,
       "id": 2124
     },
     {
       "category": "History & Geography",
-      "question": "What South Asian country is entirely landlocked and bordered by India on three sides?",
+      "question": "What landlocked South Asian kingdom is bordered by India on three sides and China on the fourth?",
       "answer": "Bhutan",
       "hint": "It's known for measuring Gross National Happiness instead of GDP.",
       "difficulty": 2,
@@ -9329,19 +8962,11 @@
     },
     {
       "category": "Pop Culture",
-      "question": "What is the name of the fictional country where the events of the novel 'The Kite Runner' take place?",
+      "question": "In what country does much of the novel 'The Kite Runner' take place?",
       "answer": "Afghanistan",
       "hint": "The story spans Kabul and the United States, covering decades of political upheaval.",
       "difficulty": 2,
       "id": 2129
-    },
-    {
-      "category": "TV & Movies",
-      "question": "What actress played both Queen Elizabeth II in the first two seasons of 'The Crown' and Darkina in 'Belfast'?",
-      "answer": "Olivia Colman",
-      "hint": "She also won an Oscar for playing a Queen — though a different one — in a Yorgos Lanthimos film.",
-      "difficulty": 2,
-      "id": 2131
     },
     {
       "category": "Math",
@@ -9354,15 +8979,7 @@
     },
     {
       "category": "Sports",
-      "question": "In baseball, what term describes a pitch that breaks sharply downward due to topspin, often compared to the movement of a falling table?",
-      "answer": "Sinker",
-      "hint": "Ground-ball pitchers rely on this pitch heavily to generate easy outs.",
-      "difficulty": 2,
-      "id": 2134
-    },
-    {
-      "category": "Sports",
-      "question": "What golfer won the 2024 Masters Tournament, his first major title, ending a long drought for young American players at Augusta?",
+      "question": "What golfer won the 2024 Masters Tournament, his second green jacket in three years?",
       "answer": "Scottie Scheffler",
       "hint": "He was ranked world number one at the time and had already won multiple PGA Tour events that season.",
       "difficulty": 2,
@@ -9370,7 +8987,7 @@
     },
     {
       "category": "Sports",
-      "question": "In American football, what is the term for a legal hit in which a defender tackles the ball carrier behind the line of scrimmage, resulting in a loss of yards?",
+      "question": "In American football, what is the term for a play in which a defender brings down the ball carrier behind the line of scrimmage, costing the offense yardage?",
       "answer": "Tackle for loss",
       "hint": "Defensive linemen and linebackers compete to lead their teams in this stat each season.",
       "difficulty": 2,
@@ -9378,35 +8995,11 @@
     },
     {
       "category": "Word Play",
-      "question": "What word connects a style of photography lighting, a kind of boxing punch, and a type of key on a camera?",
-      "answer": "Flash",
-      "hint": "Think about something that happens very quickly and produces a burst of light.",
-      "difficulty": 2,
-      "id": 2137
-    },
-    {
-      "category": "Word Play",
-      "question": "What word sounds like both a type of flower arrangement and a sound made by a violin string suddenly snapping?",
-      "answer": "Bouquet/Break",
-      "hint": "One is given at a wedding; the other is what a string does under too much tension — and they sound identical in French-influenced English.",
-      "difficulty": 3,
-      "id": 2138
-    },
-    {
-      "category": "Word Play",
-      "question": "What word connects a passage between two sections of a theater, a garden path, and a grocery store section?",
+      "question": "What word connects a passage between two sections of a theater, the walkway between rows of airplane seats, and a grocery store section?",
       "answer": "Aisle",
       "hint": "Brides walk down one, and so do shoppers looking for cereal.",
       "difficulty": 2,
       "id": 2139
-    },
-    {
-      "category": "Word Play",
-      "question": "What word sounds like both a type of bear and a place where your car stops?",
-      "answer": "Panda/Pander",
-      "hint": "One is black and white; the other is what a parking structure does for drivers.",
-      "difficulty": 3,
-      "id": 2140
     },
     {
       "category": "Word Play",
@@ -9418,17 +9011,17 @@
     },
     {
       "category": "Acronyms & Terms",
-      "question": "Starting with T, what word means to move something from one place to another, especially in the context of sending data between computers?",
+      "question": "Starting with T, what word means to send out a signal or data by radio, cable or other electronic means?",
       "answer": "Transmit",
-      "hint": "You do this when you send an email or stream a video — the data goes from one device to another.",
+      "hint": "Radio towers and Wi-Fi routers do this constantly.",
       "difficulty": 2,
       "id": 2142
     },
     {
       "category": "Acronyms & Terms",
-      "question": "Starting with G, what word means a small channel cut into a surface to guide liquid or an object along a path?",
+      "question": "Starting with G, what word means a long, narrow cut in a surface, such as the spiral track on a vinyl record?",
       "answer": "Groove",
-      "hint": "Vinyl records have them, and so do the lanes of a bowling alley's side edges.",
+      "hint": "A record needle follows this as the disc spins.",
       "difficulty": 2,
       "id": 2143
     },
@@ -9450,9 +9043,9 @@
     },
     {
       "category": "Food & Drink",
-      "question": "What Japanese cooking technique involves skewering and grilling meat or vegetables over charcoal, often associated with small street-food restaurants called izakayas?",
+      "question": "What Japanese dish of bite-sized chicken pieces skewered and grilled over charcoal is a staple of izakaya pubs?",
       "answer": "Yakitori",
-      "hint": "The word literally translates to 'grilled chicken' in Japanese.",
+      "hint": "The word literally translates to 'grilled bird' in Japanese.",
       "difficulty": 2,
       "id": 2146
     },
@@ -9474,7 +9067,7 @@
     },
     {
       "category": "Animals & the Body",
-      "question": "What is the name of the small, comma-shaped structure attached to the large intestine that has long puzzled scientists about its function?",
+      "question": "What is the name of the small, worm-shaped pouch attached to the large intestine whose function has long puzzled scientists?",
       "answer": "Appendix",
       "hint": "When it becomes inflamed, the resulting condition is a medical emergency.",
       "difficulty": 2,
@@ -9562,7 +9155,7 @@
     },
     {
       "category": "Music",
-      "question": "Who performed 'Six Degrees of Separation,' the lead single from a 2012 indie rock album by a Dublin-formed band known for blending synths and guitar?",
+      "question": "Which Dublin-formed band released 'Six Degrees of Separation' as a single from their 2012 album '#3'?",
       "answer": "The Script",
       "hint": "This Irish band also had hits with 'Breakeven' and 'Hall of Fame.'",
       "difficulty": 2,
@@ -9570,7 +9163,7 @@
     },
     {
       "category": "Music",
-      "question": "What artist's real name is Brian Joseph Burton, a producer and musician known for genre-blending work with artists like Beyoncé and Bruno Mars?",
+      "question": "What artist's real name is Brian Joseph Burton, a producer known for work with The Black Keys and Adele and as half of Gnarls Barkley?",
       "answer": "Danger Mouse",
       "hint": "He first gained wide attention for the 'Grey Album,' which mashed up The Beatles and Jay-Z.",
       "difficulty": 3,
@@ -9626,15 +9219,15 @@
     },
     {
       "category": "TV & Movies",
-      "question": "In The Office, what is the name of Dwight Schrute's family-owned farm that doubles as a bed and breakfast?",
+      "question": "In The Office, what is the name of the beet farm Dwight runs as a bed and breakfast with his cousin Mose?",
       "answer": "Schrute Farms",
-      "hint": "It specializes in beet cultivation and has a Trip Advisor listing — Dwight responds to every review personally.",
+      "hint": "It specializes in beets, and Jim once stayed there for the night.",
       "difficulty": 2,
       "id": 2175
     },
     {
       "category": "TV & Movies",
-      "question": "What HBO series, set in the fictional city of Baltimore, is widely considered one of the greatest television dramas ever made and ran from 2002 to 2008?",
+      "question": "What HBO series, set in Baltimore, is widely considered one of the greatest television dramas ever made and ran from 2002 to 2008?",
       "answer": "The Wire",
       "hint": "Each season focuses on a different institution: police, docks, politics, schools, media.",
       "difficulty": 2,
@@ -9642,9 +9235,9 @@
     },
     {
       "category": "TV & Movies",
-      "question": "What actress played the ambitious, knife-set-obsessed mother Moira Rose in the Canadian sitcom Schitt's Creek?",
+      "question": "What actress played the dramatic, wig-obsessed mother Moira Rose in the Canadian sitcom Schitt's Creek?",
       "answer": "Catherine O'Hara",
-      "hint": "She's also known for playing a frantic mother in two very different holiday classics.",
+      "hint": "She also played Kevin's frantic mother in Home Alone.",
       "difficulty": 2,
       "id": 2177
     },
@@ -9667,47 +9260,23 @@
     },
     {
       "category": "Sports",
-      "question": "What MLB team plays at Oracle Park, a stadium famously adjacent to San Francisco Bay where home run balls sometimes land in the water?",
+      "question": "What MLB team plays at Oracle Park, where home run balls sometimes splash into McCovey Cove?",
       "answer": "San Francisco Giants",
-      "hint": "Their splash hit zone in the bay has become one of baseball's most iconic sights.",
+      "hint": "Their 'splash hits' into the water have become one of baseball's most iconic sights.",
       "difficulty": 2,
       "id": 2180
     },
     {
       "category": "Word Play",
-      "question": "What word connects a type of arrow shot, a boxing punch, and a quick photograph?",
-      "answer": "Snap",
-      "hint": "Think of the sound it makes — three very different actions share this two-syllable… wait, one-syllable word.",
-      "difficulty": 2,
-      "id": 2181
-    },
-    {
-      "category": "Word Play",
-      "question": "What word sounds like both a noble title and a fast, spinning toy?",
-      "answer": "Top",
-      "hint": "One meaning sits at the highest social rank; the other spins on a pointed tip.",
-      "difficulty": 2,
-      "id": 2182
-    },
-    {
-      "category": "Word Play",
-      "question": "What word sounds like both a part of a door mechanism and a small body of water formed after rain?",
+      "question": "What word sounds like both a part of a door mechanism and the Scottish word for a lake?",
       "answer": "Lock / Loch",
-      "hint": "One keeps you inside; the other is a Scottish body of water home to a famous monster.",
+      "hint": "One keeps you inside; the other is home to a famous monster.",
       "difficulty": 3,
       "id": 2184
     },
     {
       "category": "Acronyms & Terms",
-      "question": "Starting with G, what word means to stare at someone or something in a rude or amazed way, often with the mouth slightly open?",
-      "answer": "Gawk",
-      "hint": "You might do this when you see a celebrity in real life for the first time.",
-      "difficulty": 2,
-      "id": 2185
-    },
-    {
-      "category": "Acronyms & Terms",
-      "question": "Starting with T, what word means to walk or move in a heavy, noisy way, especially through mud or rough terrain?",
+      "question": "Starting with T, what word means to walk slowly and with heavy steps, typically because of exhaustion or difficult terrain?",
       "answer": "Trudge",
       "hint": "You might do this hiking through thick mud with heavy boots after a rainstorm.",
       "difficulty": 2,
@@ -9722,14 +9291,6 @@
       "id": 2188
     },
     {
-      "category": "Brands & Business",
-      "question": "'Just For The Love Of It' is the slogan of what soft drink brand, a longtime rival of Pepsi and Coca-Cola?",
-      "answer": "Dr Pepper",
-      "hint": "It's the oldest of the major American soft drink brands, and its flavor is notoriously hard to describe.",
-      "difficulty": 2,
-      "id": 2189
-    },
-    {
       "category": "Food & Drink",
       "question": "What spice, derived from the dried stigmas of a flower, is the world's most expensive by weight?",
       "answer": "Saffron",
@@ -9739,25 +9300,25 @@
     },
     {
       "category": "Food & Drink",
-      "question": "What country is the origin of the dish moussaka, a layered casserole typically made with eggplant and minced meat?",
+      "question": "What country is moussaka, a layered casserole of eggplant, minced meat and béchamel, most famously associated with as a national dish?",
       "answer": "Greece",
-      "hint": "It's considered a national dish there, though similar versions exist across the Balkans and Middle East.",
+      "hint": "Similar versions exist across the Balkans and Middle East, but this country's béchamel-topped version is the best known.",
       "difficulty": 2,
       "id": 2191
     },
     {
       "category": "Food & Drink",
-      "question": "What breakfast pastry, now closely associated with France, was actually invented in Austria and brought to Paris in the 19th century?",
+      "question": "What breakfast pastry, now closely associated with France, was inspired by an Austrian crescent-shaped roll brought to Paris in the 19th century?",
       "answer": "Croissant",
-      "hint": "Its crescent shape has roots in Viennese baking — the French just perfected the laminated dough technique.",
+      "hint": "Its ancestor is the Viennese kipferl; the French perfected the laminated dough technique.",
       "difficulty": 2,
       "id": 2192
     },
     {
       "category": "Animals & the Body",
-      "question": "Starting with R, what is the name of the bone that runs along the front of the chest and connects to most of the ribs?",
+      "question": "Starting with S, what is the name of the bone that runs along the front of the chest and connects to most of the ribs?",
       "answer": "Sternum",
-      "hint": "Think again — what letter does 'breastbone' start with? It's called the ___ in medical terms.",
+      "hint": "It's the medical name for the breastbone.",
       "difficulty": 2,
       "id": 2193
     },
@@ -9883,7 +9444,7 @@
     },
     {
       "category": "Music",
-      "question": "What band featured members Kim Deal, Tanya Donelly, and the Narcizo siblings, forming a Boston alternative act that spun out of another famous band?",
+      "question": "What Boston alternative band was formed by Kristin Hersh with her half-sister Tanya Donelly and later featured drummer David Narcizo?",
       "answer": "Throwing Muses",
       "hint": "This band was closely associated with 4AD Records and helped pave the way for the alternative rock boom of the early 1990s",
       "difficulty": 3,
@@ -9893,13 +9454,13 @@
       "category": "Pop Culture",
       "question": "What reality TV franchise, set in a villa, has contestants couple up to avoid elimination and famously launched a global cultural obsession starting with its UK version?",
       "answer": "Love Island",
-      "hint": "Its US version launched on Peacock, and 'I've got a text!' became a catchphrase.",
+      "hint": "Its US version now streams on Peacock, and 'I've got a text!' became a catchphrase.",
       "difficulty": 2,
       "id": 2214
     },
     {
       "category": "TV & Movies",
-      "question": "What actress won the Oscar for Best Actress for her role as a suicidal poet in 'The Hours' in 2003, wearing a prosthetic nose?",
+      "question": "What actress won the Oscar for Best Actress in 2003 for playing a suicidal novelist in 'The Hours', wearing a prosthetic nose?",
       "answer": "Nicole Kidman",
       "hint": "She played Virginia Woolf in a film adapted from a Michael Cunningham novel.",
       "difficulty": 2,
@@ -9915,7 +9476,7 @@
     },
     {
       "category": "Sports",
-      "question": "What MLB team plays its home games at Truist Park, located in the Atlanta suburb of Cumberland, Georgia?",
+      "question": "What MLB team plays its home games at Truist Park, located in Cumberland, Georgia?",
       "answer": "Atlanta Braves",
       "hint": "They won the World Series in 2021, ending a 26-year championship drought.",
       "difficulty": 2,
@@ -9930,30 +9491,6 @@
       "id": 2220
     },
     {
-      "category": "Word Play",
-      "question": "What word connects a type of tree, a sharp thrust in fencing, and the act of pushing something sharply?",
-      "answer": "Lunge",
-      "hint": "Think of a sudden forward movement — it works for a swordsman, a trainer, and a plant.",
-      "difficulty": 2,
-      "id": 2221
-    },
-    {
-      "category": "Word Play",
-      "question": "What word sounds like both a past tense of 'travel by water' and what you do when you use a needle and thread?",
-      "answer": "Sailed / Sewed",
-      "hint": "One involves a boat, the other a thimble — and they sound identical.",
-      "difficulty": 3,
-      "id": 2222
-    },
-    {
-      "category": "Word Play",
-      "question": "What word sounds like both a knight's title and a female pig?",
-      "answer": "Sir / Sow",
-      "hint": "One belongs to royalty, the other belongs on a farm.",
-      "difficulty": 2,
-      "id": 2223
-    },
-    {
       "category": "Acronyms & Terms",
       "question": "What does the 'N' in NATO stand for?",
       "answer": "North",
@@ -9963,7 +9500,7 @@
     },
     {
       "category": "Acronyms & Terms",
-      "question": "Starting with T, what word means to walk unsteadily, almost falling with each step?",
+      "question": "Starting with T and rhyming with 'potter', what word means to walk unsteadily, almost falling with each step?",
       "answer": "Totter",
       "hint": "A toddler just learning to walk tends to do this on every step.",
       "difficulty": 2,
@@ -9971,31 +9508,15 @@
     },
     {
       "category": "Acronyms & Terms",
-      "question": "Starting with W, what word means a thin raised mark left on skin after being struck?",
+      "question": "Starting with W, what word means a raised mark left on skin after being struck, and also names a strip of leather stitched around a shoe's sole?",
       "answer": "Welt",
-      "hint": "A belt or a ruler can leave one, and it's also a type of stitching on a shoe.",
+      "hint": "A belt or a ruler can leave one on your skin.",
       "difficulty": 2,
       "id": 2226
     },
     {
-      "category": "Acronyms & Terms",
-      "question": "Starting with R, what word means a small groove or channel cut into a surface, especially in woodworking or vinyl records?",
-      "answer": "Ridge",
-      "hint": "Actually, think narrower — it's the channel a record needle rides in.",
-      "difficulty": 3,
-      "id": 2227
-    },
-    {
       "category": "Food & Drink",
-      "question": "What country is the original home of the dish Pad Thai, despite its name suggesting otherwise to some?",
-      "answer": "Thailand",
-      "hint": "The dish was actually promoted as a national dish in the 1940s to encourage noodle consumption.",
-      "difficulty": 2,
-      "id": 2228
-    },
-    {
-      "category": "Food & Drink",
-      "question": "What is the name for the Japanese technique of fermenting soybeans with a specific mold to create a salty, umami-rich paste?",
+      "question": "What is the name of the salty, umami-rich Japanese paste made by fermenting soybeans with koji mold?",
       "answer": "Miso",
       "hint": "It's most commonly known in the West as the base for a Japanese soup.",
       "difficulty": 2,
@@ -10003,16 +9524,7 @@
     },
     {
       "category": "Animals & the Body",
-      "question": "Approximately how many hearts does an octopus have?",
-      "answer": "3",
-      "hint": "Two pump blood to the gills; one pumps it to the rest of the body.",
-      "difficulty": 2,
-      "numeric_type": "exact",
-      "id": 2230
-    },
-    {
-      "category": "Animals & the Body",
-      "question": "What large, slow-moving marine mammal is sometimes called a 'sea cow' and is closely related to elephants?",
+      "question": "What large, slow-moving marine mammal with a paddle-shaped tail, found in Florida's waters, is sometimes called a 'sea cow' and is closely related to elephants?",
       "answer": "Manatee",
       "hint": "Sailors once mistook these creatures for mermaids.",
       "difficulty": 2,
@@ -10036,7 +9548,7 @@
     },
     {
       "category": "Arts & Style",
-      "question": "What fashion designer, known for his red-soled luxury shoes, has his name legally trademarked on those distinctive crimson soles?",
+      "question": "What French fashion designer is famous for luxury shoes whose distinctive red soles are legally trademarked?",
       "answer": "Christian Louboutin",
       "hint": "The red sole is so iconic it's protected intellectual property in many countries.",
       "difficulty": 2,
@@ -10100,7 +9612,7 @@
     },
     {
       "category": "Music",
-      "question": "Who performed the song 'Freshmen,' a brooding 1997 alt-rock track about guilt and loss?",
+      "question": "Who performed the song 'The Freshmen,' a brooding 1997 alt-rock hit about guilt and loss?",
       "answer": "The Verve Pipe",
       "hint": "This Michigan band is often confused with the British band The Verve",
       "difficulty": 2,
@@ -10132,15 +9644,15 @@
     },
     {
       "category": "Science",
-      "question": "Starting with B, what do scientists call the invisible boundary around a planet where its magnetic field deflects the solar wind?",
+      "question": "Starting with M, what do scientists call the invisible region around a planet where its magnetic field deflects the solar wind?",
       "answer": "Magnetosphere",
-      "hint": "Think of it as Earth's invisible force field — it starts at the ___ pause.",
+      "hint": "Think of it as Earth's invisible force field.",
       "difficulty": 3,
       "id": 2252
     },
     {
       "category": "Pop Culture",
-      "question": "What viral 2012 internet challenge involved people standing completely still in unusual poses while a camera moved around them?",
+      "question": "What viral 2016 internet challenge involved people standing completely still in unusual poses while a camera moved around them?",
       "answer": "Mannequin Challenge",
       "hint": "It was set to a Rae Sremmurd song and took over social media just before a U.S. presidential election.",
       "difficulty": 3,
@@ -10148,19 +9660,11 @@
     },
     {
       "category": "TV & Movies",
-      "question": "In which film does a washed-up actor hire a stuntman who falls for his leading lady, set against the backdrop of the Manson Family murders?",
+      "question": "In which film do a washed-up TV actor and his loyal stuntman navigate 1969 Los Angeles, set against the backdrop of the Manson Family murders?",
       "answer": "Once Upon a Time in Hollywood",
       "hint": "It was directed by Quentin Tarantino and stars both Brad Pitt and Leonardo DiCaprio.",
       "difficulty": 2,
       "id": 2256
-    },
-    {
-      "category": "TV & Movies",
-      "question": "What actress played the same superhero character in both 'Captain America: Civil War' and her own standalone Disney+ series, where she investigates her own origins?",
-      "answer": "Emily VanCamp",
-      "hint": "Her character's name is Sharon Carter, also known by a numbered S.H.I.E.L.D. designation.",
-      "difficulty": 3,
-      "id": 2257
     },
     {
       "category": "Math",
@@ -10175,26 +9679,18 @@
       "category": "Math",
       "question": "What is the only positive number that is equal to the sum of all positive integers less than itself?",
       "answer": "3",
-      "hint": "It's a single digit — check: 1 plus 2 equals what?",
+      "hint": "It's a single digit and also the first odd prime.",
       "difficulty": 2,
       "numeric_type": "exact",
       "id": 2259
     },
     {
       "category": "Word Play",
-      "question": "What word sounds like both a window covering and something a poker player does when they show their hand?",
+      "question": "What word means both a window covering and a forced bet a poker player posts before the cards are dealt?",
       "answer": "Blind",
-      "hint": "One version blocks light; the other is a forced bet — or the act of revealing cards.",
+      "hint": "One version blocks light; the other comes in 'big' and 'small' sizes at the poker table.",
       "difficulty": 2,
       "id": 2260
-    },
-    {
-      "category": "Word Play",
-      "question": "What word connects a carpenter's tool, a type of saw cut, and a Japanese martial art?",
-      "answer": "Rip",
-      "hint": "One tears, one cuts with the grain, and one is a competitive grappling sport.",
-      "difficulty": 3,
-      "id": 2261
     },
     {
       "category": "Word Play",
@@ -10238,9 +9734,9 @@
     },
     {
       "category": "Acronyms & Terms",
-      "question": "Starting with L, what word means to tilt or lean to one side, often used to describe a ship or a building that isn't straight?",
+      "question": "Starting with L, what nautical word means to tilt to one side, as a damaged ship taking on water does?",
       "answer": "List",
-      "hint": "A famous Italian tower famously does this — but so does a damaged ship taking on water.",
+      "hint": "Sailors use this word; it's also a word for a written series of items.",
       "difficulty": 2,
       "id": 2267
     },
@@ -10279,9 +9775,9 @@
     },
     {
       "category": "Animals & the Body",
-      "question": "Starting with Y, what is the name of the yellow, nutrient-rich fluid that mammals produce before true breast milk comes in after giving birth?",
+      "question": "Starting with C, what is the name of the yellow, nutrient-rich fluid that mammals produce before true breast milk comes in after giving birth?",
       "answer": "Colostrum",
-      "hint": "Wait — this one starts with C. It's the first milk, packed with antibodies for the newborn.",
+      "hint": "It's the first milk, packed with antibodies for the newborn.",
       "difficulty": 3,
       "id": 2272
     },
@@ -10399,9 +9895,9 @@
     },
     {
       "category": "Music",
-      "question": "What artist's real name is Melissa Arnette Elliott, a rapper and producer known for elaborate music videos?",
+      "question": "What rapper and producer, known for elaborate music videos, has a stage name based on a nickname for her real first name, Melissa?",
       "answer": "Missy Elliott",
-      "hint": "Her stage name keeps her real last name intact",
+      "hint": "Her hits include 'Get Ur Freak On' and 'Work It'.",
       "difficulty": 2,
       "id": 2291
     },
@@ -10415,9 +9911,9 @@
     },
     {
       "category": "Science",
-      "question": "Starting with T, what is the name for the layer of the atmosphere directly above the stratosphere?",
-      "answer": "Thermosphere",
-      "hint": "___ pause sits above it; the mesosphere sits below the stratosphere.",
+      "question": "Starting with M, what is the name for the layer of the atmosphere directly above the stratosphere?",
+      "answer": "Mesosphere",
+      "hint": "It sits between the stratosphere and the thermosphere, and it's where most meteors burn up.",
       "difficulty": 3,
       "id": 2293
     },
@@ -10447,75 +9943,35 @@
     },
     {
       "category": "TV & Movies",
-      "question": "What is the name of the oceanographic research vessel crewed by marine biologist Ned Land, Professor Aronnax, and Captain Nemo in a classic adventure novel, also adapted into a 1954 Disney film?",
+      "question": "What is the name of Captain Nemo's submarine, which carries Professor Aronnax and harpooner Ned Land in a classic adventure novel adapted into a 1954 Disney film?",
       "answer": "Nautilus",
-      "hint": "The novel was written by Jules Verne and the vessel travels 20,000 leagues under the sea.",
+      "hint": "The novel was written by Jules Verne, and the vessel travels 20,000 leagues under the sea.",
       "difficulty": 2,
       "id": 2297
     },
     {
       "category": "TV & Movies",
-      "question": "In the 2017 film 'Get Out,' what is the name of the hypnotic technique that the Armitage family uses to take over their victims' bodies?",
+      "question": "In the 2017 film 'Get Out,' what is the name of the paralyzed mental state that victims are sent to when hypnotized by Missy Armitage?",
       "answer": "The Sunken Place",
-      "hint": "It's induced using a teacup and described as being trapped deep inside yourself while someone else controls your body.",
+      "hint": "It's induced by stirring a teacup, and victims float helplessly while watching their own life from far away.",
       "difficulty": 2,
       "id": 2298
     },
     {
       "category": "TV & Movies",
-      "question": "What Netflix series follows a group of French-speaking teens in a coastal town who discover a time tunnel connected to 1986, 1953, and beyond?",
+      "question": "What Netflix series follows teens in the small German town of Winden who discover a cave-based time tunnel connected to 1986, 1953, and beyond?",
       "answer": "Dark",
-      "hint": "It is a German-language production and is often compared to Stranger Things for its sci-fi mystery tone.",
+      "hint": "It was Netflix's first German-language original series and is often compared to Stranger Things.",
       "difficulty": 3,
       "id": 2299
     },
     {
-      "category": "TV & Movies",
-      "question": "What actress played both Hela in Thor: Ragnarok and the character of Lydia in the sitcom Two Broke Girls?",
-      "answer": "Cate Blanchett",
-      "hint": "She is an Australian actress who has won two Academy Awards.",
-      "difficulty": 3,
-      "id": 2300
-    },
-    {
-      "category": "TV & Movies",
-      "question": "What FX series starring Succession's Jeremy Strong portrays the founding of a certain social media company through the eyes of a tech investor?",
-      "answer": "The Actors",
-      "hint": "The show premiered in 2024 and is based on the book 'No Filter' about Instagram's rise.",
-      "difficulty": 3,
-      "id": 2301
-    },
-    {
       "category": "Word Play",
-      "question": "What word connects a bend in a river, a type of cocktail glass, and something you feel when embarrassed?",
-      "answer": "Flush",
-      "hint": "Think of the cheeks, the cards, and the oxbow.",
-      "difficulty": 2,
-      "id": 2304
-    },
-    {
-      "category": "Word Play",
-      "question": "What word sounds like both a male deer and a past tense of 'pass'?",
+      "question": "What word sounds like both 'overtook another car' and 'the time before now'?",
       "answer": "Passed / Past",
-      "hint": "One lives in the forest; the other describes time that has already gone by.",
+      "hint": "One is what you did on the highway; the other describes time that has already gone by.",
       "difficulty": 2,
       "id": 2305
-    },
-    {
-      "category": "Word Play",
-      "question": "What word connects the back of a ship, a formal evening event, and a ward in a hospital?",
-      "answer": "Stern",
-      "hint": "One sails, one dances, and one heals — but all share this word.",
-      "difficulty": 2,
-      "id": 2306
-    },
-    {
-      "category": "Acronyms & Terms",
-      "question": "Starting with J, what word means to bring two pieces of metal together permanently using a filler melted by intense heat?",
-      "answer": "Join",
-      "hint": "Think of what a welder does — but the answer is the simpler, everyday verb for what the process achieves.",
-      "difficulty": 2,
-      "id": 2307
     },
     {
       "category": "Acronyms & Terms",
@@ -10591,15 +10047,15 @@
     },
     {
       "category": "Sports",
-      "question": "In American football, what is the term for a defensive play where the ball carrier is tackled behind the line of scrimmage for a loss of yards?",
+      "question": "In American football, what is the term for a defensive play where the quarterback is tackled behind the line of scrimmage before he can throw a forward pass?",
       "answer": "Sack",
-      "hint": "This term specifically refers to tackling the quarterback while he still has the ball before he can throw it.",
+      "hint": "Defensive ends and linebackers rack these up as a key stat — it's a big loss of yards for the offense.",
       "difficulty": 2,
       "id": 2317
     },
     {
       "category": "Math",
-      "question": "Approximately how many prime numbers are there between 1 and 100?",
+      "question": "How many prime numbers are there between 1 and 100?",
       "answer": "25",
       "hint": "Start at 2, the only even prime, and count upward — there are fewer than you'd guess, but more than a dozen.",
       "difficulty": 2,
@@ -10680,7 +10136,7 @@
     },
     {
       "category": "Science",
-      "question": "Starting with N, what is the term for the tendency of an object to resist changes to its state of motion?",
+      "question": "Starting with I, what is the term for the tendency of an object to resist changes to its state of motion?",
       "answer": "Inertia",
       "hint": "It's described in the first of a famous scientist's three laws of motion — ___ keeps a resting object at rest.",
       "difficulty": 2,
@@ -10688,7 +10144,7 @@
     },
     {
       "category": "Science",
-      "question": "A neutron star so dense that not even light can escape its gravity is called what?",
+      "question": "What is the name for a region of space, often formed by the collapse of a massive star, so dense that not even light can escape its gravity?",
       "answer": "Black hole",
       "hint": "Stephen Hawking spent much of his career theorizing about what happens at their boundary.",
       "difficulty": 2,
@@ -10720,15 +10176,15 @@
     },
     {
       "category": "Pop Culture",
-      "question": "What internet meme format features an expanding brain with increasingly absurd tiers of logic, each one supposedly more 'enlightened' than the last?",
-      "answer": "Galaxy brain",
+      "question": "What internet meme format shows a series of increasingly glowing, cosmic brains next to increasingly absurd ideas, each supposedly more 'enlightened' than the last?",
+      "answer": "Galaxy brain (also accept Expanding Brain)",
       "hint": "The meme is often used sarcastically to mock someone reasoning their way to an absurd conclusion.",
       "difficulty": 2,
       "id": 2340
     },
     {
       "category": "Pop Culture",
-      "question": "What true-crime podcast, released in 2014, became the first podcast ever to reach 5 million downloads on iTunes and sparked nationwide debate about a murder conviction?",
+      "question": "What true-crime podcast, released in 2014, became the fastest podcast ever to reach 5 million downloads on iTunes and sparked nationwide debate about a murder conviction?",
       "answer": "Serial",
       "hint": "Its first season investigated the murder of a Baltimore high school student named Hae Min Lee.",
       "difficulty": 3,
@@ -10738,7 +10194,7 @@
       "category": "TV & Movies",
       "question": "What actor plays the title character in the Apple TV+ series Ted Lasso, an American football coach hired to manage an English soccer club?",
       "answer": "Jason Sudeikis",
-      "hint": "He's a Saturday Night Live alumni known for impressions before landing this role.",
+      "hint": "He's a Saturday Night Live alumnus known for impressions before landing this role.",
       "difficulty": 2,
       "id": 2343
     },
@@ -10746,7 +10202,7 @@
       "category": "TV & Movies",
       "question": "In the 1994 film Pulp Fiction, what dance competition do Vincent Vega and Mia Wallace win at a diner called Jack Rabbit Slim's?",
       "answer": "Twist contest",
-      "hint": "The trophy they win is a small statue of a couple doing the dance — it becomes a brief point of confusion later.",
+      "hint": "They dance to Chuck Berry's 'You Never Can Tell' and take home a trophy.",
       "difficulty": 3,
       "id": 2344
     },
@@ -10769,7 +10225,7 @@
     },
     {
       "category": "Sports",
-      "question": "The Padres, the Chargers, and the Wave FC all play their home games in which California city?",
+      "question": "The Padres, the Wave FC, and the Gulls all play their home games in which California city?",
       "answer": "San Diego",
       "hint": "This city is right on the US-Mexico border and is known for its year-round mild weather.",
       "difficulty": 2,
@@ -10793,14 +10249,6 @@
     },
     {
       "category": "Word Play",
-      "question": "What word connects a batting order position in cricket, a set of stairs, and a type of fish migration up a river?",
-      "answer": "Run",
-      "hint": "In cricket you score them, on a building you climb them, and salmon do it every year.",
-      "difficulty": 2,
-      "id": 2350
-    },
-    {
-      "category": "Word Play",
       "question": "What word sounds like both a legal document transferring property and a brave or courageous act?",
       "answer": "Deed",
       "hint": "One goes in a filing cabinet at a county office, the other earns a medal.",
@@ -10817,7 +10265,7 @@
     },
     {
       "category": "Acronyms & Terms",
-      "question": "What does CAPTCHA stand for — specifically, what does the 'T' represent?",
+      "question": "In the acronym CAPTCHA, the first 'T' stands for 'Turing' — what does the second 'T' stand for?",
       "answer": "Telling",
       "hint": "Completely Automated Public Turing test to ___ Computers and Humans Apart — those squiggly text puzzles online.",
       "difficulty": 3,
@@ -10825,7 +10273,7 @@
     },
     {
       "category": "Acronyms & Terms",
-      "question": "Starting with G, what word means to look at something with an intense, fixed stare over a long period of time?",
+      "question": "Starting with G, what word means to look steadily at something for a long time, often in admiration or wonder?",
       "answer": "Gaze",
       "hint": "You might do this at a sunset, a painting, or someone you have a crush on.",
       "difficulty": 2,
@@ -10833,7 +10281,7 @@
     },
     {
       "category": "Acronyms & Terms",
-      "question": "Starting with T, what word means to shake or vibrate rapidly with a slight, irregular trembling motion?",
+      "question": "Starting with T, what word means to shake or quiver involuntarily with slight, rapid movements?",
       "answer": "Tremble",
       "hint": "You might do this when you're standing in the cold or feeling very nervous before a big moment.",
       "difficulty": 2,
@@ -10841,7 +10289,7 @@
     },
     {
       "category": "Acronyms & Terms",
-      "question": "Starting with W, what word means a rotating frame or structure that turns on an axle, used to raise water from a well or lift heavy loads?",
+      "question": "Starting with W, what word names a cranked or motorized drum that winds in a cable to pull or lift heavy loads?",
       "answer": "Winch",
       "hint": "You'll find one on the front of a tow truck — it's what reels in the cable.",
       "difficulty": 2,
@@ -10865,9 +10313,9 @@
     },
     {
       "category": "Food & Drink",
-      "question": "What Japanese dish consists of vinegared rice topped with raw fish or other ingredients, and is often confused with a broader term that includes rolls?",
+      "question": "What type of sushi consists of a hand-pressed oval of vinegared rice topped with a slice of raw fish, with no seaweed wrap?",
       "answer": "Nigiri",
-      "hint": "It's the kind where a chef presses the rice by hand into an oval and drapes a slice of fish on top — no seaweed involved.",
+      "hint": "Its name roughly means 'grip' or 'two fingers' in Japanese, from how the chef shapes the rice.",
       "difficulty": 2,
       "id": 2360
     },
@@ -10897,7 +10345,7 @@
     },
     {
       "category": "Arts & Style",
-      "question": "What Japanese art form involves decorating objects with paper cutouts layered under varnish, originating as a way to imitate lacquerwork?",
+      "question": "What craft involves decorating objects with paper cutouts layered under varnish, popularized in 17th–18th-century Europe as a way to imitate Asian lacquerwork?",
       "answer": "Decoupage",
       "hint": "The name comes from the French word for 'cutting out' — you layer paper scraps onto surfaces and seal them.",
       "difficulty": 3,
@@ -10961,7 +10409,7 @@
     },
     {
       "category": "Music",
-      "question": "Who performed 'Connection,' a 1995 Britpop single with a driving guitar riff and a chorus that became a staple of mid-90s alternative radio?",
+      "question": "Who performed 'Connection,' a 1994 Britpop single with a driving guitar riff and a chorus that became a staple of mid-90s alternative radio?",
       "answer": "Elastica",
       "hint": "The band was fronted by Justine Frischmann and faced plagiarism allegations over similarities to Wire songs.",
       "difficulty": 3,
@@ -10985,7 +10433,7 @@
     },
     {
       "category": "Music",
-      "question": "What artist's real name is Robert Sylvester Kelly — wait, that answer is excluded — what artist's real name is Christopher Brian Bridges, a rapper and actor who appeared in the 'Fast and Furious' franchise?",
+      "question": "What artist's real name is Christopher Brian Bridges, a rapper and actor who appeared in the 'Fast and Furious' franchise?",
       "answer": "Ludacris",
       "hint": "He released the albums 'Word of Mouf' and 'Chicken-n-Beer' in the early 2000s.",
       "difficulty": 2,
@@ -11008,28 +10456,12 @@
       "id": 2384
     },
     {
-      "category": "Pop Culture",
-      "question": "What former child actor, known for a 2000s Disney show, made headlines in 2023 for a profanity-laden podcast appearance that went viral?",
-      "answer": "Shia LaBeouf",
-      "hint": "He later converted to Catholicism — his journey was widely covered.",
-      "difficulty": 3,
-      "id": 2386
-    },
-    {
       "category": "TV & Movies",
       "question": "What streaming series starring Jeremy Allen White as a chef trying to save a family sandwich shop won multiple Emmys in 2023?",
       "answer": "The Bear",
       "hint": "It's set in Chicago and named after the restaurant the lead character opens.",
       "difficulty": 2,
       "id": 2387
-    },
-    {
-      "category": "TV & Movies",
-      "question": "What satirical film features a dystopian society that awards citizens points for life events and stars Christoph Waltz?",
-      "answer": "The Zero Theorem",
-      "hint": "Terry Gilliam directed it — think Brazil but set in a data-obsessed future.",
-      "difficulty": 3,
-      "id": 2388
     },
     {
       "category": "TV & Movies",
@@ -11041,24 +10473,16 @@
     },
     {
       "category": "Sports",
-      "question": "In baseball, what term describes when a batter is credited with reaching base due to a fielder's mistake?",
+      "question": "In baseball, what term describes when a batter reaches base due to a fielder's mistake?",
       "answer": "Error",
-      "hint": "The batter doesn't get a hit, but the at-bat doesn't count against his average.",
+      "hint": "The batter is not credited with a hit, and it's marked with an 'E' on the scoreboard.",
       "difficulty": 2,
       "id": 2392
     },
     {
       "category": "Word Play",
-      "question": "What word sounds like both a past tense of 'knead' and an action a tailor avoids when working with pins?",
-      "answer": "Sewed / Sowed",
-      "hint": "One happens in a garden and one happens in a workshop.",
-      "difficulty": 3,
-      "id": 2393
-    },
-    {
-      "category": "Word Play",
-      "question": "What word sounds like both a strong gust of wind and what a trumpet player does to create sound?",
-      "answer": "Blows / Blows",
+      "question": "What word means both a strong gust of wind and what a trumpet player does to create sound?",
+      "answer": "Blow",
       "hint": "Same spelling, same pronunciation — completely different contexts.",
       "difficulty": 2,
       "id": 2394
@@ -11081,7 +10505,7 @@
     },
     {
       "category": "Acronyms & Terms",
-      "question": "Starting with T, what word means to move from one place to another on foot at a slow, relaxed pace?",
+      "question": "Starting with T, what word means to make a long, arduous journey, typically on foot?",
       "answer": "Trek",
       "hint": "It implies effort over distance — not a stroll, but not a run.",
       "difficulty": 2,
@@ -11113,27 +10537,11 @@
     },
     {
       "category": "Brands & Business",
-      "question": "What tech company's logo is a stylized letter made to look like a window with four colored panes?",
+      "question": "What tech company's logo, redesigned in 2012, is four colored squares arranged in a two-by-two grid?",
       "answer": "Microsoft",
-      "hint": "It was redesigned in 2012 to match their new operating system's aesthetic.",
+      "hint": "The squares are orange-red, green, blue and yellow, and the company makes Windows.",
       "difficulty": 2,
       "id": 2402
-    },
-    {
-      "category": "Food & Drink",
-      "question": "What nut is technically the seed of a fruit related to mangoes and cashews, and is considered one of the world's most expensive nuts by weight?",
-      "answer": "Macadamia",
-      "hint": "It originated in Australia and takes about a year for the tree to produce after flowering.",
-      "difficulty": 2,
-      "id": 2403
-    },
-    {
-      "category": "Food & Drink",
-      "question": "What Italian city is the origin of both a sparkling wine and a flat bread traditionally topped with tomato and cheese?",
-      "answer": "Naples",
-      "hint": "One of the dishes named after it is one of the world's most popular foods.",
-      "difficulty": 3,
-      "id": 2404
     },
     {
       "category": "Animals & the Body",
@@ -11193,7 +10601,7 @@
     },
     {
       "category": "Music",
-      "question": "Who performed the song 'Pepper,' a rapid-fire 1996 alt-rock track with deadpan spoken verses released on the album 'Ladies Man'?",
+      "question": "Who performed the song 'Pepper,' a 1996 alt-rock track with deadpan spoken verses released on the album 'Electriclarryland'?",
       "answer": "Butthole Surfers",
       "hint": "This Texas band was known for chaotic live shows and provocative name choices throughout the 1980s and 90s.",
       "difficulty": 3,
@@ -11201,7 +10609,7 @@
     },
     {
       "category": "Music",
-      "question": "What artist's real name is Robert Bryson Hall II, a rapper who frequently collaborates with Chance the Rapper and released the album 'Watching Movies with the Sound Off'?",
+      "question": "What artist's real name is Malcolm James McCormick? Clue: he was a rapper who released the album 'Watching Movies with the Sound Off'.",
       "answer": "Mac Miller",
       "hint": "This Pittsburgh rapper's debut mixtape 'But My Mackin' Ain't Easy' dropped when he was just fifteen years old.",
       "difficulty": 3,
@@ -11218,27 +10626,19 @@
     {
       "category": "Science",
       "question": "Approximately how many times has the Earth orbited the Sun since the dinosaurs went extinct?",
-      "answer": "66000000",
-      "hint": "The mass extinction event happened roughly 66 million years ago.",
+      "answer": "66 million",
+      "hint": "The extinction was caused by an asteroid impact at the end of the Cretaceous period.",
       "difficulty": 2,
       "numeric_type": "approximation",
       "id": 2423
     },
     {
       "category": "Pop Culture",
-      "question": "What internet meme features a two-panel comic in which a figure points excitedly at something that looks identical to what they pointed at before?",
+      "question": "What internet meme shows two identical superheroes pointing at each other, used when two people or things are the same?",
       "answer": "Spider-Man pointing",
       "hint": "It originally came from a 1960s animated TV show and exploded on social media around 2011.",
       "difficulty": 2,
       "id": 2424
-    },
-    {
-      "category": "Pop Culture",
-      "question": "What term, coined on social media, describes the phenomenon of a person's algorithm becoming so personalized that their feed only reinforces their existing worldview?",
-      "answer": "Filter bubble",
-      "hint": "A political scientist named Eli Pariser popularized the concept in a 2011 TED Talk.",
-      "difficulty": 3,
-      "id": 2425
     },
     {
       "category": "TV & Movies",
@@ -11258,15 +10658,6 @@
     },
     {
       "category": "Math",
-      "question": "What two-digit number is both a perfect square and reads the same upside down?",
-      "answer": "96",
-      "hint": "Think of digits that look like themselves when flipped, and check which perfect square qualifies — wait, try rotating 180 degrees.",
-      "difficulty": 3,
-      "numeric_type": "approximation",
-      "id": 2428
-    },
-    {
-      "category": "Math",
       "question": "A clock's minute and hour hands overlap at 12:00. Approximately how many minutes later do they overlap again?",
       "answer": "65",
       "hint": "The minute hand moves faster than the hour hand — it takes more than an hour to lap it.",
@@ -11276,19 +10667,11 @@
     },
     {
       "category": "Sports",
-      "question": "What NFL team plays home games in a domed stadium in Las Vegas after relocating from Oakland in 2020?",
+      "question": "What NFL team began playing home games at the domed Allegiant Stadium in 2020 after relocating from California?",
       "answer": "Las Vegas Raiders",
       "hint": "Their distinctive black-and-silver color scheme has been the same since their early days.",
       "difficulty": 2,
       "id": 2430
-    },
-    {
-      "category": "Sports",
-      "question": "In American football, what is the term for a punt that the kicking team downs inside the opponent's 20-yard line?",
-      "answer": "Pin",
-      "hint": "Special teams units celebrate this as field position gold.",
-      "difficulty": 3,
-      "id": 2432
     },
     {
       "category": "Sports",
@@ -11297,22 +10680,6 @@
       "hint": "It was their first championship in the franchise's history.",
       "difficulty": 2,
       "id": 2433
-    },
-    {
-      "category": "Word Play",
-      "question": "What word connects a fastening on a belt, a genre of music known for its swinging rhythm, and the act of giving in under pressure?",
-      "answer": "Buckle",
-      "hint": "One snaps shut, one swings, and one describes knees on a scary roller coaster.",
-      "difficulty": 2,
-      "id": 2434
-    },
-    {
-      "category": "Word Play",
-      "question": "What word sounds like both a type of writing instrument and a female pig?",
-      "answer": "Pen",
-      "hint": "One scratches paper, the other wallows in mud.",
-      "difficulty": 2,
-      "id": 2435
     },
     {
       "category": "Acronyms & Terms",
@@ -11324,19 +10691,11 @@
     },
     {
       "category": "Acronyms & Terms",
-      "question": "Starting with L, what word means to move in a slow, relaxed way, often with limbs hanging loosely?",
+      "question": "Starting with L, what word means to sit or lie in a lazy, relaxed way, or to let something hang loosely?",
       "answer": "Loll",
       "hint": "A dog in the back seat of a car on a hot day does this with its tongue.",
       "difficulty": 3,
       "id": 2437
-    },
-    {
-      "category": "Acronyms & Terms",
-      "question": "Starting with R, what word means a small groove or channel cut into a surface, as seen along the edge of a coin?",
-      "answer": "Reeding",
-      "hint": "Run your thumb along a quarter's edge to feel what this looks like.",
-      "difficulty": 3,
-      "id": 2438
     },
     {
       "category": "Brands & Business",
@@ -11348,7 +10707,7 @@
     },
     {
       "category": "Brands & Business",
-      "question": "What tech company's logo features a multicolored peacock-like symbol and is associated with the phrase 'Must See TV'?",
+      "question": "What TV network's logo features a multicolored peacock-like symbol and is associated with the phrase 'Must See TV'?",
       "answer": "NBC",
       "hint": "The network redesigned its logo in 1986 and the colorful symbol has stuck ever since.",
       "difficulty": 2,
@@ -11404,7 +10763,7 @@
     },
     {
       "category": "Pop Culture",
-      "question": "What name did Elon Musk give his first son, born in 2020, that consists entirely of letters, numbers, and symbols?",
+      "question": "What name did Elon Musk give the son born to him and Grimes in May 2020, a name made up entirely of letters, numbers, and symbols?",
       "answer": "X Æ A-12",
       "hint": "The name was partly inspired by a stealth aircraft and an AI reference.",
       "difficulty": 3,
@@ -11460,19 +10819,11 @@
     },
     {
       "category": "Music",
-      "question": "What artist's real name is Declan Patrick MacManus, a British singer-songwriter who adopted a surname borrowed from Elvis Presley?",
+      "question": "What artist's real name is Declan Patrick MacManus, a British singer-songwriter whose stage surname came from his father's performing name?",
       "answer": "Elvis Costello",
       "hint": "New wave pioneer known for 'Alison' and 'Pump It Up,' he has collaborated with everyone from Burt Bacharach to the Brodsky Quartet",
       "difficulty": 3,
       "id": 2462
-    },
-    {
-      "category": "Music",
-      "question": "Who performed 'Novocaine,' a 2016 pop-rock hit driven by a punchy guitar riff, released by a band whose name references a classic 80s film?",
-      "answer": "Fall Out Boy",
-      "hint": "Chicago pop-punk group named after a Simpsons character; this track appeared on their album 'M A N I A'",
-      "difficulty": 3,
-      "id": 2463
     },
     {
       "category": "Science",
@@ -11508,19 +10859,11 @@
     },
     {
       "category": "Pop Culture",
-      "question": "What internet-born phrase, popularized around 2012, refers to the fear of missing out on social events and is now listed in major dictionaries?",
+      "question": "What four-letter acronym describes the anxiety that others are having rewarding experiences without you, a term now listed in major dictionaries?",
       "answer": "FOMO",
-      "hint": "It's an acronym that became a diagnosis of the social media age.",
+      "hint": "It's an acronym that became a catchphrase of the social media age.",
       "difficulty": 2,
       "id": 2469
-    },
-    {
-      "category": "Pop Culture",
-      "question": "What fictional social media platform is used by characters in the TV universe but gained real-world ironic use when people actually signed up at its URL?",
-      "answer": "Bluesky",
-      "hint": "Think of where Twitter refugees fled — this platform's name evokes an optimistic horizon.",
-      "difficulty": 3,
-      "id": 2470
     },
     {
       "category": "TV & Movies",
@@ -11531,17 +10874,8 @@
       "id": 2471
     },
     {
-      "category": "Math",
-      "question": "If you double a penny every day for 30 days, roughly how many dollars do you end up with?",
-      "answer": "10737418",
-      "hint": "The answer is far larger than most people expect — we're talking millions, not thousands.",
-      "difficulty": 3,
-      "numeric_type": "approximation",
-      "id": 2474
-    },
-    {
       "category": "Sports",
-      "question": "The Rays, the Buccaneers, and the Lightning all play in which Florida city?",
+      "question": "The Buccaneers and the Lightning both play in which Florida city?",
       "answer": "Tampa",
       "hint": "This city sits on a bay on Florida's Gulf Coast and hosted Super Bowl LV.",
       "difficulty": 2,
@@ -11557,15 +10891,7 @@
     },
     {
       "category": "Word Play",
-      "question": "What word sounds like both a military rank above colonel and a general direction?",
-      "answer": "Brigadier / broader",
-      "hint": "One commands a brigade; the other means more wide-ranging or expansive.",
-      "difficulty": 3,
-      "id": 2478
-    },
-    {
-      "category": "Word Play",
-      "question": "What word sounds like both a raised platform for a speaker and the act of raising something up?",
+      "question": "What word sounds like both a raised platform for a speaker and a state of stunned confusion?",
       "answer": "Dais / daze",
       "hint": "One is where a lecturer stands; the other means to stun or bewilder.",
       "difficulty": 3,
@@ -11581,41 +10907,33 @@
     },
     {
       "category": "Acronyms & Terms",
-      "question": "What does the 'I' in SCUBA stand for?",
-      "answer": "Independent",
+      "question": "What does the 'A' in SCUBA stand for?",
+      "answer": "Apparatus",
       "hint": "Self-Contained Underwater Breathing ___ — the gear lets a diver carry their own air supply.",
       "difficulty": 3,
       "id": 2481
     },
     {
       "category": "Acronyms & Terms",
-      "question": "Starting with G, what word means the rate at which something speeds up — also a pedal in your car?",
+      "question": "Starting with G, what informal word names the pedal you press to make a car go faster?",
       "answer": "Gas",
-      "hint": "You press it to go faster — it's the informal name for the accelerator pedal.",
+      "hint": "It's the informal name for the accelerator pedal.",
       "difficulty": 2,
       "id": 2482
     },
     {
       "category": "Acronyms & Terms",
-      "question": "Starting with T, what word means to walk or step heavily, making a loud thudding sound?",
-      "answer": "Tramp",
-      "hint": "Think of boots stomping through mud or a giant walking through a forest.",
-      "difficulty": 2,
-      "id": 2483
-    },
-    {
-      "category": "Acronyms & Terms",
-      "question": "Starting with W, what word means a rotating wheel with paddles or buckets, turned by flowing water to power machinery?",
+      "question": "Starting with W, what rotating device with paddles or buckets, turned by a flowing river, was used to power old mills?",
       "answer": "Waterwheel",
-      "hint": "You'd find one beside an old mill, with a river turning its blades.",
+      "hint": "You'd find one beside an old grain mill, its blades turned by the current.",
       "difficulty": 2,
       "id": 2484
     },
     {
       "category": "Brands & Business",
-      "question": "What company's mascot is a mustachioed man in a white cap who appears on cans of cleaning product and winks at the viewer?",
+      "question": "What cleaning brand's mascot is a bald, muscular man in a white T-shirt who stands with his arms folded?",
       "answer": "Mr. Clean",
-      "hint": "He's bald, muscular, and wears a single gold earring — and his product is made by Procter & Gamble.",
+      "hint": "He wears a single gold earring, and his product is made by Procter & Gamble.",
       "difficulty": 2,
       "id": 2485
     },
@@ -11629,9 +10947,9 @@
     },
     {
       "category": "Food & Drink",
-      "question": "What Italian cheese, whose name literally translates to 'pulled' or 'stretched,' is the primary cheese on a Neapolitan pizza?",
+      "question": "What Italian stretched-curd cheese, whose name comes from a word meaning 'to cut off,' is the primary cheese on a Neapolitan pizza?",
       "answer": "Mozzarella",
-      "hint": "It comes from the word for the pulling and stretching technique used to make it.",
+      "hint": "Pieces are torn or cut from the stretched curd; buffalo milk versions are prized in Campania.",
       "difficulty": 2,
       "id": 2487
     },
@@ -11655,14 +10973,14 @@
       "category": "TV & Movies",
       "question": "What streaming series, released by Netflix in 2021, became the platform's most-watched non-English show ever and features players competing in deadly versions of children's games?",
       "answer": "Squid Game",
-      "hint": "It's a South Korean series whose final game involves a childhood drawing activity with a needle.",
+      "hint": "It's a South Korean series; one round has players carving shapes out of honeycomb candy with a needle.",
       "difficulty": 2,
       "id": 2490
     },
     {
       "category": "Acronyms & Terms",
       "question": "Starting with Z, what word means great enthusiasm and energy, often used to describe someone who attacks tasks with relish?",
-      "answer": "Zeal",
+      "answer": "Zeal (also accept Zest)",
       "hint": "A person full of this quality is sometimes called a zealot — though that word has taken on a more extreme meaning.",
       "difficulty": 2,
       "id": 2492
@@ -11693,9 +11011,9 @@
     },
     {
       "category": "Music",
-      "question": "Who performed the song 'Banditos,' a loose and swaggering 1996 alt-country rock track from their debut album 'Strangers Almanac'?",
+      "question": "Who performed the song 'Banditos,' a swaggering 1996 rock track from their major-label debut album 'Fizzy Fuzzy Big & Buzzy'?",
       "answer": "The Refreshments",
-      "hint": "An Arizona band not to be confused with the Refreshments who became the theme song writers for King of the Hill — actually, it is that same band",
+      "hint": "An Arizona band who also performed the theme song for 'King of the Hill'",
       "difficulty": 3,
       "id": 2504
     },
@@ -11709,7 +11027,7 @@
     },
     {
       "category": "Music",
-      "question": "What band released the album 'The Sophtware Slump' in 2000, a sprawling concept record about an astronaut that helped define the post-rock and indie rock sound of the early 2000s?",
+      "question": "What band released the album 'The Sophtware Slump' in 2000, a sprawling record about technology and alienation that became an indie rock touchstone of the early 2000s?",
       "answer": "Grandaddy",
       "hint": "A Modesto, California band led by Jason Lytle whose lo-fi ambition earned critical acclaim but limited commercial success",
       "difficulty": 3,
@@ -11725,7 +11043,7 @@
     },
     {
       "category": "History & Geography",
-      "question": "What war, fought between Bolivia and Paraguay in the 1930s, was partly triggered by oil companies who falsely believed a dry region held vast reserves?",
+      "question": "What war, fought between Bolivia and Paraguay in the 1930s, was partly fueled by the belief that the disputed region held oil reserves?",
       "answer": "Chaco War",
       "hint": "It was the bloodiest South American conflict of the 20th century, fought over a scorching lowland region.",
       "difficulty": 3,
@@ -11733,17 +11051,17 @@
     },
     {
       "category": "Pop Culture",
-      "question": "What internet meme format features a person calmly sitting next to something on fire with the caption 'This is fine'?",
-      "answer": "This Is Fine dog",
-      "hint": "The original comic strip was created by KC Green and shows an anthropomorphic animal in a burning room.",
+      "question": "In KC Green's famous webcomic meme, what animal sits calmly in a burning room and says everything is fine?",
+      "answer": "Dog",
+      "hint": "It wears a small hat and sips coffee while the room burns around it.",
       "difficulty": 2,
       "id": 2511
     },
     {
       "category": "Pop Culture",
-      "question": "What term describes the viral practice of posting extremely ordinary or mundane activities on social media as if they were remarkable achievements?",
-      "answer": "Humble bragging",
-      "hint": "A complaint disguised as a boast — 'So exhausted from my third vacation this month.'",
+      "question": "What term describes a boast disguised as a complaint or modest remark, like 'So exhausted from my third vacation this month'?",
+      "answer": "Humblebrag",
+      "hint": "The term was popularized by comedian Harris Wittels.",
       "difficulty": 2,
       "id": 2512
     },
@@ -11757,7 +11075,7 @@
     },
     {
       "category": "TV & Movies",
-      "question": "What streaming series, set in a California beach town, follows a murder investigation told from multiple shifting perspectives across its seasons?",
+      "question": "What HBO series, set in Monterey, California, revolves around a murder at a school fundraiser and the mothers caught up in it?",
       "answer": "Big Little Lies",
       "hint": "It starred Nicole Kidman, Reese Witherspoon, and Meryl Streep in its second season.",
       "difficulty": 2,
@@ -11774,14 +11092,6 @@
     },
     {
       "category": "Sports",
-      "question": "In basketball, what is the term for a shot that is blocked so hard it flies into the crowd or well out of bounds?",
-      "answer": "Rejection",
-      "hint": "Sportscasters use this word to describe a emphatic block — stronger than just a normal swat.",
-      "difficulty": 2,
-      "id": 2516
-    },
-    {
-      "category": "Sports",
       "question": "In what sport would you execute a move called a 'Fosbury Flop'?",
       "answer": "High jump",
       "hint": "The technique involves going over the bar backwards and was introduced at the 1968 Olympics.",
@@ -11790,27 +11100,11 @@
     },
     {
       "category": "Word Play",
-      "question": "What word connects a tight curl of hair, a spiral pasta shape, and a metal fastener used in woodworking?",
-      "answer": "Screw",
-      "hint": "One version of this word is found in hardware stores, on pasta menus, and in a hairdresser's chair.",
-      "difficulty": 2,
-      "id": 2518
-    },
-    {
-      "category": "Word Play",
-      "question": "What word connects the person who runs a household staff, a gateway at the entrance of an estate, and a dark beer brewed in England?",
+      "question": "What word connects a hotel worker who carries your bags, a doorkeeper at a college or building, and a dark beer first brewed in London?",
       "answer": "Porter",
       "hint": "Think about who carries your bags at a hotel, who guards a door, and what you order at a British pub.",
       "difficulty": 3,
       "id": 2519
-    },
-    {
-      "category": "Word Play",
-      "question": "What word sounds like both a giant nocturnal primate legend and an abbreviation often scrawled at the bottom of a letter?",
-      "answer": "Yeti / PS",
-      "hint": "Rethink the question — one word must work for both. Think about what 'P.S.' sounds like when said aloud as a word.",
-      "difficulty": 3,
-      "id": 2520
     },
     {
       "category": "Acronyms & Terms",
@@ -11839,7 +11133,7 @@
     {
       "category": "Acronyms & Terms",
       "question": "What does the 'T' in the acronym SWAT stand for?",
-      "answer": "Tactical",
+      "answer": "Tactics",
       "hint": "Special Weapons And ___ — it's a specialized police unit.",
       "difficulty": 2,
       "id": 2524
@@ -11854,7 +11148,7 @@
     },
     {
       "category": "Acronyms & Terms",
-      "question": "Starting with U, what word means to speak without preparation, inventing words or music as you go?",
+      "question": "Starting with I, what word means to speak without preparation, inventing words or music as you go?",
       "answer": "Improvise",
       "hint": "Jazz musicians and stand-up comedians are famous for doing this.",
       "difficulty": 2,
@@ -11878,9 +11172,9 @@
     },
     {
       "category": "Arts & Style",
-      "question": "What term in fashion describes a thin, usually collarless jacket with a zip front, originally designed for motorcyclists?",
+      "question": "What term in fashion describes a short jacket with a ribbed waistband and cuffs, originally designed for military pilots?",
       "answer": "Bomber jacket",
-      "hint": "It was adapted from military flight gear in World War II and became a streetwear staple.",
+      "hint": "Also called a flight jacket, its MA-1 version became a streetwear staple.",
       "difficulty": 2,
       "id": 2529
     },
@@ -11926,35 +11220,11 @@
     },
     {
       "category": "Music",
-      "question": "What artist's real name is Chauncey Hawkins, a Baltimore rapper and producer known for his dense, psychedelic hip-hop collages?",
-      "answer": "Spank Rock",
-      "hint": "His 2006 debut 'YoYoYoYoYo' was produced largely by XXXChange",
-      "difficulty": 3,
-      "id": 2541
-    },
-    {
-      "category": "Music",
-      "question": "What band released the album 'Nowhere' in 1990, a swirling shoegaze record from Nottingham that sits alongside Loveless as a genre landmark?",
+      "question": "What band released the album 'Nowhere' in 1990, a swirling shoegaze record from Oxford that sits alongside Loveless as a genre landmark?",
       "answer": "Ride",
       "hint": "Members Andy Bell and Mark Gardener later reunited the band in 2014",
       "difficulty": 3,
       "id": 2542
-    },
-    {
-      "category": "Music",
-      "question": "Who performed 'Peep Hole,' a frantic 1994 funk-metal track, and are better known for a surprise radio hit involving a personal hygiene product?",
-      "answer": "Stone Temple Pilots",
-      "hint": "The band's frontman Scott Weiland was one of the defining voices of 90s grunge and alt-metal",
-      "difficulty": 2,
-      "id": 2543
-    },
-    {
-      "category": "Music",
-      "question": "What artist's real name is Joseph Abdel Waddell Thomas, a British soul and R&B singer who had a 2008 hit with 'Don't You Worry 'Bout a Thing'?",
-      "answer": "Joanna Newsom",
-      "hint": "Reconsider — the artist matching that song is actually a male UK soul singer who collaborated with Estelle",
-      "difficulty": 2,
-      "id": 2544
     },
     {
       "category": "Science",
@@ -11966,7 +11236,7 @@
     },
     {
       "category": "Science",
-      "question": "Starting with T, what word describes the minimum temperature at which a material will ignite and sustain combustion without an external flame?",
+      "question": "Starting with A, what word describes the minimum temperature at which a material will ignite and sustain combustion without an external flame?",
       "answer": "Autoignition",
       "hint": "This threshold matters a lot in engine design — it's why diesel engines need no spark plug.",
       "difficulty": 3,
@@ -11983,8 +11253,8 @@
     {
       "category": "History & Geography",
       "question": "What Pacific island nation is so low-lying that its government has purchased land in Fiji as a contingency plan against rising sea levels?",
-      "answer": "Tuvalu",
-      "hint": "It's one of the smallest and least-visited countries on Earth.",
+      "answer": "Kiribati",
+      "hint": "Its name is the local pronunciation of 'Gilberts', from its colonial-era name.",
       "difficulty": 3,
       "id": 2548
     },
@@ -12030,7 +11300,7 @@
     },
     {
       "category": "TV & Movies",
-      "question": "What FX anthology series, created by Ryan Murphy, dramatizes real-life events including the O.J. Simpson trial and the Versace murder?",
+      "question": "What FX anthology series, executive produced by Ryan Murphy, dramatizes real-life events including the O.J. Simpson trial and the Versace murder?",
       "answer": "American Crime Story",
       "hint": "Each season is a self-contained true-crime retelling with a star-studded cast.",
       "difficulty": 2,
@@ -12060,22 +11330,6 @@
       "hint": "It results in an automatic first down and is one of the most debated calls in modern football.",
       "difficulty": 2,
       "id": 2557
-    },
-    {
-      "category": "Word Play",
-      "question": "What word connects something you do to a door before entering, a cricket sound, and a type of shot in billiards?",
-      "answer": "Knock",
-      "hint": "One is a polite gesture, one is an insect's chirp, and one sends a ball into a pocket.",
-      "difficulty": 2,
-      "id": 2558
-    },
-    {
-      "category": "Word Play",
-      "question": "What word sounds like both something a tailor uses and a channel of water connecting two larger bodies?",
-      "answer": "Strait / Straight",
-      "hint": "One keeps your pants together, the other separates continents.",
-      "difficulty": 2,
-      "id": 2559
     },
     {
       "category": "Acronyms & Terms",
@@ -12134,14 +11388,6 @@
       "id": 2566
     },
     {
-      "category": "Arts & Style",
-      "question": "Starting with R, what word means to use something again in a different context, especially in art or literature — like a director re-using a score or a writer reprising a character?",
-      "answer": "Repurpose",
-      "hint": "Fashion designers do this with vintage fabrics; filmmakers do it with archive footage.",
-      "difficulty": 2,
-      "id": 2567
-    },
-    {
       "category": "Science",
       "question": "How many chambers does a human heart have?",
       "answer": "4",
@@ -12152,31 +11398,15 @@
     },
     {
       "category": "History & Geography",
-      "question": "What war, fought entirely in 1879, saw Chile defeat Bolivia and Peru, permanently stripping Bolivia of its coastal territory?",
+      "question": "What war, fought from 1879 to 1884, saw Chile defeat Bolivia and Peru, permanently stripping Bolivia of its coastal territory?",
       "answer": "War of the Pacific",
       "hint": "It's why Bolivia is landlocked today — and why they still hold an annual Day of the Sea.",
       "difficulty": 3,
       "id": 2569
     },
     {
-      "category": "Sports",
-      "question": "In Olympic swimming, what stroke is swum on the backstroke turn but is not the backstroke itself, used as the legal transitional technique?",
-      "answer": "Flip turn",
-      "hint": "Swimmers use it to push off the wall faster than an open turn — it's legal in freestyle and backstroke.",
-      "difficulty": 3,
-      "id": 2570
-    },
-    {
-      "category": "Pop Culture",
-      "question": "What viral 2023 internet moment involved a video of a man dancing at a traffic stop that launched a nationwide trend of people filming themselves doing the same dance in their cars?",
-      "answer": "The Renegade",
-      "hint": "The original dance move had already become famous on TikTok years earlier thanks to a teenage creator named Jalaiah Harmon.",
-      "difficulty": 3,
-      "id": 2571
-    },
-    {
       "category": "Acronyms & Terms",
-      "question": "Starting with K, what word means the total set of genes carried by an individual or species, often displayed as a paired visual chart in biology?",
+      "question": "Starting with K, what word means the number and appearance of an individual's chromosomes, often displayed as an ordered chart of pairs in biology?",
       "answer": "Karyotype",
       "hint": "A lab technician arranges chromosomes into this ordered image to check for abnormalities like trisomy.",
       "difficulty": 3,
@@ -12216,7 +11446,7 @@
     },
     {
       "category": "Music",
-      "question": "What band released the album 'Illinois' in 2005, a sprawling indie folk concept record about the American Midwest?",
+      "question": "What artist released the album 'Illinois' in 2005, a sprawling indie folk concept record about the American Midwest?",
       "answer": "Sufjan Stevens",
       "hint": "The artist had an ambitious plan to make one album for every U.S. state — he mostly abandoned it.",
       "difficulty": 2,
@@ -12232,9 +11462,9 @@
     },
     {
       "category": "Music",
-      "question": "Who performed 'Steal Away,' a 1970 blue-eyed soul ballad later sampled and covered extensively in R&B?",
+      "question": "Who performed 'Steal Away,' a 1980 soft rock Top 10 hit often cited as a yacht rock classic?",
       "answer": "Robbie Dupree",
-      "hint": "Think smooth, yacht-rock-adjacent early 80s pop — actually this one is from the soft rock era.",
+      "hint": "It was this singer's debut single, and his biggest hit.",
       "difficulty": 3,
       "id": 2585
     },
@@ -12248,7 +11478,7 @@
     },
     {
       "category": "Music",
-      "question": "Who performed 'Motorcycle Drive By,' a quietly devastating 1996 acoustic track from a New York alternative rock band's breakout record?",
+      "question": "Who performed 'Motorcycle Drive By,' a quietly devastating 1997 track from a San Francisco alternative rock band's breakout record?",
       "answer": "Third Eye Blind",
       "hint": "Same band behind 'Semi-Charmed Life' and 'Jumper' — this was a deeper album cut.",
       "difficulty": 2,
@@ -12256,7 +11486,7 @@
     },
     {
       "category": "Science",
-      "question": "What is the name of the layer of Earth's atmosphere that absorbs the vast majority of the Sun's ultraviolet radiation?",
+      "question": "What region within Earth's stratosphere absorbs the vast majority of the Sun's ultraviolet radiation?",
       "answer": "Ozone layer",
       "hint": "Scientists discovered a famous hole in it above Antarctica in the 1980s.",
       "difficulty": 2,
@@ -12272,7 +11502,7 @@
     },
     {
       "category": "History & Geography",
-      "question": "What is the only country in the world that is completely surrounded by another single country?",
+      "question": "What is the only country outside Europe that is completely surrounded by another single country?",
       "answer": "Lesotho",
       "hint": "It sits inside a country at the southern tip of Africa.",
       "difficulty": 3,
@@ -12280,7 +11510,7 @@
     },
     {
       "category": "Pop Culture",
-      "question": "What internet phrase, born from a 2012 viral video of a child returning from the dentist, is now used to describe a state of dreamy, drugged confusion?",
+      "question": "What internet phrase, born from a 2009 viral video of a child returning from the dentist, is now used to describe a state of dreamy, drugged confusion?",
       "answer": "David After Dentist",
       "hint": "The child famously asked 'Is this real life?' while still sedated in the car.",
       "difficulty": 2,
@@ -12288,7 +11518,7 @@
     },
     {
       "category": "Pop Culture",
-      "question": "What 2012 novel by E.L. James, originally written as Twilight fan fiction, became one of the fastest-selling books of all time?",
+      "question": "What novel by E.L. James, originally written as Twilight fan fiction, became one of the fastest-selling books of all time?",
       "answer": "Fifty Shades of Grey",
       "hint": "It was first self-published online before a major publisher picked it up.",
       "difficulty": 2,
@@ -12304,7 +11534,7 @@
     },
     {
       "category": "TV & Movies",
-      "question": "What game show format requires contestants to avoid one of 26 briefcases, each held by a model, while negotiating with an unseen 'banker'?",
+      "question": "What game show format has contestants choosing among 26 briefcases, each held by a model, while negotiating with an unseen 'banker'?",
       "answer": "Deal or No Deal",
       "hint": "Howie Mandel hosts the American version, which returned for a revival in recent years.",
       "difficulty": 2,
@@ -12320,7 +11550,7 @@
     },
     {
       "category": "Sports",
-      "question": "What NFL team plays its home games in a stadium nicknamed 'Lambeau Field,' known for its legendary 'frozen tundra' moments in winter?",
+      "question": "What NFL team plays its home games at a stadium nicknamed 'the Frozen Tundra,' famous for its brutal winter games?",
       "answer": "Green Bay Packers",
       "hint": "The stadium is named after the team's founding coach and is the oldest continuously operating NFL stadium.",
       "difficulty": 2,
@@ -12328,19 +11558,11 @@
     },
     {
       "category": "Sports",
-      "question": "The Pelicans, the Saints, and the Baby Cakes all represent which Southern city?",
+      "question": "The Pelicans and the Saints both represent which Southern city?",
       "answer": "New Orleans",
-      "hint": "One of these teams plays in the NFL, one in the NBA, and one is a minor league baseball team.",
+      "hint": "One of these teams plays in the NFL and the other in the NBA.",
       "difficulty": 2,
       "id": 2600
-    },
-    {
-      "category": "Word Play",
-      "question": "What word sounds like both a type of legal appeal and someone who runs a 5K race competitively?",
-      "answer": "Runner",
-      "hint": "One is in a courtroom context, the other is on a track — but they sound different on paper than they do aloud.",
-      "difficulty": 2,
-      "id": 2601
     },
     {
       "category": "Acronyms & Terms",
@@ -12368,7 +11590,7 @@
     },
     {
       "category": "Animals & the Body",
-      "question": "What is the name of the small, S-shaped bone in the inner ear that is the smallest bone in the human body?",
+      "question": "What is the name of the tiny bone in the middle ear that is the smallest bone in the human body?",
       "answer": "Stapes",
       "hint": "It is one of three tiny bones in the ear collectively called the ossicles — and its name is Latin for stirrup.",
       "difficulty": 3,
@@ -12400,14 +11622,6 @@
     },
     {
       "category": "Music",
-      "question": "Who performed 'Sunshower,' a 1997 R&B track that appeared on the Men in Black soundtrack and helped introduce a then-unknown artist to mainstream audiences?",
-      "answer": "Dr. Dre and D'Angelo",
-      "hint": "The song was produced by one of hip-hop's most famous beatmakers and featured a silky-voiced Virginia soul singer.",
-      "difficulty": 3,
-      "id": 2619
-    },
-    {
-      "category": "Music",
       "question": "What band released the album 'Deserter's Songs' in 1998, a lush orchestral indie record that became a cult touchstone for chamber pop?",
       "answer": "Mercury Rev",
       "hint": "This Buffalo, New York band was once tangled up with the Flaming Lips before finding their own dreamy, cinematic sound.",
@@ -12432,7 +11646,7 @@
     },
     {
       "category": "Music",
-      "question": "What artist's real name is Trevor George Smith Jr., a rapper from Brooklyn known for fast-paced, comedic punchlines and collaborations with Wu-Tang Clan members?",
+      "question": "What artist's real name is Trevor George Smith Jr., a rapper from Brooklyn known for his rapid-fire delivery and flamboyant style?",
       "answer": "Busta Rhymes",
       "hint": "He first rose to fame as a member of Leaders of the New School before going solo in 1996.",
       "difficulty": 2,
@@ -12843,25 +12057,9 @@
       "category": "Sports",
       "question": "The Commanders, the Capitals, and the Nationals all represent which US city?",
       "answer": "Washington DC",
-      "hint": "It's also the city where a fourth team, an NHL franchise, recently won a Stanley Cup.",
+      "hint": "It's also home to the NBA's Wizards, and the Capitals won the Stanley Cup there in 2018.",
       "difficulty": 2,
       "id": 2655
-    },
-    {
-      "category": "Word Play",
-      "question": "What word sounds like both a piece of land surrounded by water and a verb meaning to find the answer?",
-      "answer": "Isle / Aisle / I'll",
-      "hint": "Think of the narrow passage between rows of seats in a theater — and then think of what you say when you get back to you.",
-      "difficulty": 3,
-      "id": 2656
-    },
-    {
-      "category": "Word Play",
-      "question": "What word connects the spine of a book, the rear part of the foot, and someone who chases another person?",
-      "answer": "Heel",
-      "hint": "One meaning is what your shoe wears down, another is a command given to a dog.",
-      "difficulty": 2,
-      "id": 2657
     },
     {
       "category": "Word Play",
@@ -12870,14 +12068,6 @@
       "hint": "It's used to justify collateral damage in pursuit of a goal.",
       "difficulty": 2,
       "id": 2658
-    },
-    {
-      "category": "Word Play",
-      "question": "What word connects a playing card value, a breakfast staple served in strips, and a pig's back?",
-      "answer": "Rasher",
-      "hint": "One meaning is reckless or hasty — and that's also a valid use of this word.",
-      "difficulty": 3,
-      "id": 2659
     },
     {
       "category": "Acronyms & Terms",
@@ -12966,6 +12156,169 @@
       "category": "Music",
       "hint": "The Who — Baba O'Riley",
       "id": 2673
+    },
+    {
+      "category": "Science",
+      "question": "What is the name for the sleep stage in which your eyes move rapidly and most vivid dreaming occurs?",
+      "answer": "REM",
+      "hint": "Its full name is a three-word phrase describing the hallmark eye movement.",
+      "difficulty": 2,
+      "id": 2674
+    },
+    {
+      "category": "History & Geography",
+      "question": "Which island, once a maximum-security federal prison and now a museum, sits in San Francisco Bay?",
+      "answer": "Alcatraz",
+      "hint": "Its name comes from the Spanish word for pelican, and it once held Al Capone.",
+      "difficulty": 2,
+      "id": 2675
+    },
+    {
+      "category": "History & Geography",
+      "question": "What Central American country has no standing army, having abolished its military in 1948?",
+      "answer": "Costa Rica",
+      "hint": "Its constitution permanently outlaws a permanent army — the money goes to education and healthcare instead.",
+      "difficulty": 2,
+      "id": 2676
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What author wrote the fantasy series featuring the Wizarding World, including a boy raised by his aunt and uncle who discovers he is famous in a world he never knew existed?",
+      "answer": "J.K. Rowling",
+      "hint": "She wrote the series primarily in Edinburgh cafes before it became a global phenomenon.",
+      "difficulty": 2,
+      "id": 2678
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What actress played the title character in the 2023 Greta Gerwig film that became the highest-grossing movie of the year globally?",
+      "answer": "Margot Robbie",
+      "hint": "She played a fashion doll who ventures into the real world.",
+      "difficulty": 2,
+      "id": 2680
+    },
+    {
+      "category": "Math",
+      "question": "If you fold a standard sheet of paper in half 7 times, roughly how many layers thick is it?",
+      "answer": "128",
+      "hint": "Each fold doubles the number of layers — think exponential, not linear.",
+      "difficulty": 2,
+      "numeric_type": "exact",
+      "id": 2683
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with W, what word means a narrow passageway between two buildings or walls?",
+      "answer": "Wynd",
+      "hint": "You'll find these in old Scottish towns — think of the tight lanes between stone buildings.",
+      "difficulty": 3,
+      "id": 2688
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with U, what word means to dig up something buried in the ground?",
+      "answer": "Unearth",
+      "hint": "Archaeologists do this literally; journalists do it figuratively when exposing a scandal.",
+      "difficulty": 2,
+      "id": 2689
+    },
+    {
+      "category": "Brands & Business",
+      "question": "What brand's slogan is 'Connecting People', used for over two decades by a Finnish mobile phone manufacturer?",
+      "answer": "Nokia",
+      "hint": "This brand dominated the mobile phone market in the late 1990s and early 2000s before smartphones took over.",
+      "difficulty": 2,
+      "id": 2691
+    },
+    {
+      "category": "Food & Drink",
+      "question": "Prosciutto, Mortadella, and Bresaola are all types of what?",
+      "answer": "Italian cold cuts (salumi)",
+      "hint": "They all come from Italy and are often served sliced thin on an antipasto platter.",
+      "difficulty": 2,
+      "id": 2692
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "What is the name for the fatty insulating layer found beneath a whale's skin that keeps it warm in cold ocean waters?",
+      "answer": "Blubber",
+      "hint": "It can be several inches thick and was historically harvested from whales for use in oil lamps.",
+      "difficulty": 2,
+      "id": 2693
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "Approximately how many muscles does a human face have, allowing us to produce hundreds of distinct expressions?",
+      "answer": "43",
+      "hint": "The number is surprisingly high — it's why humans are so uniquely expressive compared to other animals.",
+      "difficulty": 2,
+      "numeric_type": "approximation",
+      "id": 2694
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What literary term describes a main character who is flawed or morally ambiguous rather than conventionally heroic?",
+      "answer": "Anti-hero",
+      "hint": "Walter White, Humbert Humbert, and Scarlett O'Hara are classic examples of this type of protagonist.",
+      "difficulty": 2,
+      "id": 2695
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What 19th-century French artistic movement rejected idealized forms in favor of painting ordinary people, workers, and rural life as they actually appeared?",
+      "answer": "Realism",
+      "hint": "It was a reaction against the drama of Romanticism — painters like Courbet and Millet led the charge.",
+      "difficulty": 3,
+      "id": 2696
+    },
+    {
+      "question": "Finish these lyrics: \"They took all the trees, put 'em in a...\"",
+      "answer": "tree museum",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Joni Mitchell — Big Yellow Taxi",
+      "id": 2697
+    },
+    {
+      "question": "Finish these lyrics: \"Take nothing less, not even...\"",
+      "answer": "second best",
+      "difficulty": 3,
+      "category": "Music",
+      "hint": "Curtis Mayfield — Move On Up",
+      "id": 2698
+    },
+    {
+      "question": "Finish these lyrics: \"One and only rebel child, from a family...\"",
+      "answer": "meek and mild",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Merle Haggard — Mama Tried",
+      "id": 2699
+    },
+    {
+      "question": "Finish these lyrics: \"I feel nice, like...\"",
+      "answer": "sugar and spice",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "James Brown — I Got You",
+      "id": 2701
+    },
+    {
+      "category": "Music",
+      "question": "Whose 1962 hit version of 'Twist and Shout' did The Beatles cover on their debut album?",
+      "answer": "The Isley Brothers",
+      "hint": "This R&B family group from Cincinnati had the hit a year before The Beatles.",
+      "difficulty": 2,
+      "id": 2708
+    },
+    {
+      "category": "Music",
+      "question": "What band released the album 'Isn't Anything' in 1988, a record credited with pioneering the shoegaze genre through heavily processed guitars and hushed vocals?",
+      "answer": "My Bloody Valentine",
+      "hint": "This Dublin-formed, London-based band followed this album with the landmark 'Loveless' in 1991.",
+      "difficulty": 3,
+      "id": 2711
     }
-  ]
+  ],
+  "updated": "2026-11-04T13:27:40Z"
 }
