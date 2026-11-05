@@ -12318,7 +12318,240 @@
       "hint": "This Dublin-formed, London-based band followed this album with the landmark 'Loveless' in 1991.",
       "difficulty": 3,
       "id": 2711
+    },
+    {
+      "category": "Science",
+      "question": "What element gives rubies their red color?",
+      "answer": "Chromium",
+      "hint": "The same element gives emeralds their green — the difference is in the host mineral structure.",
+      "difficulty": 2,
+      "id": 2712
+    },
+    {
+      "category": "Science",
+      "question": "Starting with B, what name is given to the theoretical cold, dark remnant left when a white dwarf has cooled completely?",
+      "answer": "Black dwarf",
+      "hint": "None are thought to exist yet because the universe isn't old enough.",
+      "difficulty": 3,
+      "id": 2713
+    },
+    {
+      "category": "Science",
+      "question": "What compound, found in many sunscreens, is the world's most widely used white pigment in paint because of how effectively it scatters light?",
+      "answer": "Titanium dioxide",
+      "hint": "It comes from the same element used to make lightweight aerospace alloys.",
+      "difficulty": 2,
+      "id": 2714
+    },
+    {
+      "category": "History & Geography",
+      "question": "The shortest war in recorded history lasted between 38 and 45 minutes. Britain fought which country in 1896?",
+      "answer": "Zanzibar",
+      "hint": "It ended with the flight of a sultan who had seized the throne just two days earlier.",
+      "difficulty": 2,
+      "id": 2716
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What author wrote the 'Twilight' saga, whose first book was published in 2005 and sparked a worldwide vampire romance craze?",
+      "answer": "Stephenie Meyer",
+      "hint": "She reportedly came up with the story idea from a vivid dream about a girl and a vampire in a meadow.",
+      "difficulty": 2,
+      "id": 2717
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What reality TV competition franchise, originating in the Netherlands in 1999, places strangers in a house under constant camera surveillance and evicts them one by one?",
+      "answer": "Big Brother",
+      "hint": "The show's title comes from an authoritarian figure in a famous dystopian novel.",
+      "difficulty": 2,
+      "id": 2718
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What lifestyle mogul was convicted in 2004 of lying to investigators about a stock sale and served five months in federal prison?",
+      "answer": "Martha Stewart",
+      "hint": "She was known for her domestic-arts brand before her legal troubles, and remained highly influential afterward.",
+      "difficulty": 2,
+      "id": 2719
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What E! reality series, premiering in 2007, launched Kim, Kourtney, Khloé and their family to worldwide fame?",
+      "answer": "Keeping Up with the Kardashians",
+      "hint": "The title is a play on the phrase 'keeping up with the Joneses'.",
+      "difficulty": 2,
+      "id": 2721
+    },
+    {
+      "category": "TV & Movies",
+      "question": "In 'Breaking Bad', Walter White adopts a drug-lord alias. What is it?",
+      "answer": "Heisenberg",
+      "hint": "He named himself after a German physicist known for a famous scientific principle about uncertainty.",
+      "difficulty": 2,
+      "id": 2722
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What actor plays Richard Hendricks, the awkward programmer who founds the startup Pied Piper in HBO's 'Silicon Valley'?",
+      "answer": "Thomas Middleditch",
+      "hint": "He is a Canadian actor and improv comedian who also voiced a character in 'Captain Underpants: The First Epic Movie'.",
+      "difficulty": 3,
+      "id": 2723
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What 2017 Oscar Best Picture winner tells the story of Chiron, a young Black man growing up in Miami navigating identity and sexuality across three chapters of his life?",
+      "answer": "Moonlight",
+      "hint": "It was famously announced as the winner after 'La La Land' had been incorrectly declared the winner first.",
+      "difficulty": 2,
+      "id": 2724
+    },
+    {
+      "category": "TV & Movies",
+      "question": "In 'Game of Thrones', what is the name of the weapon made of Valyrian steel that Jon Snow receives from Lord Commander Mormont?",
+      "answer": "Longclaw",
+      "hint": "Its pommel is carved in the shape of a direwolf, the sigil of House Stark.",
+      "difficulty": 3,
+      "id": 2725
+    },
+    {
+      "category": "Math",
+      "question": "How many squares of all sizes can be found on a standard 8×8 chessboard?",
+      "answer": "204",
+      "hint": "Don't just count the 64 small squares — count every possible square size from 1×1 up to 8×8.",
+      "difficulty": 3,
+      "numeric_type": "exact",
+      "id": 2726
+    },
+    {
+      "category": "Math",
+      "question": "What is the name for a triangle that has all three sides of different lengths?",
+      "answer": "Scalene",
+      "hint": "The other two triangle types by side length are isosceles and equilateral.",
+      "difficulty": 2,
+      "id": 2727
+    },
+    {
+      "category": "Sports",
+      "question": "Which NBA team plays home games in the Chase Center?",
+      "answer": "Golden State Warriors",
+      "hint": "The arena opened in 2019 in San Francisco — the team previously played in Oakland.",
+      "difficulty": 2,
+      "id": 2728
+    },
+    {
+      "category": "Sports",
+      "question": "The Clippers, Lakers, Kings, and Warriors are all NBA teams in what US state?",
+      "answer": "California",
+      "hint": "One of these teams plays in Sacramento, the state capital.",
+      "difficulty": 2,
+      "id": 2729
+    },
+    {
+      "category": "Sports",
+      "question": "What golfer won the Masters Tournament in April 2023 at Augusta National?",
+      "answer": "Jon Rahm",
+      "hint": "He became the fourth Spaniard to win the Masters, adding it to his 2021 US Open title.",
+      "difficulty": 2,
+      "id": 2730
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with T, what word means to step or walk on something, and also names the patterned surface of a tire?",
+      "answer": "Tread",
+      "hint": "You do it carefully when walking through a muddy field.",
+      "difficulty": 2,
+      "id": 2733
+    },
+    {
+      "category": "Brands & Business",
+      "question": "What retail giant's logo contains a curved arrow that runs from the letter A to the letter Z, intended to suggest they sell everything from A to Z?",
+      "answer": "Amazon",
+      "hint": "The arrow also forms a subtle smile beneath the company name.",
+      "difficulty": 2,
+      "id": 2734
+    },
+    {
+      "category": "Food & Drink",
+      "question": "What Italian flatbread, dimpled and drizzled with olive oil and often topped with rosemary and sea salt, takes its name from the Latin word for hearth?",
+      "answer": "Focaccia",
+      "hint": "It's a close cousin of pizza dough, often served in rectangular slabs.",
+      "difficulty": 2,
+      "id": 2735
+    },
+    {
+      "category": "Food & Drink",
+      "question": "What cocktail consists of vodka, coffee liqueur, and a float of cream poured over the back of a spoon?",
+      "answer": "White Russian",
+      "hint": "The Dude famously drinks this throughout a 1998 Coen Brothers film.",
+      "difficulty": 2,
+      "id": 2736
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "Starting with R, what is the name for the light-sensitive layer at the back of the eye that converts light into nerve signals?",
+      "answer": "Retina",
+      "hint": "Opticians examine it during a dilated eye exam — damage to it can cause permanent vision loss.",
+      "difficulty": 2,
+      "id": 2738
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What literary term describes a moment of sudden insight or realization, used by James Joyce to describe those instants when everyday objects or scenes reveal a deeper truth?",
+      "answer": "Epiphany",
+      "hint": "Joyce borrowed the word from its religious context — the moment the Magi recognized the infant Jesus — and applied it to secular experience.",
+      "difficulty": 3,
+      "id": 2739
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What Dutch Golden Age painter is known for works including 'Girl with a Pearl Earring' and 'The Milkmaid'?",
+      "answer": "Vermeer",
+      "hint": "He worked in Delft in the 1600s and is famous for his mastery of interior light — fewer than 40 of his paintings survive.",
+      "difficulty": 2,
+      "id": 2740
+    },
+    {
+      "question": "Finish these lyrics: \"Give him two arms to cling to, and something warm...\"",
+      "answer": "to come to",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Tammy Wynette — Stand by Your Man",
+      "id": 2746
+    },
+    {
+      "question": "Finish these lyrics: \"I was born under water with 3 dollars and...\"",
+      "answer": "6 dimes",
+      "difficulty": 3,
+      "category": "Music",
+      "hint": "Erykah Badu — On & On",
+      "id": 2747
+    },
+    {
+      "question": "Finish these lyrics: \"I keep some E&J, sittin' bent up in...\"",
+      "answer": "the stairway",
+      "difficulty": 3,
+      "category": "Music",
+      "hint": "Nas — N.Y. State of Mind",
+      "id": 2749
+    },
+    {
+      "category": "Music",
+      "question": "What artist's real name is Alecia Beth Moore, a pop-rock singer known for acrobatic live performances?",
+      "answer": "Pink (P!nk)",
+      "hint": "Her 2001 album was called 'Missundaztood'.",
+      "difficulty": 2,
+      "id": 2751
+    },
+    {
+      "category": "Music",
+      "question": "Who originally recorded 'It's All Over Now' before The Rolling Stones took it to number one in the UK in 1964?",
+      "answer": "The Valentinos (Bobby Womack)",
+      "hint": "The group was led by a singer-songwriter who later had a solo career, and recorded it just months before the Stones covered it.",
+      "difficulty": 3,
+      "id": 2752
     }
   ],
-  "updated": "2026-11-04T13:27:40Z"
+  "updated": "2026-11-05T13:42:04Z"
 }
