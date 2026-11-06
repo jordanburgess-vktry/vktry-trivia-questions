@@ -12551,7 +12551,177 @@
       "hint": "The group was led by a singer-songwriter who later had a solo career, and recorded it just months before the Stones covered it.",
       "difficulty": 3,
       "id": 2752
+    },
+    {
+      "category": "Science",
+      "question": "What phenomenon causes a spinning ice skater to speed up when they pull their arms in?",
+      "answer": "Conservation of angular momentum",
+      "hint": "It's the same principle that explains why a collapsing star becomes a rapidly spinning pulsar.",
+      "difficulty": 3,
+      "id": 2753
+    },
+    {
+      "category": "Science",
+      "question": "What is the name of the force that pulls ocean water toward the Moon, causing tides?",
+      "answer": "Gravitational pull",
+      "hint": "It's the same force that keeps planets in orbit — just acting across the Earth-Moon distance.",
+      "difficulty": 2,
+      "id": 2754
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What author wrote the dystopian novel in which a totalitarian state uses telescreens to monitor citizens and rewrites history daily?",
+      "answer": "George Orwell",
+      "hint": "The book's title is a year — specifically two digits transposed from the year the author finished writing it.",
+      "difficulty": 2,
+      "id": 2755
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What internet meme features a dog of the Shiba Inu breed surrounded by multicolored Comic Sans text representing its inner thoughts?",
+      "answer": "Doge",
+      "hint": "It became so iconic that a cryptocurrency was literally named after it.",
+      "difficulty": 2,
+      "id": 2756
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What reality TV competition franchise, in which teams travel around the world completing challenges, has won the most Emmy Awards for Outstanding Reality Competition Program?",
+      "answer": "The Amazing Race",
+      "hint": "It holds the record with 10 wins in that category — more than Survivor, Top Chef or RuPaul's Drag Race.",
+      "difficulty": 3,
+      "id": 2757
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What actor played the tall, muscular twin brother in the 1988 comedy film Twins?",
+      "answer": "Arnold Schwarzenegger",
+      "hint": "His co-star, playing the short, wisecracking twin, was Danny DeVito.",
+      "difficulty": 2,
+      "id": 2759
+    },
+    {
+      "category": "Math",
+      "question": "A snail travels at 0.03 mph. How many hours would it take to travel one mile?",
+      "answer": "About 33",
+      "hint": "Divide 1 by 0.03 — the answer is a number just above 33.",
+      "difficulty": 2,
+      "numeric_type": "approximation",
+      "id": 2760
+    },
+    {
+      "category": "Math",
+      "question": "How many seconds are in a standard 24-hour day?",
+      "answer": "86400",
+      "hint": "Multiply hours by minutes by seconds: 24 × 60 × 60.",
+      "difficulty": 2,
+      "numeric_type": "exact",
+      "id": 2761
+    },
+    {
+      "category": "Sports",
+      "question": "What quarterback led the San Francisco 49ers to Super Bowl LVIII in February 2024?",
+      "answer": "Brock Purdy",
+      "hint": "He was famously the last pick of the 2022 NFL Draft — also known as 'Mr. Irrelevant.'",
+      "difficulty": 2,
+      "id": 2762
+    },
+    {
+      "category": "Word Play",
+      "question": "What word connects a small body of still water, the act of combining resources, and a game played on a felt table with numbered balls?",
+      "answer": "Pool",
+      "hint": "One version involves swimming, one involves sharing a car, and one involves a cue stick.",
+      "difficulty": 2,
+      "id": 2764
+    },
+    {
+      "category": "Word Play",
+      "question": "Finish the phrase: 'A penny for your...'",
+      "answer": "Thoughts",
+      "hint": "It's an idiom used when you want to know what someone is quietly thinking about.",
+      "difficulty": 2,
+      "id": 2766
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with W, what word means to roll or turn over repeatedly, like an animal rolling in mud?",
+      "answer": "Wallow",
+      "hint": "Pigs do it in mud, hippos do it in water, and people say it about someone who indulges in self-pity.",
+      "difficulty": 2,
+      "id": 2768
+    },
+    {
+      "category": "Food & Drink",
+      "question": "What Italian cheese is traditionally used on a Neapolitan-style Margherita pizza?",
+      "answer": "Mozzarella (di bufala)",
+      "hint": "The most prized version is made from water buffalo milk and comes in a ball packed in liquid.",
+      "difficulty": 2,
+      "id": 2769
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What art movement, which flourished in the 1960s, used everyday commercial imagery like soup cans and celebrities as its subject matter?",
+      "answer": "Pop Art",
+      "hint": "Andy Warhol and Roy Lichtenstein were its most famous practitioners.",
+      "difficulty": 2,
+      "id": 2770
+    },
+    {
+      "category": "Arts & Style",
+      "question": "Tartan, Herringbone, and Houndstooth are all types of what?",
+      "answer": "Fabric pattern",
+      "hint": "You'd find all three on classic British country jackets or blazers — they're all woven textile designs.",
+      "difficulty": 2,
+      "id": 2771
+    },
+    {
+      "category": "Science",
+      "question": "Starting with B, what word describes the tendency of an object to float or rise in a fluid?",
+      "answer": "Buoyancy",
+      "hint": "Archimedes discovered the principle behind it while stepping into a bath — he supposedly ran through the streets shouting 'Eureka!'",
+      "difficulty": 2,
+      "id": 2772
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with Z, what word means the greatest enthusiasm and energy for a task or cause?",
+      "answer": "Zeal",
+      "hint": "A person who takes it to an extreme is called by a word derived from this one.",
+      "difficulty": 2,
+      "id": 2773
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What Netflix series dramatizes the rise and fall of Pablo Escobar's cocaine empire?",
+      "answer": "Narcos",
+      "hint": "It ran for three seasons starting in 2015 and was largely filmed in Colombia with a mix of Spanish and English dialogue.",
+      "difficulty": 2,
+      "id": 2774
+    },
+    {
+      "question": "Finish these lyrics: \"So you go and you stand on your own and you leave...\"",
+      "answer": "on your own",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "The Smiths — How Soon Is Now",
+      "id": 2776
+    },
+    {
+      "question": "Finish these lyrics: \"Out here in the fields, I fight for...\"",
+      "answer": "my meals",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "The Who — Baba O'Riley",
+      "id": 2781
+    },
+    {
+      "category": "Music",
+      "question": "What artist released the album 'Endtroducing.....' in 1996, widely credited as the first album constructed entirely from sampled sounds?",
+      "answer": "DJ Shadow",
+      "hint": "He hails from California and built the record digging through crates at a Sacramento record shop.",
+      "difficulty": 3,
+      "id": 2785
     }
   ],
-  "updated": "2026-11-05T13:42:04Z"
+  "updated": "2026-11-06T13:25:47Z"
 }

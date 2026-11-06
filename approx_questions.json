@@ -993,5 +993,55 @@
     "question": "How many total episodes of 'Grey's Anatomy' aired through its first 20 seasons?",
     "answer": "430",
     "hint": "It's one of the longest-running prime-time medical dramas in US television history, airing on ABC since 2005."
+  },
+  {
+    "question": "What year did the construction of the Hoover Dam begin?",
+    "answer": "1931",
+    "hint": "It was completed during the Great Depression era and took about 5 years to finish."
+  },
+  {
+    "question": "For about how many years did Ferdinand de Lesseps' French company dig the Panama Canal before it went bankrupt?",
+    "answer": "8",
+    "hint": "Work began in 1881 and the company collapsed at the end of that decade after enormous losses."
+  },
+  {
+    "question": "How many miles long is the Missouri River, the longest river in the United States?",
+    "answer": "2,341",
+    "hint": "It's slightly longer than the Mississippi and flows from Montana to Missouri."
+  },
+  {
+    "question": "In March 2024, LeBron James became the first NBA player to reach what career points milestone?",
+    "answer": "40,000",
+    "hint": "He had already passed Kareem Abdul-Jabbar's record of 38,387 during the 2022-23 season."
+  },
+  {
+    "question": "According to the famous legend, how many dollars' worth of goods did Dutch colonists pay the Lenape for Manhattan in 1626?",
+    "answer": "24",
+    "hint": "It's one of history's most famous real estate deals, based on a conversion of 60 Dutch guilders."
+  },
+  {
+    "question": "How many career regular-season goals did Gordie Howe score in the NHL?",
+    "answer": "801",
+    "hint": "Known as 'Mr. Hockey,' he held the NHL goal-scoring record before Gretzky surpassed him."
+  },
+  {
+    "question": "What year did the construction of the Transcontinental Railroad in the United States begin?",
+    "answer": "1863",
+    "hint": "It was completed in 1869 when the golden spike was driven at Promontory Summit, Utah."
+  },
+  {
+    "question": "How many total episodes of 'The Simpsons' aired through its first 35 seasons?",
+    "answer": "768",
+    "hint": "It's the longest-running American animated primetime TV series, airing since 1989."
+  },
+  {
+    "question": "How many feet tall is the Petronas Twin Towers in Kuala Lumpur, Malaysia?",
+    "answer": "1,483",
+    "hint": "They were the world's tallest buildings from 1998 to 2004 and are located in Malaysia's capital city."
+  },
+  {
+    "question": "What year did the original Jurassic Park film premiere in theaters?",
+    "answer": "1993",
+    "hint": "Directed by Steven Spielberg, it was based on Michael Crichton's novel and became a massive summer blockbuster."
   }
 ]
