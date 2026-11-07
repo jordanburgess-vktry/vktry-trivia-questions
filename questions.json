@@ -12721,7 +12721,176 @@
       "hint": "He hails from California and built the record digging through crates at a Sacramento record shop.",
       "difficulty": 3,
       "id": 2785
+    },
+    {
+      "category": "Science",
+      "question": "Starting with B, what element has the atomic number 5 and is used to make bulletproof vests and high-strength alloys?",
+      "answer": "Boron",
+      "hint": "Its name comes from the same root as borax, a household cleaning compound.",
+      "difficulty": 3,
+      "id": 2786
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What American-born duchess, in a 2021 interview with Oprah Winfrey, discussed concerns raised within the palace about her child's potential skin color?",
+      "answer": "Meghan Markle",
+      "hint": "Before marrying into the royal family she starred in the legal drama 'Suits'.",
+      "difficulty": 2,
+      "id": 2788
+    },
+    {
+      "category": "TV & Movies",
+      "question": "In 'The Office', what is the name of the sales rep played by John Krasinski who consistently pranks his deskmate?",
+      "answer": "Jim Halpert",
+      "hint": "In one famous prank, he encases his deskmate Dwight's stapler in Jell-O.",
+      "difficulty": 2,
+      "id": 2790
+    },
+    {
+      "category": "Sports",
+      "question": "What is the maximum number of points a single player can score in one frame of bowling?",
+      "answer": "30",
+      "hint": "It involves a strike followed by two more strikes in the same frame calculation.",
+      "difficulty": 2,
+      "numeric_type": "exact",
+      "id": 2794
+    },
+    {
+      "category": "Sports",
+      "question": "What NBA player won the Most Valuable Player award for the 2024-25 regular season, playing for the Oklahoma City Thunder?",
+      "answer": "Shai Gilgeous-Alexander",
+      "hint": "He goes by his initials SGA and is Canadian-born.",
+      "difficulty": 2,
+      "id": 2795
+    },
+    {
+      "category": "Sports",
+      "question": "In baseball, what term describes a pitch thrown so far outside the strike zone that the catcher cannot reasonably catch it, allowing a runner to advance?",
+      "answer": "Wild pitch",
+      "hint": "Unlike a passed ball, the blame for this one falls on the pitcher, not the catcher.",
+      "difficulty": 2,
+      "id": 2796
+    },
+    {
+      "category": "Word Play",
+      "question": "What word names both a device that smooths wrinkles out of clothes and a metal-headed golf club often used for approach shots?",
+      "answer": "Iron",
+      "hint": "Both meanings involve applying force to something — one to fabric, one to a ball.",
+      "difficulty": 2,
+      "id": 2798
+    },
+    {
+      "category": "Word Play",
+      "question": "What word means both a narrow stretch of sea between two landmasses and a TV broadcasting frequency?",
+      "answer": "Channel",
+      "hint": "One separates England from France; the other is what you change with a remote.",
+      "difficulty": 2,
+      "id": 2800
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with T, what word means to press or hit something lightly and repeatedly, often with a finger?",
+      "answer": "Tap",
+      "hint": "You do this on a touchscreen every time you open an app.",
+      "difficulty": 2,
+      "id": 2801
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "What does the second 'A' in the acronym CAPTCHA stand for?",
+      "answer": "Apart",
+      "hint": "Completely Automated Public Turing test to tell Computers and Humans ___ — it's the last word in the full phrase.",
+      "difficulty": 3,
+      "id": 2803
+    },
+    {
+      "category": "Brands & Business",
+      "question": "'Live in Your World, Play in Ours' is the classic slogan associated with what gaming brand?",
+      "answer": "PlayStation",
+      "hint": "This tagline ran during the PS2 era for a Japanese electronics giant's console division.",
+      "difficulty": 2,
+      "id": 2804
+    },
+    {
+      "category": "Food & Drink",
+      "question": "What type of plant pigment gives red, purple and blue fruits like blueberries and blackberries their distinctive color?",
+      "answer": "Anthocyanin",
+      "hint": "The same compound helps turn hydrangeas blue or pink depending on soil pH.",
+      "difficulty": 3,
+      "id": 2805
+    },
+    {
+      "category": "Food & Drink",
+      "question": "What Japanese dish consists of raw fish or seafood served on vinegared rice, sometimes wrapped in seaweed?",
+      "answer": "Sushi",
+      "hint": "The word actually refers to the seasoned rice, not the fish itself.",
+      "difficulty": 2,
+      "id": 2806
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "What is the name of the bone that sits at the base of the spine and is considered vestigial in humans?",
+      "answer": "Coccyx",
+      "hint": "It's commonly called the tailbone — a remnant of an ancestral tail.",
+      "difficulty": 2,
+      "id": 2807
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "What is the name of the natural substance secreted by bees to build honeycomb, also used in cosmetics and furniture polish?",
+      "answer": "Beeswax (accept wax)",
+      "hint": "Workers produce it from glands on their abdomen — and it also appears in a classic phrase telling someone to mind their own business.",
+      "difficulty": 2,
+      "id": 2808
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What French painter, who pioneered pointillism, created 'A Sunday on La Grande Jatte' using tiny dots of color?",
+      "answer": "Georges Seurat",
+      "hint": "His technique is also called Divisionism.",
+      "difficulty": 3,
+      "id": 2809
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What literary term describes the central struggle or opposition that drives a story's plot forward?",
+      "answer": "Conflict",
+      "hint": "Every great story needs one — it can be internal, between characters, or between a character and nature.",
+      "difficulty": 2,
+      "id": 2810
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What fashion term describes the small loop of fabric or metal on a belt through which the loose end is threaded after the buckle?",
+      "answer": "Keeper (accept belt loop or loop)",
+      "hint": "It literally keeps the strap from flapping loose — you barely notice it until it breaks.",
+      "difficulty": 3,
+      "id": 2811
+    },
+    {
+      "category": "Science",
+      "question": "What is the name of the boundary layer where ocean water transitions from warm surface water to cold deep water?",
+      "answer": "Thermocline",
+      "hint": "Submarines use it to hide from sonar because it reflects sound waves.",
+      "difficulty": 3,
+      "id": 2812
+    },
+    {
+      "question": "Finish these lyrics: \"Bye bye baby it's been a sweet...\"",
+      "answer": "love",
+      "difficulty": 3,
+      "category": "Music",
+      "hint": "Lynyrd Skynyrd — Free Bird",
+      "id": 2815
+    },
+    {
+      "question": "Finish these lyrics: \"Simply because our hair is...\"",
+      "answer": "long",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Marvin Gaye — What's Going On",
+      "id": 2818
     }
   ],
-  "updated": "2026-11-06T13:25:47Z"
+  "updated": "2026-11-07T12:03:57Z"
 }

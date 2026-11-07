@@ -1043,5 +1043,25 @@
     "question": "What year did the original Jurassic Park film premiere in theaters?",
     "answer": "1993",
     "hint": "Directed by Steven Spielberg, it was based on Michael Crichton's novel and became a massive summer blockbuster."
+  },
+  {
+    "question": "How many miles is it from the tip of Florida to the nearest point in Cuba?",
+    "answer": "90",
+    "hint": "It's famously known as a very short stretch — people have swum across it."
+  },
+  {
+    "question": "What year did the construction of the Colosseum in Rome begin?",
+    "answer": "72",
+    "hint": "It was commissioned by Emperor Vespasian shortly after Nero's reign ended."
+  },
+  {
+    "question": "What year did Hurricane Katrina devastate New Orleans?",
+    "answer": "2005",
+    "hint": "It happened in the mid-2000s and was one of the costliest natural disasters in US history."
+  },
+  {
+    "question": "How many miles long is the Trans-Siberian Railway, the longest railway line in the world?",
+    "answer": "5,772",
+    "hint": "It stretches across the entire width of Russia from Moscow to Vladivostok."
   }
 ]
