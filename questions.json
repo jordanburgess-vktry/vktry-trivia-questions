@@ -12890,7 +12890,144 @@
       "category": "Music",
       "hint": "Marvin Gaye — What's Going On",
       "id": 2818
+    },
+    {
+      "category": "Science",
+      "question": "What element, with atomic number 79, is so unreactive that it has been found in ancient shipwrecks still perfectly preserved?",
+      "answer": "Gold",
+      "hint": "It sits in Period 6 of the periodic table and is used in electronics for its conductivity.",
+      "difficulty": 2,
+      "id": 2819
+    },
+    {
+      "category": "Science",
+      "question": "Starting with A, what is the term for the layer of gases surrounding a planet, held in place by gravity?",
+      "answer": "Atmosphere",
+      "hint": "On Earth it's mostly nitrogen and oxygen.",
+      "difficulty": 3,
+      "id": 2820
+    },
+    {
+      "category": "History & Geography",
+      "question": "Which US state was the last to join the union before Alaska and Hawaii, admitted in 1912?",
+      "answer": "Arizona",
+      "hint": "It shares a border with Mexico and is home to the Grand Canyon.",
+      "difficulty": 2,
+      "id": 2821
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What 2023 memoir by Prince Harry became one of the fastest-selling nonfiction books in history?",
+      "answer": "Spare",
+      "hint": "Its one-word title is a reference to the British royal tradition of an heir and a backup.",
+      "difficulty": 2,
+      "id": 2822
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What literary thriller by Donna Tartt, set at a small Vermont college, became a defining campus novel and was re-embraced by a new generation via BookTok?",
+      "answer": "The Secret History",
+      "hint": "It opens with the narrator confessing to a murder — then spends the whole book explaining how it happened.",
+      "difficulty": 3,
+      "id": 2825
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What BBC reality TV competition, launched in 2004, pairs celebrities with professional dancers to perform Latin and ballroom dances each week?",
+      "answer": "Strictly Come Dancing",
+      "hint": "Its American version airs on ABC under a different name.",
+      "difficulty": 2,
+      "id": 2826
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What FX drama series, set in feudal Japan, starring Hiroyuki Sanada as a Japanese lord and Cosmo Jarvis as a British navigator, swept the Emmys in 2024?",
+      "answer": "Shōgun",
+      "hint": "It's a remake of a 1980 miniseries based on a James Clavell novel.",
+      "difficulty": 2,
+      "id": 2827
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What actress played both twins in The Parent Trap (1998) and went on to become one of Hollywood's most tabloid-covered celebrities?",
+      "answer": "Lindsay Lohan",
+      "hint": "She played the roles of an American girl and a British girl who swap lives.",
+      "difficulty": 2,
+      "id": 2828
+    },
+    {
+      "category": "Math",
+      "question": "What is the next number in the Fibonacci sequence after 34?",
+      "answer": "55",
+      "hint": "Each number is the sum of the two before it — 21 and 34 lead you there.",
+      "difficulty": 2,
+      "numeric_type": "exact",
+      "id": 2830
+    },
+    {
+      "category": "Sports",
+      "question": "Which NFL wide receiver caught the game-winning touchdown for the Kansas City Chiefs in Super Bowl LVIII in 2024, defeating the San Francisco 49ers in overtime?",
+      "answer": "Mecole Hardman",
+      "hint": "He had returned to the team mid-season after a brief stint with the Jets.",
+      "difficulty": 3,
+      "id": 2833
+    },
+    {
+      "category": "Word Play",
+      "question": "What word connects a garden tool used for smoothing soil, the slope of a theatre stage, and a libertine or scoundrel?",
+      "answer": "Rake",
+      "hint": "One is in your shed, one is under an actor's feet, and one is in an 18th-century novel.",
+      "difficulty": 2,
+      "id": 2834
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "What does the 'S' in the medical acronym FAST stand for, used to identify stroke symptoms?",
+      "answer": "Speech",
+      "hint": "Face, Arms, ___ difficulty, Time to call — slurred words are a key warning sign.",
+      "difficulty": 3,
+      "id": 2840
+    },
+    {
+      "category": "Brands & Business",
+      "question": "What American outdoor clothing company, founded in 1973 and headquartered in Ventura, California, famously encouraged customers to buy less of its products?",
+      "answer": "Patagonia",
+      "hint": "Its founder recently gave the entire company away to fight climate change.",
+      "difficulty": 2,
+      "id": 2842
+    },
+    {
+      "category": "Food & Drink",
+      "question": "What cocktail, made with vodka, ginger beer, and lime juice, is traditionally served in a copper mug?",
+      "answer": "Moscow Mule",
+      "hint": "The copper mug keeps it cold — it became a symbol of the drink's branding.",
+      "difficulty": 2,
+      "id": 2843
+    },
+    {
+      "category": "Food & Drink",
+      "question": "Manchego, Idiazabal, and Mahón are all cheeses originating from which country?",
+      "answer": "Spain",
+      "hint": "One comes from La Mancha, famous for a certain literary windmill-tilter.",
+      "difficulty": 2,
+      "id": 2844
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What novel by Gabriel García Márquez, considered a masterwork of magical realism, follows the Buendía family across seven generations in the fictional town of Macondo?",
+      "answer": "One Hundred Years of Solitude",
+      "hint": "Its opening line — about a firing squad and ice — is one of literature's most celebrated.",
+      "difficulty": 3,
+      "id": 2846
+    },
+    {
+      "question": "Finish these lyrics: \"But some stupid with a flare gun burned the place to the...\"",
+      "answer": "ground",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Deep Purple — Smoke on the Water",
+      "id": 2850
     }
   ],
-  "updated": "2026-11-07T12:03:57Z"
+  "updated": "2026-11-08T12:23:50Z"
 }

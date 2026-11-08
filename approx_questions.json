@@ -1063,5 +1063,60 @@
     "question": "How many miles long is the Trans-Siberian Railway, the longest railway line in the world?",
     "answer": "5,772",
     "hint": "It stretches across the entire width of Russia from Moscow to Vladivostok."
+  },
+  {
+    "question": "What year did the Great Plague of London begin?",
+    "answer": "1665",
+    "hint": "It happened just one year before the Great Fire of London."
+  },
+  {
+    "question": "How many years did it take to build the Panama Canal under French and American efforts combined?",
+    "answer": "33",
+    "hint": "The French started digging in the early 1880s, and the Americans finished just as World War I broke out."
+  },
+  {
+    "question": "How many feet tall is the Space Needle in Seattle?",
+    "answer": "605",
+    "hint": "It was built for the 1962 World's Fair and is shorter than the Eiffel Tower."
+  },
+  {
+    "question": "How many career points did Wayne Gretzky score in NHL regular season and playoffs combined?",
+    "answer": "3,239",
+    "hint": "He holds almost every major NHL scoring record — think well above 3,000."
+  },
+  {
+    "question": "How many miles long is the Seine River in France?",
+    "answer": "483",
+    "hint": "It flows through Paris and is much shorter than the Rhine — think a few hundred miles."
+  },
+  {
+    "question": "How many major championships did Tiger Woods win in his professional golf career?",
+    "answer": "15",
+    "hint": "He dominated from the late 1990s through the 2000s and fell just short of Jack Nicklaus's record of 18."
+  },
+  {
+    "question": "What year did the original Woodstock music festival take place?",
+    "answer": "1969",
+    "hint": "It happened the same summer as the Moon landing."
+  },
+  {
+    "question": "How many worldwide box office dollars has Avatar (2009) grossed, including its re-releases?",
+    "answer": "2,923,706,026",
+    "hint": "It's the highest-grossing film of all time — think close to $3 billion."
+  },
+  {
+    "question": "How many total career regular-season wins did the New England Patriots achieve during Bill Belichick's tenure as head coach from 2000 to 2023?",
+    "answer": "266",
+    "hint": "He coached there for 24 seasons and had a winning percentage above .650 — think over 250 wins."
+  },
+  {
+    "question": "How many feet long is a standard Olympic swimming pool?",
+    "answer": "164",
+    "hint": "It's a bit more than half the length of an American football field, not counting end zones."
+  },
+  {
+    "question": "What year was the Magna Carta signed by King John of England?",
+    "answer": "1215",
+    "hint": "It's one of the most famous documents in history, signed in medieval England — think early 13th century."
   }
 ]
