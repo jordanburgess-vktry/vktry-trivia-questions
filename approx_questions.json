@@ -1118,5 +1118,40 @@
     "question": "What year was the Magna Carta signed by King John of England?",
     "answer": "1215",
     "hint": "It's one of the most famous documents in history, signed in medieval England — think early 13th century."
+  },
+  {
+    "question": "How many miles long is the Rhine River in Europe?",
+    "answer": "765",
+    "hint": "It flows from the Swiss Alps through Germany to the Netherlands, and is roughly a third the length of the Mississippi."
+  },
+  {
+    "question": "How many career NBA regular-season points did Kobe Bryant score in his career with the Lakers?",
+    "answer": "33,643",
+    "hint": "He ranks just above Michael Jordan on the all-time scoring list, with over 33,000 but under 34,000."
+  },
+  {
+    "question": "What year did the original Pac-Man arcade game debut?",
+    "answer": "1980",
+    "hint": "It was released in Japan in the same year the US was hosting the Winter Olympics in Lake Placid."
+  },
+  {
+    "question": "How many career strikeouts did Randy Johnson accumulate in his MLB pitching career?",
+    "answer": "4,875",
+    "hint": "He ranks second all-time in strikeouts, behind only Nolan Ryan's 5,714."
+  },
+  {
+    "question": "What year did the original Tetris video game first become publicly available?",
+    "answer": "1984",
+    "hint": "It was created by a Soviet software engineer and first released in the same year the Apple Macintosh launched."
+  },
+  {
+    "question": "How many feet tall is the Shanghai Tower, China's tallest building?",
+    "answer": "2,073",
+    "hint": "It's taller than One World Trade Center but shorter than the Burj Khalifa by several hundred feet."
+  },
+  {
+    "question": "How much did the United States pay Spain under the 1898 Treaty of Paris, which ceded the Philippines, Puerto Rico and Guam, in dollars?",
+    "answer": "20,000,000",
+    "hint": "After the Spanish-American War, the US paid Spain nearly triple what it paid Russia for Alaska."
   }
 ]

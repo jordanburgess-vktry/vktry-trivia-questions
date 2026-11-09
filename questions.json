@@ -13027,7 +13027,232 @@
       "category": "Music",
       "hint": "Deep Purple — Smoke on the Water",
       "id": 2850
+    },
+    {
+      "category": "Science",
+      "question": "Starting with B, what process allows certain deep-sea creatures and fireflies to produce their own light through a chemical reaction?",
+      "answer": "Bioluminescence",
+      "hint": "The word breaks into two parts: one means 'life', the other refers to light",
+      "difficulty": 2,
+      "id": 2851
+    },
+    {
+      "category": "History & Geography",
+      "question": "What Nordic island nation, straddling the Mid-Atlantic Ridge and famous for its volcanoes, glaciers and geysers, has a nickname pairing fire with ice?",
+      "answer": "Iceland",
+      "hint": "It sits directly on the Mid-Atlantic Ridge — ironically, its neighbor has more ice",
+      "difficulty": 2,
+      "id": 2852
+    },
+    {
+      "category": "History & Geography",
+      "question": "What was the codename given to the Allied invasion of Nazi-occupied Western Europe on June 6, 1944?",
+      "answer": "Operation Overlord",
+      "hint": "The day itself is remembered as D-Day — the operation's name was its umbrella title",
+      "difficulty": 2,
+      "id": 2853
+    },
+    {
+      "category": "History & Geography",
+      "question": "What medieval device, essentially a large rotating arm that hurled projectiles using counterweights, was the most powerful siege weapon before gunpowder?",
+      "answer": "Trebuchet",
+      "hint": "It's a French word — think of a catapult's heavier, more accurate cousin",
+      "difficulty": 3,
+      "id": 2854
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What internet slang term, often abbreviated as 'OTP', describes a fan's favorite romantic pairing of two fictional characters?",
+      "answer": "One True Pairing",
+      "hint": "Shipping culture gave birth to this term — shippers often defend their OTP fiercely",
+      "difficulty": 2,
+      "id": 2855
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What English author wrote the 'His Dark Materials' trilogy, beginning with 'Northern Lights', which was later adapted into an HBO series?",
+      "answer": "Philip Pullman",
+      "hint": "His trilogy is often seen as a secular counterpoint to Narnia — both involve parallel worlds",
+      "difficulty": 3,
+      "id": 2856
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What is the real name of the character Pedro Pascal plays in the Disney+ Star Wars series that follows a lone bounty hunter and his foundling charge across the Outer Rim?",
+      "answer": "Din Djarin (also accept The Mandalorian / Mando)",
+      "hint": "The show's title refers to his people — but his given name is rarely spoken",
+      "difficulty": 3,
+      "id": 2858
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What 1993 film sees Bill Murray reliving the same day over and over again in a small Pennsylvania town during a weather forecasting assignment?",
+      "answer": "Groundhog Day",
+      "hint": "The town is Punxsutawney — February 2nd keeps repeating for the main character",
+      "difficulty": 2,
+      "id": 2859
+    },
+    {
+      "category": "TV & Movies",
+      "question": "In 'The Sopranos', what is the name of Tony Soprano's psychiatric therapist whom he sees throughout the series?",
+      "answer": "Dr. Melfi",
+      "hint": "Her first name is Jennifer — she's one of the few characters Tony never harms despite knowing his secrets",
+      "difficulty": 2,
+      "id": 2860
+    },
+    {
+      "category": "Math",
+      "question": "If you have a dozen dozens, how many do you have?",
+      "answer": "144",
+      "hint": "A dozen is 12 — now multiply that by itself",
+      "difficulty": 2,
+      "numeric_type": "exact",
+      "id": 2862
+    },
+    {
+      "category": "Sports",
+      "question": "What quarterback set an NFL record by throwing 55 touchdown passes in the 2013 regular season?",
+      "answer": "Peyton Manning",
+      "hint": "He did it in his second season with a Denver team known for its orange and blue colors",
+      "difficulty": 2,
+      "id": 2863
+    },
+    {
+      "category": "Sports",
+      "question": "What NFL wide receiver caught the 'Helmet Catch' in Super Bowl XLII, one of the most famous plays in Super Bowl history?",
+      "answer": "David Tyree",
+      "hint": "He pinned the ball against his helmet with one hand — it helped the Giants stun an undefeated Patriots team",
+      "difficulty": 3,
+      "id": 2864
+    },
+    {
+      "category": "Word Play",
+      "question": "What word sounds like both a nocturnal flying mammal and a piece of cricket or baseball equipment?",
+      "answer": "Bat",
+      "hint": "One of these hangs upside down in caves; the other is swung at a ball",
+      "difficulty": 2,
+      "id": 2865
+    },
+    {
+      "category": "Word Play",
+      "question": "What word connects a carpenter's fastener, something a manicurist files, and what you do when you get something exactly right?",
+      "answer": "Nail",
+      "hint": "One is hammered in, one is filed smooth, and one means you executed flawlessly",
+      "difficulty": 2,
+      "id": 2866
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "What does the 'P' in the acronym CAPTCHA stand for?",
+      "answer": "Public",
+      "hint": "Completely Automated ___ Turing Test to tell Computers and Humans Apart — it's about who can access a system",
+      "difficulty": 2,
+      "id": 2868
+    },
+    {
+      "category": "Food & Drink",
+      "question": "What Japanese word describes the technique of cooking food on a very hot iron griddle, often at the table in front of diners?",
+      "answer": "Teppanyaki",
+      "hint": "The chefs are known for theatrical knife skills and onion volcanoes — it's often confused with hibachi",
+      "difficulty": 3,
+      "id": 2869
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "What is the collective noun for a group of owls?",
+      "answer": "Parliament",
+      "hint": "It's a governing body — which perhaps reflects how wise these birds are supposed to be",
+      "difficulty": 2,
+      "id": 2870
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "What black-and-white marine mammal is one of the very few non-human animals known to go through menopause, with females living for decades afterward?",
+      "answer": "Orca",
+      "hint": "Post-reproductive females lead their pods — researchers think this gives their family group a survival advantage",
+      "difficulty": 3,
+      "id": 2871
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What Dutch painter created 'Girl with a Pearl Earring' in roughly 1665, a work now described as the 'Mona Lisa of the North'?",
+      "answer": "Johannes Vermeer",
+      "hint": "He was from Delft and painted mostly domestic interiors — this portrait's subject remains unidentified",
+      "difficulty": 2,
+      "id": 2872
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What French fashion designer is credited with popularizing the little black dress and liberating women from the corset in the early 20th century?",
+      "answer": "Coco Chanel",
+      "hint": "Her perfume, numbered after the sample she approved, is among the best-selling fragrances ever made",
+      "difficulty": 2,
+      "id": 2873
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What literary term describes a protagonist who is flawed, morally ambiguous, or unconventional — neither a traditional hero nor a villain?",
+      "answer": "Antihero",
+      "hint": "Walter White, Humbert Humbert, and Scarlett O'Hara are frequently cited examples of this character type",
+      "difficulty": 2,
+      "id": 2874
+    },
+    {
+      "question": "Finish these lyrics: \"Rats in the front room, roaches in the...\"",
+      "answer": "back",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Grandmaster Flash — The Message",
+      "id": 2875
+    },
+    {
+      "question": "Finish these lyrics: \"Yellow tigers crouched in jungles in her...\"",
+      "answer": "dark eyes",
+      "difficulty": 3,
+      "category": "Music",
+      "hint": "Cream — White Room",
+      "id": 2877
+    },
+    {
+      "question": "Finish these lyrics: \"Why is the bedroom so cold, turned away on your...\"",
+      "answer": "side",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Joy Division — Love Will Tear Us Apart",
+      "id": 2878
+    },
+    {
+      "question": "Finish these lyrics: \"I've got so much honey the bees...\"",
+      "answer": "envy me",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "The Temptations — My Girl",
+      "id": 2882
+    },
+    {
+      "question": "Finish these lyrics: \"All along the watchtower, princes kept their...\"",
+      "answer": "view",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Jimi Hendrix — All Along the Watchtower",
+      "id": 2883
+    },
+    {
+      "category": "Music",
+      "question": "Who performed the song 'Standing Outside a Broken Phone Booth with Money in My Hand,' a sprawling 1996 alt-rock single built around a looped blues sample?",
+      "answer": "Primitive Radio Gods",
+      "hint": "One-hit wonder from the mid-90s whose track appeared on the Feeling Minnesota soundtrack",
+      "difficulty": 3,
+      "id": 2885
+    },
+    {
+      "category": "Music",
+      "question": "What Houston-born country singer, one of the best-selling artists of the late 1970s and 1980s, had a 1978 hit with 'The Gambler'?",
+      "answer": "Kenny Rogers",
+      "hint": "He also sang the duet 'Islands in the Stream' with Dolly Parton",
+      "difficulty": 2,
+      "id": 2886
     }
   ],
-  "updated": "2026-11-08T12:23:50Z"
+  "updated": "2026-11-09T14:36:16Z"
 }
