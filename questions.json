@@ -13252,7 +13252,199 @@
       "hint": "He also sang the duet 'Islands in the Stream' with Dolly Parton",
       "difficulty": 2,
       "id": 2886
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What New Zealand comedian, one half of the folk duo in HBO's 'Flight of the Conchords,' voiced the giant crab Tamatoa in Disney's 'Moana'?",
+      "answer": "Jemaine Clement",
+      "hint": "He also played the villain Boris the Animal in 'Men in Black 3.'",
+      "difficulty": 3,
+      "id": 2889
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What internet slang term describes an obsessively devoted fan of a celebrity, and is also used as a verb meaning to support someone intensely?",
+      "answer": "Stan",
+      "hint": "It originated as the title of an Eminem song about an obsessive fan.",
+      "difficulty": 2,
+      "id": 2890
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What American memoirist wrote 'Educated,' a bestselling account of growing up in a survivalist family in rural Idaho without formal schooling?",
+      "answer": "Tara Westover",
+      "hint": "She eventually earned a PhD from Cambridge University despite never attending school as a child.",
+      "difficulty": 3,
+      "id": 2891
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What actor played the villainous Thanos in the Marvel Cinematic Universe across multiple Avengers films?",
+      "answer": "Josh Brolin",
+      "hint": "He also played a young Tommy Lee Jones's character in a Men in Black sequel.",
+      "difficulty": 2,
+      "id": 2892
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What is the real name of the title character Pedro Pascal plays in the Disney+ Star Wars series 'The Mandalorian'?",
+      "answer": "Din Djarin",
+      "hint": "He's a bounty hunter who becomes the protector of a child named Grogu.",
+      "difficulty": 2,
+      "id": 2893
+    },
+    {
+      "category": "Sports",
+      "question": "The Lakers, the Dodgers, and the Kings all play their home games in which U.S. city?",
+      "answer": "Los Angeles",
+      "hint": "This West Coast city is the second most populous in the United States.",
+      "difficulty": 2,
+      "id": 2895
+    },
+    {
+      "category": "Sports",
+      "question": "What NBA player won the Most Valuable Player award for the 2022-23 regular season, breaking a streak of Nikola Jokic wins?",
+      "answer": "Joel Embiid",
+      "hint": "He plays center for the Philadelphia 76ers and is nicknamed 'The Process.'",
+      "difficulty": 2,
+      "id": 2896
+    },
+    {
+      "category": "Sports",
+      "question": "In American football, what is the term for a play in which the ball carrier is tackled in their own end zone, scoring two points for the opposing team?",
+      "answer": "Safety",
+      "hint": "The same word describes a defensive back position and a locking mechanism on a firearm.",
+      "difficulty": 2,
+      "id": 2897
+    },
+    {
+      "category": "Sports",
+      "question": "What award is given each year to the best interior lineman in college football, offensive or defensive, and is named after a former University of Pennsylvania player?",
+      "answer": "Outland Trophy",
+      "hint": "Unlike the Heisman, this award specifically honors interior linemen — not skill positions.",
+      "difficulty": 3,
+      "id": 2898
+    },
+    {
+      "category": "Word Play",
+      "question": "What word means both a site where ships are built or repaired, and a unit of measurement equal to three feet?",
+      "answer": "Yard",
+      "hint": "Another meaning is the grassy area behind a house.",
+      "difficulty": 2,
+      "id": 2900
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with T, what word means to walk with short, unsteady steps, like a small child just learning to walk?",
+      "answer": "Toddle",
+      "hint": "Add an 'r' to the end and you get a word for a young child.",
+      "difficulty": 2,
+      "id": 2903
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with R, what six-letter word means a sharp, witty reply made to counter what someone just said?",
+      "answer": "Retort",
+      "hint": "In a debate, the perfect one of these can win the room instantly.",
+      "difficulty": 2,
+      "id": 2904
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with W, what seven-letter word means to move forward by twisting and turning the body, like a snake or a person squeezing through a tight gap?",
+      "answer": "Wriggle",
+      "hint": "A child trying to escape a parent's grip tends to do this constantly.",
+      "difficulty": 2,
+      "id": 2905
+    },
+    {
+      "category": "Food & Drink",
+      "question": "What fermented Korean side dish, most commonly made from salted and spiced cabbage, is considered a national staple and a symbol of Korean culinary identity?",
+      "answer": "Kimchi",
+      "hint": "It is traditionally prepared in large batches in autumn and stored in clay pots buried underground.",
+      "difficulty": 2,
+      "id": 2906
+    },
+    {
+      "category": "Food & Drink",
+      "question": "Prosciutto, pancetta, and guanciale are all cured meat products originating from which country?",
+      "answer": "Italy",
+      "hint": "Guanciale is the traditional choice for an authentic carbonara.",
+      "difficulty": 2,
+      "id": 2907
+    },
+    {
+      "category": "Arts & Style",
+      "question": "Starting with J, what word describes a style of creative improvisation — originally in jazz — where performers make it up spontaneously without a set plan?",
+      "answer": "Jamming",
+      "hint": "It also describes the act of getting stuck and what you spread on toast.",
+      "difficulty": 2,
+      "id": 2908
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What British author created the fictional detective Hercule Poirot, a meticulous Belgian investigator known for his 'little grey cells'?",
+      "answer": "Agatha Christie",
+      "hint": "She is the best-selling fiction writer of all time and also created the amateur sleuth Miss Marple.",
+      "difficulty": 2,
+      "id": 2909
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What actress plays the young Queen Charlotte in Netflix's Bridgerton spin-off 'Queen Charlotte: A Bridgerton Story'?",
+      "answer": "India Amarteifio",
+      "hint": "The older version of the same character in the main Bridgerton series is played by Golda Rosheuvel.",
+      "difficulty": 3,
+      "id": 2910
+    },
+    {
+      "category": "Sports",
+      "question": "What NFL wide receiver was named first-team All-Pro with the San Francisco 49ers for the 2021 season, when he also lined up as a running back and was dubbed a 'wide back'?",
+      "answer": "Deebo Samuel",
+      "hint": "His nickname comes from the bully character in the 1995 film 'Friday.'",
+      "difficulty": 2,
+      "id": 2911
+    },
+    {
+      "question": "Finish these lyrics: \"I knew you'd love me as long as you wanted, and then someday you'd leave me for somebody...\"",
+      "answer": "new",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Patsy Cline — Crazy",
+      "id": 2921
+    },
+    {
+      "category": "Music",
+      "question": "What band released the album 'The Argument' in 2001, widely considered a post-hardcore masterpiece and their final studio record?",
+      "answer": "Fugazi",
+      "hint": "Washington D.C. band led by Ian MacKaye, famous for their DIY ethics and $5 shows",
+      "difficulty": 3,
+      "id": 2923
+    },
+    {
+      "category": "Music",
+      "question": "Who performed 'Weak,' the 1993 quiet-storm R&B ballad that hit number one and became a defining slow jam of the era?",
+      "answer": "SWV",
+      "hint": "The group's name stands for Sisters With Voices",
+      "difficulty": 2,
+      "id": 2924
+    },
+    {
+      "category": "Music",
+      "question": "What band featured members Curt Smith and Roland Orzabal, a British duo whose debut hit was 'Mad World' in 1982?",
+      "answer": "Tears for Fears",
+      "hint": "They later scored a bigger US hit with 'Everybody Wants to Rule the World'",
+      "difficulty": 2,
+      "id": 2925
+    },
+    {
+      "category": "Music",
+      "question": "What Dallas-formed country group featured members Martie Maguire, Emily Strayer, and Natalie Maines, and sparked a massive radio boycott in 2003 after criticizing President George W. Bush?",
+      "answer": "Dixie Chicks (now The Chicks)",
+      "hint": "They have since rebranded under a shortened version of their name",
+      "difficulty": 2,
+      "id": 2926
     }
   ],
-  "updated": "2026-11-09T14:36:16Z"
+  "updated": "2026-11-10T13:57:04Z"
 }
