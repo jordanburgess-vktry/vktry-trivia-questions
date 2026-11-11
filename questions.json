@@ -13444,7 +13444,88 @@
       "hint": "They have since rebranded under a shortened version of their name",
       "difficulty": 2,
       "id": 2926
+    },
+    {
+      "category": "Science",
+      "question": "Starting with V, what is the name of the layer of charged particles trapped by Earth's magnetic field, posing a radiation hazard to satellites?",
+      "answer": "Van Allen belts",
+      "hint": "Named after the physicist who discovered them using Explorer 1 in 1958 — ___ Allen belts.",
+      "difficulty": 3,
+      "id": 2927
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What 2005 crime novel by Stieg Larsson, published after his death, introduces hacker Lisbeth Salander as she helps investigate a decades-old family disappearance?",
+      "answer": "The Girl with the Dragon Tattoo",
+      "hint": "The Swedish original was titled 'Men Who Hate Women' — the first book of the Millennium series.",
+      "difficulty": 2,
+      "id": 2929
+    },
+    {
+      "category": "Math",
+      "question": "What is the only number that is both a Fibonacci number and a perfect cube greater than 1?",
+      "answer": "8",
+      "hint": "It's a single digit that appears early in the sequence 1, 1, 2, 3, 5...",
+      "difficulty": 3,
+      "numeric_type": "exact",
+      "id": 2934
+    },
+    {
+      "category": "Sports",
+      "question": "What NBA player won the Most Valuable Player award in both the 2021-22 and 2023-24 regular seasons?",
+      "answer": "Nikola Jokić",
+      "hint": "He's a Serbian center for the Denver Nuggets and is known for his elite playmaking despite his unconventional athleticism.",
+      "difficulty": 2,
+      "id": 2936
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "What does the 'P' in the internet security term HTTPS stand for?",
+      "answer": "Protocol",
+      "hint": "Hypertext Transfer ___ Secure — it's the set of rules governing how data is transmitted.",
+      "difficulty": 2,
+      "id": 2941
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with J, what word for a sudden sharp movement completes the name of the reflex a doctor tests by tapping just below your kneecap: the knee-___ reflex?",
+      "answer": "Jerk",
+      "hint": "It's also what your leg does involuntarily when the doctor's hammer hits.",
+      "difficulty": 2,
+      "id": 2942
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "What does the 'R' in the emergency broadcasting term AMBER Alert stand for?",
+      "answer": "Response",
+      "hint": "America's Missing: Broadcast Emergency ___ — it was named after a child abduction victim named Amber Hagerman.",
+      "difficulty": 3,
+      "id": 2943
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with K, what word means a small, often wheeled cart or booth used to sell goods in a public space like a shopping mall or train station?",
+      "answer": "Kiosk",
+      "hint": "You'll find them in airports selling phone chargers, or in malls staffed by salespeople offering product samples.",
+      "difficulty": 2,
+      "id": 2944
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with W, what word means to move or walk unsteadily, tipping from side to side like a toddler or a penguin?",
+      "answer": "Waddle",
+      "hint": "It's the gait associated with ducks and very young children learning to walk.",
+      "difficulty": 2,
+      "id": 2945
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What fashion house, founded in Paris in 1854 by a trunk-maker, is famous for a monogram canvas introduced in 1896?",
+      "answer": "Louis Vuitton",
+      "hint": "Its iconic monogram canvas was designed to be harder to counterfeit — and it still gets counterfeited constantly.",
+      "difficulty": 2,
+      "id": 2946
     }
   ],
-  "updated": "2026-11-10T13:57:04Z"
+  "updated": "2026-11-11T13:08:54Z"
 }
