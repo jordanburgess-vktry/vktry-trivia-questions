@@ -1243,5 +1243,40 @@
     "question": "What year was the first Olympic Games of the modern era held in Athens, Greece?",
     "answer": "1896",
     "hint": "They were revived near the end of the 19th century, inspired by the ancient Greek tradition."
+  },
+  {
+    "question": "Without winglets, how many feet long is the wingspan of a Boeing 737-800?",
+    "answer": "113",
+    "hint": "It's a narrow-body single-aisle jet, considerably smaller than a wide-body like a 747."
+  },
+  {
+    "question": "How many tour-level singles match wins did Roger Federer record in his professional career?",
+    "answer": "1,251",
+    "hint": "He played professionally for over 20 years and won 20 Grand Slam titles."
+  },
+  {
+    "question": "How many worldwide box office dollars did The Super Mario Bros. Movie (2023) gross in its theatrical release?",
+    "answer": "1,362,000,000",
+    "hint": "It became one of the highest-grossing animated films ever and far exceeded box office expectations."
+  },
+  {
+    "question": "How much did the United States pay Russia for Alaska per acre, in cents?",
+    "answer": "2",
+    "hint": "The total purchase price was about $7.2 million for over 360 million acres — widely mocked at the time as 'Seward's Folly'."
+  },
+  {
+    "question": "How many career strikeouts did Pedro Martínez accumulate in his MLB pitching career?",
+    "answer": "3,154",
+    "hint": "He's considered one of the greatest pitchers ever, dominating hitters during the late 1990s and early 2000s."
+  },
+  {
+    "question": "How many total episodes of 'South Park' aired through its first 26 seasons?",
+    "answer": "321",
+    "hint": "The show has been on Comedy Central since 1997. Early seasons ran over a dozen episodes each, but recent ones have been much shorter."
+  },
+  {
+    "question": "How many feet tall is the Gateway Arch in St. Louis, Missouri?",
+    "answer": "630",
+    "hint": "It's the tallest arch in the world and roughly as tall as a 60-story skyscraper."
   }
 ]

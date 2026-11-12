@@ -13525,7 +13525,128 @@
       "hint": "Its iconic monogram canvas was designed to be harder to counterfeit — and it still gets counterfeited constantly.",
       "difficulty": 2,
       "id": 2946
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What author created the fictional world of Middle-earth, home to hobbits, elves, and the One Ring?",
+      "answer": "J.R.R. Tolkien",
+      "hint": "He was an Oxford professor who invented entire languages for his fictional races.",
+      "difficulty": 2,
+      "id": 2947
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What HBO series follows a New Jersey mob boss and his family, and ran for six seasons between 1999 and 2007?",
+      "answer": "The Sopranos",
+      "hint": "Its creator, David Chase, famously ended the series with a sudden cut to black.",
+      "difficulty": 2,
+      "id": 2948
+    },
+    {
+      "category": "Math",
+      "question": "What is the next prime number after 23?",
+      "answer": "29",
+      "hint": "Skip 24, 25, 26, 27, and 28 — they all have factors.",
+      "difficulty": 2,
+      "numeric_type": "exact",
+      "id": 2950
+    },
+    {
+      "category": "Sports",
+      "question": "In the NFL, what is the name of the penalty called when an offensive lineman flinches or moves before the snap?",
+      "answer": "False start",
+      "hint": "It costs the offense five yards and kills the play before it starts.",
+      "difficulty": 2,
+      "id": 2951
+    },
+    {
+      "category": "Word Play",
+      "question": "What word connects a part of a fish, a series of musical notes, and a bathroom device you stand on?",
+      "answer": "Scale",
+      "hint": "One version covers the body, one covers sound, and one measures weight.",
+      "difficulty": 2,
+      "id": 2952
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with W, what word means a narrow path or track made for people to walk along?",
+      "answer": "Walkway",
+      "hint": "You'll find one connecting buildings in an airport or running along a waterfront.",
+      "difficulty": 2,
+      "id": 2953
+    },
+    {
+      "category": "Food & Drink",
+      "question": "What dark, salty condiment, called shoyu in Japan, is made from fermented beans, water, wheat, and salt, and is used as a dipping sauce and flavoring?",
+      "answer": "Soy sauce",
+      "hint": "Its production process can take months to years, and it predates most modern condiments by centuries.",
+      "difficulty": 2,
+      "id": 2954
+    },
+    {
+      "category": "Food & Drink",
+      "question": "What is the name of the Italian dish made from rice cooked slowly with broth until creamy, often containing parmesan and white wine?",
+      "answer": "Risotto",
+      "hint": "It's notoriously difficult to get right because it requires constant stirring and precise timing.",
+      "difficulty": 2,
+      "id": 2955
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What American realist painter is known for his paintings of diners, gas stations, and lonely urban scenes, most famously 'Nighthawks'?",
+      "answer": "Edward Hopper",
+      "hint": "His work captures mid-20th century American isolation, and 'Nighthawks' shows four figures in a late-night diner.",
+      "difficulty": 2,
+      "id": 2956
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What literary device is used when a narrator addresses a 'you' who is the main character, putting the reader directly in the story?",
+      "answer": "Second person",
+      "hint": "It's the rarest of the three narrative points of view and is used famously in some choose-your-own-adventure books.",
+      "difficulty": 3,
+      "id": 2957
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What fashion designer created the iconic little black dress worn by Audrey Hepburn in the 1961 film Breakfast at Tiffany's?",
+      "answer": "Hubert de Givenchy",
+      "hint": "He was a French couturier and longtime collaborator with Hepburn, dressing her both on and off screen.",
+      "difficulty": 3,
+      "id": 2958
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What fictional character, created by Arthur Conan Doyle, famously lived at 221B Baker Street in London?",
+      "answer": "Sherlock Holmes",
+      "hint": "He had a trusted companion named Watson and a nemesis named Professor Moriarty.",
+      "difficulty": 2,
+      "id": 2960
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with J, what word means to squeeze or pack tightly into a small or insufficient space?",
+      "answer": "Jam",
+      "hint": "You might do this to a suitcase before a trip, or describe what happens to a highway at rush hour.",
+      "difficulty": 2,
+      "id": 2962
+    },
+    {
+      "question": "Finish these lyrics: \"None will level on the mind, nobody offered...\"",
+      "answer": "his word",
+      "difficulty": 3,
+      "category": "Music",
+      "hint": "Jimi Hendrix — All Along the Watchtower",
+      "id": 2963
+    },
+    {
+      "question": "Finish these lyrics: \"I don't need no money, fortune or...\"",
+      "answer": "fame",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "The Temptations — My Girl",
+      "id": 2972
     }
   ],
-  "updated": "2026-11-11T13:08:54Z"
+  "updated": "2026-11-12T14:11:09Z"
 }
