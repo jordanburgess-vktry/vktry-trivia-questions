@@ -1278,5 +1278,35 @@
     "question": "How many feet tall is the Gateway Arch in St. Louis, Missouri?",
     "answer": "630",
     "hint": "It's the tallest arch in the world and roughly as tall as a 60-story skyscraper."
+  },
+  {
+    "question": "How many feet long is the wingspan of the Airbus A380, the world's largest commercial passenger jet?",
+    "answer": "262",
+    "hint": "It's notably wider than a standard basketball court is long."
+  },
+  {
+    "question": "How many career goals did Mia Hamm score in international matches for the US Women's National Team?",
+    "answer": "158",
+    "hint": "She was the all-time international goals leader for both men and women when she retired in 2004."
+  },
+  {
+    "question": "How many miles long is the Appalachian Trail from its southern terminus in Georgia to its northern terminus in Maine?",
+    "answer": "2,190",
+    "hint": "It passes through 14 states along the Eastern US."
+  },
+  {
+    "question": "How many career regular-season touchdown passes did Brett Favre throw in his NFL career?",
+    "answer": "508",
+    "hint": "He held the all-time record before Peyton Manning surpassed him."
+  },
+  {
+    "question": "How many worldwide box office dollars did Black Panther (2018) gross in its theatrical release?",
+    "answer": "1,346,913,161",
+    "hint": "It was a massive Marvel hit and the first superhero film nominated for Best Picture at the Oscars."
+  },
+  {
+    "question": "How many career singles titles did Serena Williams win on the WTA Tour?",
+    "answer": "73",
+    "hint": "She also won 23 Grand Slam singles titles during her legendary career."
   }
 ]

@@ -13646,7 +13646,128 @@
       "category": "Music",
       "hint": "The Temptations — My Girl",
       "id": 2972
+    },
+    {
+      "category": "Science",
+      "question": "Inside the chrysalis, a caterpillar's tissues break down into a soup-like liquid before the butterfly forms. What is the term for this breakdown of tissues?",
+      "answer": "Histolysis",
+      "hint": "It comes from Greek roots meaning 'tissue' and 'loosening'",
+      "difficulty": 3,
+      "id": 2973
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What author wrote 'The Midnight Library,' a 2020 novel in which a woman discovers a library containing books representing all the lives she could have lived?",
+      "answer": "Matt Haig",
+      "hint": "The British author also wrote 'Reasons to Stay Alive' and 'The Humans'",
+      "difficulty": 2,
+      "id": 2975
+    },
+    {
+      "category": "TV & Movies",
+      "question": "In 'The Office,' what was the name of the company Michael started after quitting Dunder Mifflin, taking Pam and Ryan with him?",
+      "answer": "Michael Scott Paper Company",
+      "hint": "It was formed after Michael's frustration with the company's new management, and it briefly became a real competitor",
+      "difficulty": 2,
+      "id": 2977
+    },
+    {
+      "category": "Sports",
+      "question": "In golf, what term describes a score of three under par on a single hole?",
+      "answer": "Albatross (also accept Double eagle)",
+      "hint": "It is rarer than an eagle",
+      "difficulty": 2,
+      "id": 2981
+    },
+    {
+      "category": "Word Play",
+      "question": "What word connects the outer part of a loaf of bread, the Earth's outer rocky layer, and a gritty punk subgenre?",
+      "answer": "Crust",
+      "hint": "The geological version sits above the mantle",
+      "difficulty": 2,
+      "id": 2985
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with J, what word means to push or bump someone roughly, especially in a crowd?",
+      "answer": "Jostle",
+      "hint": "You might experience this on a packed subway platform or at a busy concert entrance",
+      "difficulty": 2,
+      "id": 2987
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with R, what noun describes the deep guilt and sorrow a person feels for a wrong they have committed?",
+      "answer": "Remorse",
+      "hint": "A judge might consider whether a convicted person shows this before deciding on sentencing",
+      "difficulty": 2,
+      "id": 2988
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "What does the 'F' in the acronym FOMO stand for?",
+      "answer": "Fear",
+      "hint": "___ Of Missing Out — the anxious feeling you get when you think others are having fun without you",
+      "difficulty": 2,
+      "id": 2989
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "What is the name of the transparent, dome-shaped front surface of the human eye that refracts most of the light entering it?",
+      "answer": "Cornea",
+      "hint": "Contact lenses rest directly on it",
+      "difficulty": 2,
+      "id": 2990
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What literary device is used when an author interrupts the chronological flow of a narrative to depict an event that occurred earlier?",
+      "answer": "Flashback",
+      "hint": "It is frequently used in film and fiction to reveal backstory or explain a character's current motivation",
+      "difficulty": 2,
+      "id": 2991
+    },
+    {
+      "category": "Arts & Style",
+      "question": "Starting with L, what word describes the visual element in art and design that refers to a path drawn by a moving point, used to define shapes and convey direction?",
+      "answer": "Line",
+      "hint": "It is considered one of the seven basic elements of art, along with shape, form, texture, space, color, and value",
+      "difficulty": 2,
+      "id": 2992
+    },
+    {
+      "category": "History & Geography",
+      "question": "What Central Asian country is doubly landlocked — meaning it is surrounded entirely by other landlocked countries — and was part of the Soviet Union until 1991?",
+      "answer": "Uzbekistan",
+      "hint": "Only two countries in the world are doubly landlocked; this one borders Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan, and Turkmenistan",
+      "difficulty": 3,
+      "id": 2993
+    },
+    {
+      "category": "Math",
+      "question": "If a snail travels at a speed of one meter per minute, how many meters will it cover in one hour?",
+      "answer": "60",
+      "hint": "This is simpler than it sounds — just think about how many minutes are in an hour",
+      "difficulty": 2,
+      "numeric_type": "exact",
+      "id": 2995
+    },
+    {
+      "question": "Finish these lyrics: \"Since you've gone I've been lost without...\"",
+      "answer": "a trace",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "The Police — Every Breath You Take",
+      "id": 3002
+    },
+    {
+      "category": "Music",
+      "question": "What rapper released the album 'Liquid Swords' in 1995, a brooding solo hip-hop record widely regarded as one of the finest Wu-Tang affiliated projects ever recorded?",
+      "answer": "GZA",
+      "hint": "He is also known as 'The Genius,' and the album samples the samurai film 'Shogun Assassin'",
+      "difficulty": 3,
+      "id": 3006
     }
   ],
-  "updated": "2026-11-12T14:11:09Z"
+  "updated": "2026-11-13T13:36:06Z"
 }
