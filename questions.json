@@ -13767,7 +13767,103 @@
       "hint": "He is also known as 'The Genius,' and the album samples the samurai film 'Shogun Assassin'",
       "difficulty": 3,
       "id": 3006
+    },
+    {
+      "category": "Science",
+      "question": "If you dropped a feather and a bowling ball simultaneously in a vacuum with no air resistance, which would hit the ground first?",
+      "answer": "Same time",
+      "hint": "Galileo famously demonstrated this principle — gravity doesn't care about mass.",
+      "difficulty": 2,
+      "id": 3007
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What 2023 TikTok live-streaming craze involved creators acting like video game characters, repeating robotic catchphrases like 'ice cream so good' when viewers sent gifts?",
+      "answer": "NPC trend",
+      "hint": "The videos mimicked the robotic, looping behavior of non-player characters in video games.",
+      "difficulty": 3,
+      "id": 3008
+    },
+    {
+      "category": "Math",
+      "question": "If you fold a piece of paper in half 42 times — theoretically — the thickness would exceed the distance from Earth to what celestial body?",
+      "answer": "Moon",
+      "hint": "Each fold doubles the thickness — by fold 42 you're in the hundreds of thousands of kilometers.",
+      "difficulty": 2,
+      "id": 3010
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with K, what word means to make fabric by interlocking loops of yarn using two needles?",
+      "answer": "Knit",
+      "hint": "Grandmothers, hipsters, and cold-weather crafters all do this to make sweaters and scarves.",
+      "difficulty": 2,
+      "id": 3014
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "What large semi-aquatic African mammal, despite its lumbering appearance, is considered one of the most dangerous animals on the continent and kills more humans than lions annually?",
+      "answer": "Hippopotamus",
+      "hint": "It's highly territorial, can run at about 20 mph on land, and spends most of its day in water.",
+      "difficulty": 2,
+      "id": 3016
+    },
+    {
+      "category": "Arts & Style",
+      "question": "Starting with L, what word describes a printed design or image transferred from a specially prepared stone or metal plate?",
+      "answer": "Lithograph",
+      "hint": "The process uses the principle that oil and water repel each other — it's widely used in fine art prints.",
+      "difficulty": 3,
+      "id": 3017
+    },
+    {
+      "category": "Science",
+      "question": "Starting with U, what word describes sound at a frequency too high for humans to hear, used in medical imaging to view inside the body?",
+      "answer": "Ultrasound",
+      "hint": "Pregnant women routinely have this scan to check on fetal development.",
+      "difficulty": 2,
+      "id": 3018
+    },
+    {
+      "category": "Sports",
+      "question": "Starting with T, what basketball term describes a player reaching double figures in three statistical categories in a single game?",
+      "answer": "Triple-double",
+      "hint": "Oscar Robertson, Magic Johnson, Russell Westbrook and Nikola Jokić are famous for racking these up.",
+      "difficulty": 2,
+      "id": 3019
+    },
+    {
+      "question": "Finish these lyrics: \"She give him loving that his body...\"",
+      "answer": "can't handle",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "TLC — Waterfalls",
+      "id": 3020
+    },
+    {
+      "question": "Finish these lyrics: \"Started smokin woolies at...\"",
+      "answer": "sixteen",
+      "difficulty": 3,
+      "category": "Music",
+      "hint": "Wu-Tang Clan — C.R.E.A.M.",
+      "id": 3022
+    },
+    {
+      "category": "Music",
+      "question": "Who originally performed 'Take Me to the River' before Talking Heads made it famous with their 1978 version?",
+      "answer": "Al Green",
+      "hint": "A Memphis soul legend who later became an ordained minister",
+      "difficulty": 2,
+      "id": 3030
+    },
+    {
+      "category": "Music",
+      "question": "What electronic duo, made up of Ed Simons and Tom Rowlands, released the 1997 album 'Dig Your Own Hole' featuring the track 'Block Rockin' Beats'?",
+      "answer": "The Chemical Brothers",
+      "hint": "British big beat pioneers who originally went by the name The Dust Brothers before a naming dispute",
+      "difficulty": 3,
+      "id": 3031
     }
   ],
-  "updated": "2026-11-13T13:36:06Z"
+  "updated": "2026-11-14T12:41:06Z"
 }
