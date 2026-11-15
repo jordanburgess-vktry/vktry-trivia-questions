@@ -1333,5 +1333,40 @@
     "question": "How many career NBA championships did Bill Russell win with the Boston Celtics?",
     "answer": "11",
     "hint": "No player in the history of any major North American professional sports league has more championships than this Celtics legend."
+  },
+  {
+    "question": "How many miles is it from the center of the Earth to its surface?",
+    "answer": "3,959",
+    "hint": "It's roughly half the diameter of the Earth, which is just under 8,000 miles across."
+  },
+  {
+    "question": "How many years did it take to complete the construction of the Sagrada Família's main nave, from the laying of the first stone to the nave's consecration?",
+    "answer": "128",
+    "hint": "Construction began in the 1880s and the nave was consecrated by Pope Benedict XVI in 2010."
+  },
+  {
+    "question": "How many feet long is the wingspan of a B-2 Spirit stealth bomber?",
+    "answer": "172",
+    "hint": "The B-2 is a flying wing design with an enormous span — longer than a standard basketball court and a half."
+  },
+  {
+    "question": "How many career NBA Finals appearances did LeBron James make through the end of the 2023-24 season?",
+    "answer": "10",
+    "hint": "He reached the Finals with three different franchises — Cleveland, Miami, and the Lakers."
+  },
+  {
+    "question": "What year was the first text message (SMS) ever sent?",
+    "answer": "1992",
+    "hint": "It was sent in December of that year by a 22-year-old engineer to a Vodafone director, reading 'Merry Christmas.'"
+  },
+  {
+    "question": "How many career strikeouts did Cy Young accumulate in his MLB pitching career?",
+    "answer": "2,803",
+    "hint": "He pitched from 1890 to 1911 and still holds the all-time record for career wins; strikeout totals were lower in the deadball era."
+  },
+  {
+    "question": "How many total episodes of 'ER' aired across all fifteen seasons?",
+    "answer": "331",
+    "hint": "It ran from 1994 to 2009 on NBC and was one of the longest-running primetime medical dramas before Grey's Anatomy."
   }
 ]

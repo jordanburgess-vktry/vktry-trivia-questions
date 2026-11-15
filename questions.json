@@ -13863,7 +13863,127 @@
       "hint": "British big beat pioneers who originally went by the name The Dust Brothers before a naming dispute",
       "difficulty": 3,
       "id": 3031
+    },
+    {
+      "category": "Science",
+      "question": "What is the name of the chemical process by which iron turns reddish-brown when exposed to oxygen and moisture?",
+      "answer": "Oxidation (also accept rusting or corrosion)",
+      "hint": "It's the same broad process that causes fruit to brown when cut.",
+      "difficulty": 2,
+      "id": 3032
+    },
+    {
+      "category": "Science",
+      "question": "What is the term for the partly enclosed coastal body of water where a river's fresh water meets and mixes with the sea's salt water?",
+      "answer": "Estuary",
+      "hint": "Many major cities — London, New York — are built near one.",
+      "difficulty": 2,
+      "id": 3033
+    },
+    {
+      "category": "Science",
+      "question": "What term describes materials such as silicon and germanium, whose ability to carry electric current lies between that of metals and insulators?",
+      "answer": "Semiconductor",
+      "hint": "These materials are inside every computer chip.",
+      "difficulty": 2,
+      "id": 3034
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What fictional boy wizard, famous for his lightning-bolt scar, attended a school with four houses: Gryffindor, Slytherin, Hufflepuff, and Ravenclaw?",
+      "answer": "Harry Potter",
+      "hint": "His school is called Hogwarts.",
+      "difficulty": 2,
+      "id": 3035
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What 2023 film directed by Greta Gerwig became a cultural phenomenon and one of the highest-grossing films of that year, based on a famous plastic doll?",
+      "answer": "Barbie",
+      "hint": "Its male counterpart is played by Ryan Gosling.",
+      "difficulty": 2,
+      "id": 3036
+    },
+    {
+      "category": "TV & Movies",
+      "question": "In the TV series 'The Office' (US version), what is the name of the paper company where the characters work?",
+      "answer": "Dunder Mifflin",
+      "hint": "Its regional manager famously declares it 'the greatest paper company in the world.'",
+      "difficulty": 2,
+      "id": 3037
+    },
+    {
+      "category": "Sports",
+      "question": "What NFL quarterback set a then-record 5,476 passing yards in a single season in 2011 with the New Orleans Saints, breaking Dan Marino's long-standing mark?",
+      "answer": "Drew Brees",
+      "hint": "He won Super Bowl XLIV and was named its MVP.",
+      "difficulty": 3,
+      "id": 3038
+    },
+    {
+      "category": "Sports",
+      "question": "In baseball, what is it called when a batter reaches base because the pitcher threw four balls?",
+      "answer": "Walk",
+      "hint": "Its official statistical name is 'base on balls.'",
+      "difficulty": 2,
+      "id": 3039
+    },
+    {
+      "category": "Sports",
+      "question": "What team won Super Bowl LVIII in February 2024, defeating the San Francisco 49ers in overtime?",
+      "answer": "Kansas City Chiefs",
+      "hint": "Their quarterback has won multiple Super Bowls in recent years.",
+      "difficulty": 2,
+      "id": 3040
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with R, what six-letter word means to come back to life or consciousness after appearing to be dead or dormant?",
+      "answer": "Revive",
+      "hint": "A paramedic might do this; so might a dying campfire.",
+      "difficulty": 2,
+      "id": 3044
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with K, what word means to tie a rope or thread into a fastening that holds two ends together?",
+      "answer": "Knot",
+      "hint": "Sailors and climbers rely on these — there are hundreds of varieties.",
+      "difficulty": 2,
+      "id": 3045
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "What is the name of the large muscle that sits beneath the lungs and contracts downward to allow breathing?",
+      "answer": "Diaphragm",
+      "hint": "When it spasms involuntarily, you get hiccups.",
+      "difficulty": 2,
+      "id": 3046
+    },
+    {
+      "category": "Science",
+      "question": "What scale, developed in 1935, measures the magnitude of earthquakes based on ground motion recorded by seismographs?",
+      "answer": "Richter scale",
+      "hint": "Each whole number increase represents roughly 10 times the ground motion of the previous level.",
+      "difficulty": 2,
+      "id": 3047
+    },
+    {
+      "question": "Finish these lyrics: \"I let my tape rock till my tape...\"",
+      "answer": "popped",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "The Notorious B.I.G. — Juicy",
+      "id": 3053
+    },
+    {
+      "question": "Finish these lyrics: \"Mama tried to raise me better but her pleading...\"",
+      "answer": "I denied",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Merle Haggard — Mama Tried",
+      "id": 3054
     }
   ],
-  "updated": "2026-11-14T12:41:06Z"
+  "updated": "2026-11-15T13:07:18Z"
 }
