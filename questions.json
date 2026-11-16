@@ -13983,7 +13983,160 @@
       "category": "Music",
       "hint": "Merle Haggard — Mama Tried",
       "id": 3054
+    },
+    {
+      "category": "Science",
+      "question": "What type of radiation has a longer wavelength than visible light but shorter than radio waves — it's what your TV remote uses?",
+      "answer": "Infrared",
+      "hint": "You feel it as heat. It sits just beyond the red end of the visible spectrum.",
+      "difficulty": 2,
+      "id": 3055
+    },
+    {
+      "category": "History & Geography",
+      "question": "What conflict, fought between Britain and Argentina in 1982, lasted 74 days and was triggered by the invasion of a small archipelago?",
+      "answer": "Falklands War",
+      "hint": "The islands are located in the South Atlantic, east of Patagonia.",
+      "difficulty": 2,
+      "id": 3056
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What internet slang term, originally from anime culture, describes a fictional female character someone is devoted to as if she were their real wife?",
+      "answer": "Waifu",
+      "hint": "It's a Japanese pronunciation of an English word for a spouse.",
+      "difficulty": 2,
+      "id": 3057
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What viral 2012 video by South Korean artist Psy became the first YouTube video to reach one billion views?",
+      "answer": "Gangnam Style",
+      "hint": "The title references an upscale district in Seoul. The dance move became iconic.",
+      "difficulty": 2,
+      "id": 3058
+    },
+    {
+      "category": "Math",
+      "question": "A snail travels at 0.03 miles per hour. How many hours would it take to travel one mile? Round to the nearest whole number.",
+      "answer": "33",
+      "hint": "Divide the distance by the speed — think about how many times 0.03 fits into 1.",
+      "difficulty": 2,
+      "numeric_type": "exact",
+      "id": 3059
+    },
+    {
+      "category": "Word Play",
+      "question": "What root vegetable's name sounds like a phrase meaning to increase the volume?",
+      "answer": "Turnip",
+      "hint": "It grows underground and is often white and purple.",
+      "difficulty": 2,
+      "id": 3062
+    },
+    {
+      "category": "Word Play",
+      "question": "Finish the phrase: 'A leopard can't change its...'",
+      "answer": "Spots",
+      "hint": "It's a proverb about the impossibility of changing one's true nature.",
+      "difficulty": 2,
+      "id": 3063
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with F, what word means to move your fingers lightly and quickly across a surface, as if brushing something away?",
+      "answer": "Flick",
+      "hint": "You might do it to a light switch, a crumb on a table, or a page in a book.",
+      "difficulty": 2,
+      "id": 3064
+    },
+    {
+      "category": "Brands & Business",
+      "question": "In the Starbucks Rewards loyalty program, what are the points you earn on purchases called?",
+      "answer": "Stars",
+      "hint": "They share their name with things that twinkle in the night sky.",
+      "difficulty": 2,
+      "id": 3066
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "What is the name of the bone that sits at the front of the knee, acting as a shield for the joint?",
+      "answer": "Patella",
+      "hint": "It's also commonly called the kneecap.",
+      "difficulty": 2,
+      "id": 3067
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What literary term describes a secondary storyline that runs alongside the main story of a novel or play?",
+      "answer": "Subplot",
+      "hint": "Its prefix means 'under' or 'secondary'.",
+      "difficulty": 2,
+      "id": 3068
+    },
+    {
+      "category": "History & Geography",
+      "question": "What empire, at its peak in the late 1600s, controlled territory stretching from Hungary to Yemen and from Algeria to the Persian Gulf?",
+      "answer": "Ottoman Empire",
+      "hint": "It was centered in modern-day Turkey and lasted over 600 years before dissolving after World War I.",
+      "difficulty": 2,
+      "id": 3069
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What actress played the role of Cersei Lannister throughout the entire run of 'Game of Thrones'?",
+      "answer": "Lena Headey",
+      "hint": "Her character was the queen of the Seven Kingdoms and the mother of Joffrey.",
+      "difficulty": 2,
+      "id": 3070
+    },
+    {
+      "category": "Sports",
+      "question": "In baseball, what is it called when the defense deliberately sends a batter to first base without letting him hit, traditionally by throwing four pitches far outside?",
+      "answer": "Intentional walk (intentional base on balls)",
+      "hint": "Since 2017 in MLB, teams don't even have to throw the pitches — the manager just signals it.",
+      "difficulty": 2,
+      "id": 3071
+    },
+    {
+      "category": "Brands & Business",
+      "question": "What sportswear brand uses the slogan 'Impossible is Nothing' and has a three-stripe logo?",
+      "answer": "Adidas",
+      "hint": "It's a German company and a longtime rival of another major athletic brand.",
+      "difficulty": 2,
+      "id": 3073
+    },
+    {
+      "question": "Finish these lyrics: \"Don't be a hard rock when you're really a...\"",
+      "answer": "gem",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Lauryn Hill — Doo Wop That Thing",
+      "id": 3081
+    },
+    {
+      "question": "Finish these lyrics: \"Emancipate yourself from mental...\"",
+      "answer": "slavery",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Bob Marley — Redemption Song",
+      "id": 3083
+    },
+    {
+      "category": "Music",
+      "question": "Who originally performed 'Got to Give It Up', the song that Robin Thicke's 2013 hit 'Blurred Lines' was found in court to have copied?",
+      "answer": "Marvin Gaye",
+      "hint": "This Motown legend also sang 'What's Going On' and 'Sexual Healing'.",
+      "difficulty": 2,
+      "id": 3085
+    },
+    {
+      "category": "Music",
+      "question": "Who performed 'Kiss from a Rose,' a 1994 ballad that became a massive hit after appearing in a Batman film?",
+      "answer": "Seal",
+      "hint": "This British singer goes by a single name and was once married to Heidi Klum.",
+      "difficulty": 2,
+      "id": 3086
     }
   ],
-  "updated": "2026-11-15T13:07:18Z"
+  "updated": "2026-11-16T14:12:06Z"
 }
