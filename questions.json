@@ -14136,7 +14136,103 @@
       "hint": "This British singer goes by a single name and was once married to Heidi Klum.",
       "difficulty": 2,
       "id": 3086
+    },
+    {
+      "category": "History & Geography",
+      "question": "What 1896 battle is celebrated as the first decisive defeat of a European colonial power by an African nation?",
+      "answer": "Battle of Adwa (Adowa)",
+      "hint": "Ethiopia's Emperor Menelik II led the victorious force against the Italians.",
+      "difficulty": 3,
+      "id": 3087
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What nickname was given to the summer 2023 cultural moment when a doll movie and a biopic about an atomic physicist dominated cinemas at the same time?",
+      "answer": "Barbenheimer",
+      "hint": "It was a portmanteau of two film titles that opened on the same weekend.",
+      "difficulty": 2,
+      "id": 3090
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What actress played the White Witch in the 'Chronicles of Narnia' films?",
+      "answer": "Tilda Swinton",
+      "hint": "She won an Oscar for 'Michael Clayton'.",
+      "difficulty": 3,
+      "id": 3092
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What reality competition series, launched in 2009, tells eliminated contestants to 'sashay away'?",
+      "answer": "RuPaul's Drag Race",
+      "hint": "Its host is the world's most famous drag queen, who has also had a hit with 'Supermodel (You Better Work)'.",
+      "difficulty": 2,
+      "id": 3094
+    },
+    {
+      "category": "Sports",
+      "question": "Which city's NFL team is called the Ravens and baseball team is called the Orioles, both sharing a stadium district in the same city?",
+      "answer": "Baltimore",
+      "hint": "Both teams share a color scheme of black and purple / black and orange respectively, in a mid-Atlantic city.",
+      "difficulty": 2,
+      "id": 3096
+    },
+    {
+      "category": "Word Play",
+      "question": "What word names the rear part of the human body, the side of a check you sign to endorse it, and the direction opposite to forward?",
+      "answer": "Back",
+      "hint": "It rhymes with 'sack'.",
+      "difficulty": 2,
+      "id": 3097
+    },
+    {
+      "category": "Word Play",
+      "question": "What word names both a piece of fabric sewn over a hole and a software update that fixes vulnerabilities?",
+      "answer": "Patch",
+      "hint": "One is sewn onto fabric; the other is downloaded overnight.",
+      "difficulty": 2,
+      "id": 3098
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "What does the 'P' in the medical acronym CPR stand for?",
+      "answer": "Pulmonary",
+      "hint": "Cardio-___ Resuscitation — it relates to the lungs.",
+      "difficulty": 2,
+      "id": 3101
+    },
+    {
+      "category": "Arts & Style",
+      "question": "Starting with I, what word describes a printed or drawn picture that accompanies and explains text in a book or article?",
+      "answer": "Illustration",
+      "hint": "A children's book without one would feel strangely bare — the word also means a clarifying example in a speech.",
+      "difficulty": 2,
+      "id": 3102
+    },
+    {
+      "question": "Finish these lyrics: \"But when the tax man comes to the door, the house looks like a...\"",
+      "answer": "rummage sale",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Creedence Clearwater Revival — Fortunate Son",
+      "id": 3108
+    },
+    {
+      "category": "Music",
+      "question": "Who originally performed 'Superstar' before the Carpenters made it a hit in 1971?",
+      "answer": "Delaney & Bonnie (and Friends)",
+      "hint": "The song was co-written by Leon Russell and Bonnie Bramlett and first released in 1969 as 'Groupie (Superstar)'.",
+      "difficulty": 3,
+      "id": 3113
+    },
+    {
+      "category": "Music",
+      "question": "What band featured members David Yow and David Wm. Sims, a Chicago noise rock act known for confrontational live shows in the late 1980s and 1990s?",
+      "answer": "The Jesus Lizard",
+      "hint": "They frequently worked with Steve Albini and released the acclaimed album 'Goat' in 1991.",
+      "difficulty": 3,
+      "id": 3114
     }
   ],
-  "updated": "2026-11-16T14:12:06Z"
+  "updated": "2026-11-17T15:05:51Z"
 }

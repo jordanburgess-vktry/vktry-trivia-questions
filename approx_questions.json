@@ -1398,5 +1398,35 @@
     "question": "How many total episodes of 'NCIS' aired through its first 20 seasons?",
     "answer": "458",
     "hint": "It's one of the longest-running primetime dramas in US television history, with roughly 22 to 24 episodes per season."
+  },
+  {
+    "question": "How many feet tall is the tallest wave ever surfed, as recorded by Guinness World Records?",
+    "answer": "86",
+    "hint": "It was surfed off the coast of Nazaré, Portugal — taller than a seven-story building."
+  },
+  {
+    "question": "How many years did it take to build the Cathedral of Notre-Dame de Paris from the start of construction to its basic completion?",
+    "answer": "182",
+    "hint": "Construction began in the 12th century and wasn't substantially finished until the 14th century."
+  },
+  {
+    "question": "About how many miles long is the Pacific Crest Trail from the US-Mexico border to the US-Canada border?",
+    "answer": "2,650",
+    "hint": "It's several hundred miles longer than the Appalachian Trail and runs through California, Oregon, and Washington."
+  },
+  {
+    "question": "How many official goals did Pelé score for Santos FC, a Guinness record for goals scored for a single club?",
+    "answer": "643",
+    "hint": "He spent nearly two decades at the Brazilian club and is considered one of the greatest scorers ever."
+  },
+  {
+    "question": "What year did the Voyager 1 spacecraft launch?",
+    "answer": "1977",
+    "hint": "It launched the same year as the original Star Wars film and has since left our solar system."
+  },
+  {
+    "question": "How much did the movie 'Avatar: The Way of Water' (2022) gross worldwide at the box office in dollars?",
+    "answer": "2,320,250,281",
+    "hint": "It was one of the highest-grossing films ever, though it fell short of the original Avatar's record."
   }
 ]
