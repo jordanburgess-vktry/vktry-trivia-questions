@@ -14232,7 +14232,144 @@
       "hint": "They frequently worked with Steve Albini and released the acclaimed album 'Goat' in 1991.",
       "difficulty": 3,
       "id": 3114
+    },
+    {
+      "category": "Science",
+      "question": "What is the name of the boundary layer between the Earth's crust and the mantle, named after the Croatian scientist who discovered it in 1909?",
+      "answer": "Mohorovičić discontinuity",
+      "hint": "Geologists usually just call it the 'Moho' for short.",
+      "difficulty": 3,
+      "id": 3116
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What 2000 Christopher Nolan film, told largely in reverse chronological order, follows a former insurance investigator who can't form new memories and uses tattoos and Polaroids to navigate his life?",
+      "answer": "Memento",
+      "hint": "It was Nolan's breakthrough film before his Batman trilogy.",
+      "difficulty": 2,
+      "id": 3120
+    },
+    {
+      "category": "Sports",
+      "question": "Which city's name is carried by the NFL's Giants and Jets, even though both teams play their home games in New Jersey?",
+      "answer": "New York",
+      "hint": "Both teams share MetLife Stadium in East Rutherford.",
+      "difficulty": 2,
+      "id": 3121
+    },
+    {
+      "category": "Sports",
+      "question": "In baseball, how many pitches does a pitcher throw in an 'immaculate inning', striking out all three batters on the fewest pitches possible?",
+      "answer": "9",
+      "hint": "Three strikeouts, three strikes each.",
+      "difficulty": 2,
+      "numeric_type": "exact",
+      "id": 3122
+    },
+    {
+      "category": "Word Play",
+      "question": "What word means both the back of a ship and strict or severe in manner?",
+      "answer": "Stern",
+      "hint": "One is a nautical term; the other might describe a headteacher's look.",
+      "difficulty": 2,
+      "id": 3123
+    },
+    {
+      "category": "Word Play",
+      "question": "What word connects how high or low a musical note is, a football (soccer) field, and a black tar-like substance?",
+      "answer": "Pitch",
+      "hint": "Singers try to stay on it, players run on it, and it was once used to waterproof ships.",
+      "difficulty": 2,
+      "id": 3125
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with T, what word means to exchange one item for another without using money?",
+      "answer": "Trade",
+      "hint": "You might do this with a friend who has a duplicate sticker in a collection.",
+      "difficulty": 2,
+      "id": 3126
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with R, what word means to practise a play, piece of music or other performance before giving it in public?",
+      "answer": "Rehearse",
+      "hint": "Actors and musicians do this extensively before an opening night.",
+      "difficulty": 2,
+      "id": 3127
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with L, what word means to appear as a large, shadowy or threatening shape?",
+      "answer": "Loom",
+      "hint": "A storm on the horizon or a large figure in the dark might be described this way.",
+      "difficulty": 2,
+      "id": 3128
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with W, what word means a sudden twisting or pulling injury to the ligaments around a joint?",
+      "answer": "Wrench",
+      "hint": "You might do this to your ankle stepping off a curb awkwardly — though another word for the same injury also starts with S.",
+      "difficulty": 3,
+      "id": 3129
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "What star-shaped glial cells in the brain provide structural support and nutrients to neurons?",
+      "answer": "Astrocytes",
+      "hint": "Their name comes from the Greek word for star.",
+      "difficulty": 3,
+      "id": 3130
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "What are the specialised pigment-containing cells that let octopuses, chameleons and cuttlefish change their skin colour?",
+      "answer": "Chromatophores",
+      "hint": "Their name comes from Greek words meaning 'colour bearer'.",
+      "difficulty": 3,
+      "id": 3131
+    },
+    {
+      "category": "Arts & Style",
+      "question": "In music notation, what term describes a curved line connecting two notes of the same pitch, instructing the player to hold the note through without re-striking it?",
+      "answer": "Tie",
+      "hint": "It looks similar to a slur but only ever connects two notes of identical pitch.",
+      "difficulty": 2,
+      "id": 3132
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What literary technique involves beginning multiple consecutive clauses or lines with the same word or phrase, as famously used by Winston Churchill and Martin Luther King Jr.?",
+      "answer": "Anaphora",
+      "hint": "King's repeated phrase 'I have a dream' is probably the most quoted example in modern rhetoric.",
+      "difficulty": 3,
+      "id": 3133
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What Spanish heist series, made a worldwide hit by Netflix, features a gang of thieves in distinctive red jumpsuits and Dalí masks?",
+      "answer": "Money Heist",
+      "hint": "Its Spanish title is 'La Casa de Papel', meaning 'The House of Paper'.",
+      "difficulty": 2,
+      "id": 3135
+    },
+    {
+      "question": "Finish these lyrics: \"How many years can some people exist before they're allowed to be...\"",
+      "answer": "free",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Bob Dylan — Blowin in the Wind",
+      "id": 3145
+    },
+    {
+      "category": "Music",
+      "question": "Who wrote 'Nothing Compares 2 U', which Sinéad O'Connor made a worldwide hit in 1990?",
+      "answer": "Prince",
+      "hint": "He gave it to a side project called The Family, who released it in 1985.",
+      "difficulty": 2,
+      "id": 3147
     }
   ],
-  "updated": "2026-11-17T15:05:51Z"
+  "updated": "2026-11-18T14:46:03Z"
 }

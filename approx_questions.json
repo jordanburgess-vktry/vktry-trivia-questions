@@ -1428,5 +1428,40 @@
     "question": "How much did the movie 'Avatar: The Way of Water' (2022) gross worldwide at the box office in dollars?",
     "answer": "2,320,250,281",
     "hint": "It was one of the highest-grossing films ever, though it fell short of the original Avatar's record."
+  },
+  {
+    "question": "How many career regular-season goals did Alex Ovechkin score in the NHL through the end of the 2023-24 season?",
+    "answer": "853",
+    "hint": "He had passed Gordie Howe's 801 and was closing in on Gretzky's 894, a record he finally broke in 2025."
+  },
+  {
+    "question": "How many worldwide box office dollars did The Batman (2022) gross in its theatrical release?",
+    "answer": "770,000,000",
+    "hint": "It was a critically acclaimed reboot starring Robert Pattinson — a solid but not record-breaking hit."
+  },
+  {
+    "question": "How many career strikeouts did Bob Gibson accumulate in his MLB pitching career?",
+    "answer": "3,117",
+    "hint": "He was one of the most dominant pitchers of the 1960s and posted a modern-record 1.12 ERA during the 1968 regular season."
+  },
+  {
+    "question": "How many total episodes of 'Lost' aired across all six seasons?",
+    "answer": "121",
+    "hint": "The show ran from 2004 to 2010 — think somewhere between 100 and 150 episodes total."
+  },
+  {
+    "question": "How many feet tall is the Empire State Building including its antenna?",
+    "answer": "1,454",
+    "hint": "The roof alone is 1,250 feet — the antenna adds a couple hundred more feet on top."
+  },
+  {
+    "question": "How many career touchdown receptions did Randy Moss catch in his NFL career, the second-most in league history?",
+    "answer": "156",
+    "hint": "He was one of the most explosive wide receivers in NFL history, famous for his time with the Vikings and Patriots."
+  },
+  {
+    "question": "How many worldwide box office dollars did Spider-Man: No Way Home (2021) gross in its theatrical release?",
+    "answer": "1,920,000,000",
+    "hint": "It featured three generations of Spider-Man actors and was one of the highest-grossing films of the pandemic recovery era."
   }
 ]
