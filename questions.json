@@ -14369,7 +14369,160 @@
       "hint": "He gave it to a side project called The Family, who released it in 1985.",
       "difficulty": 2,
       "id": 3147
+    },
+    {
+      "category": "Science",
+      "question": "If you dropped a feather and a bowling ball from the same height in a perfect vacuum, which would hit the ground first?",
+      "answer": "Neither — they hit simultaneously",
+      "hint": "Without air resistance, all objects fall under the same acceleration regardless of mass.",
+      "difficulty": 2,
+      "id": 3148
+    },
+    {
+      "category": "History & Geography",
+      "question": "Which U.S. state has a panhandle, borders both the Atlantic Ocean and the Gulf of Mexico, and contains no point higher than 345 feet above sea level?",
+      "answer": "Florida",
+      "hint": "It's the flattest state in the country and also the most hurricane-prone.",
+      "difficulty": 2,
+      "id": 3150
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What fictional school of witchcraft and wizardry was originally accessible via a hidden platform at King's Cross Station?",
+      "answer": "Hogwarts",
+      "hint": "The platform number is nine and three-quarters.",
+      "difficulty": 2,
+      "id": 3151
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What reality TV competition franchise, originating in Sweden in 1997, strands a group of strangers in a remote location and votes them off one by one?",
+      "answer": "Survivor",
+      "hint": "The American version has been hosted by Jeff Probst since its debut.",
+      "difficulty": 2,
+      "id": 3152
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What character in Breaking Bad is Walter White's DEA agent brother-in-law who slowly closes in on him without initially realizing Walt is Heisenberg?",
+      "answer": "Hank Schrader",
+      "hint": "He's played by Dean Norris and is married to Skyler's sister Marie.",
+      "difficulty": 2,
+      "id": 3153
+    },
+    {
+      "category": "Math",
+      "question": "If a pizza is cut into 8 equal slices and you eat 3 of them, what percentage of the pizza have you eaten?",
+      "answer": "37.5",
+      "hint": "It's not a round number — think about what 3 out of 8 equals as a decimal first.",
+      "difficulty": 2,
+      "numeric_type": "exact",
+      "id": 3155
+    },
+    {
+      "category": "Sports",
+      "question": "What NFL team plays its home games at Acrisure Stadium, formerly known as Heinz Field?",
+      "answer": "Pittsburgh Steelers",
+      "hint": "This AFC North franchise has won six Super Bowls, tied for the most in NFL history.",
+      "difficulty": 2,
+      "id": 3156
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "What does the 'R' in the medical acronym RICE, used to treat sprains and strains, stand for?",
+      "answer": "Rest",
+      "hint": "___, Ice, Compression, Elevation — the four steps you take right after an injury.",
+      "difficulty": 2,
+      "id": 3158
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with T, what word means to twist or pull something sharply, especially a part of the body?",
+      "answer": "Tweak",
+      "hint": "A physio might say you did this to your hamstring if the injury is minor but nagging.",
+      "difficulty": 2,
+      "id": 3159
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "What is the name for the bony structure that protects the brain and forms the face, made up of 22 separate bones in adults?",
+      "answer": "Skull",
+      "hint": "Only eight of its bones actually encase the brain — the other fourteen make up the face.",
+      "difficulty": 2,
+      "id": 3160
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What Dutch Golden Age painter, famous for using dramatic light and shadow, created 'The Night Watch' and 'The Anatomy Lesson of Dr. Nicolaes Tulp'?",
+      "answer": "Rembrandt",
+      "hint": "He's so famous that art historians refer to him by his first name alone.",
+      "difficulty": 2,
+      "id": 3161
+    },
+    {
+      "category": "Arts & Style",
+      "question": "Starting with U, what word describes a design style that prioritizes function and ease of use over decoration or complexity?",
+      "answer": "Utilitarian",
+      "hint": "A plain wooden chair with no carvings — made purely to be sat on — would be described this way.",
+      "difficulty": 3,
+      "id": 3162
+    },
+    {
+      "category": "Science",
+      "question": "What is the name of the scale used to measure the acidity or alkalinity of a substance, running from 0 to 14?",
+      "answer": "pH scale",
+      "hint": "Pure water sits exactly in the middle of this scale at 7.",
+      "difficulty": 2,
+      "id": 3163
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What 1970s political scandal, which began with a 1972 break-in at a Washington D.C. office complex, gave its name to the '-gate' suffix used for later scandals?",
+      "answer": "Watergate",
+      "hint": "It led to the resignation of President Richard Nixon.",
+      "difficulty": 2,
+      "id": 3164
+    },
+    {
+      "category": "Sports",
+      "question": "What golfer, nicknamed 'The Big Easy,' won the U.S. Open twice and is known for one of the smoothest and most effortless-looking swings in the history of the sport?",
+      "answer": "Ernie Els",
+      "hint": "He's South African and won his U.S. Open titles in 1994 and 1997.",
+      "difficulty": 3,
+      "id": 3165
+    },
+    {
+      "question": "Finish these lyrics: \"Just yesterday mornin' they let me know...\"",
+      "answer": "you were gone",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "James Taylor — Fire and Rain",
+      "id": 3172
+    },
+    {
+      "category": "Music",
+      "question": "Who performed 'Rocks,' a swaggering 1994 rock single that reached the UK top 10?",
+      "answer": "Primal Scream",
+      "hint": "The band fronted by Bobby Gillespie also released the influential album 'Screamadelica.'",
+      "difficulty": 2,
+      "id": 3176
+    },
+    {
+      "category": "Music",
+      "question": "What band released the album 'Ladies and Gentlemen We Are Floating in Space' in 1997, a hazy, orchestral-soul record often cited as a landmark of the late 90s UK scene?",
+      "answer": "Spiritualized",
+      "hint": "The band was led by Jason Pierce, who had previously fronted Spacemen 3.",
+      "difficulty": 3,
+      "id": 3177
+    },
+    {
+      "category": "Music",
+      "question": "What is the stage name of singer-songwriter Chan Marshall, known for deeply intimate and sparse lo-fi recordings?",
+      "answer": "Cat Power",
+      "hint": "The project released the acclaimed album 'Moon Pix' in 1998.",
+      "difficulty": 2,
+      "id": 3178
     }
   ],
-  "updated": "2026-11-18T14:46:03Z"
+  "updated": "2026-11-19T14:52:42Z"
 }
