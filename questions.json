@@ -14522,7 +14522,79 @@
       "hint": "The project released the acclaimed album 'Moon Pix' in 1998.",
       "difficulty": 2,
       "id": 3178
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What internet meme format features a Canadian rapper turning away from one option and nodding approvingly at another?",
+      "answer": "Drake Hotline Bling meme (Drakeposting)",
+      "hint": "It originated from a 2015 music video and is used to show preferences between two things.",
+      "difficulty": 2,
+      "id": 3179
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with K, what word means a small round hill or mound rising gently from otherwise flat land?",
+      "answer": "Knoll",
+      "hint": "It became widely known due to its use in describing the location of a famous 1963 event.",
+      "difficulty": 3,
+      "id": 3183
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "Starting with J, what do you call the hinged bone that forms the lower part of the mouth in vertebrates?",
+      "answer": "Jaw",
+      "hint": "It holds your lower teeth and moves when you chew or speak.",
+      "difficulty": 2,
+      "id": 3184
+    },
+    {
+      "category": "Arts & Style",
+      "question": "Starting with L, what term describes a page or screen orientation that is wider than it is tall?",
+      "answer": "Landscape",
+      "hint": "When you rotate your phone sideways to watch a video, you're switching to this orientation.",
+      "difficulty": 2,
+      "id": 3185
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What is the name for Japanese comic books, traditionally read from right to left?",
+      "answer": "Manga",
+      "hint": "Its animated counterpart is called anime, and both have inspired a massive global fanbase.",
+      "difficulty": 2,
+      "id": 3186
+    },
+    {
+      "question": "Finish these lyrics: \"I kissed her face and kissed her head and dreamed of all the different ways I had to make her...\"",
+      "answer": "glow",
+      "difficulty": 3,
+      "category": "Music",
+      "hint": "The Cure — Just Like Heaven",
+      "id": 3187
+    },
+    {
+      "question": "Finish these lyrics: \"People talking without speaking, people hearing without...\"",
+      "answer": "listening",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Simon and Garfunkel — The Sound of Silence",
+      "id": 3190
+    },
+    {
+      "question": "Finish these lyrics: \"Late last night I heard the screen door slam and a big yellow taxi took away...\"",
+      "answer": "my old man",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Joni Mitchell — Big Yellow Taxi",
+      "id": 3196
+    },
+    {
+      "category": "Music",
+      "question": "What band released the album 'Mirror Traffic' in 2011, a loose, country-tinged indie rock record produced by Beck?",
+      "answer": "Stephen Malkmus and the Jicks",
+      "hint": "The band is led by the former frontman of 1990s indie rock group Pavement.",
+      "difficulty": 3,
+      "id": 3197
     }
   ],
-  "updated": "2026-11-19T14:52:42Z"
+  "updated": "2026-11-20T14:33:10Z"
 }
