@@ -14594,7 +14594,80 @@
       "hint": "The band is led by the former frontman of 1990s indie rock group Pavement.",
       "difficulty": 3,
       "id": 3197
+    },
+    {
+      "category": "Math",
+      "question": "How many seconds are in exactly one week?",
+      "answer": "604800",
+      "hint": "Multiply seconds in a minute by minutes in an hour, then hours in a day, then 7",
+      "difficulty": 2,
+      "numeric_type": "exact",
+      "id": 3198
+    },
+    {
+      "category": "Sports",
+      "question": "What NFL wide receiver set the all-time single-season receiving yards record in 2012 with 1,964 yards?",
+      "answer": "Calvin Johnson",
+      "hint": "His nickname was the name of a Transformers villain",
+      "difficulty": 3,
+      "id": 3199
+    },
+    {
+      "category": "Sports",
+      "question": "Which two jersey numbers did the Lakers retire for Kobe Bryant, making him the only player they honored with two retired numbers?",
+      "answer": "8 and 24",
+      "hint": "He wore one number for his first decade and switched to the other for his second decade",
+      "difficulty": 2,
+      "id": 3200
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "What does the 'N' in the wireless standard NFC stand for?",
+      "answer": "Near",
+      "hint": "___ Field Communication — it's what lets you tap your phone to pay",
+      "difficulty": 2,
+      "id": 3204
+    },
+    {
+      "category": "Food & Drink",
+      "question": "What Japanese alcoholic drink is made by fermenting rice and is sometimes called 'rice wine', though its production is more similar to beer brewing?",
+      "answer": "Sake",
+      "hint": "It is traditionally served warm in small ceramic cups",
+      "difficulty": 2,
+      "id": 3206
+    },
+    {
+      "category": "Food & Drink",
+      "question": "What classic New Orleans cocktail is made with rye whiskey, sugar, Peychaud's bitters, and a rinse of absinthe?",
+      "answer": "Sazerac",
+      "hint": "It is often cited as one of the oldest known American cocktails",
+      "difficulty": 3,
+      "id": 3207
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "Starting with U, what word describes the long bone of the forearm that runs on the opposite side from the thumb?",
+      "answer": "Ulna",
+      "hint": "It forms the bony point of your elbow",
+      "difficulty": 2,
+      "id": 3208
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What American author wrote 'The Old Man and the Sea', published in 1952 and cited by the Nobel Committee when awarding him the prize in 1954?",
+      "answer": "Ernest Hemingway",
+      "hint": "He was known for his sparse, minimalist prose style and lived in Cuba for many years",
+      "difficulty": 2,
+      "id": 3209
+    },
+    {
+      "question": "Finish these lyrics: \"There are many here among us who feel that life is...\"",
+      "answer": "but a joke",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Jimi Hendrix — All Along the Watchtower",
+      "id": 3215
     }
   ],
-  "updated": "2026-11-20T14:33:10Z"
+  "updated": "2026-11-21T13:53:06Z"
 }

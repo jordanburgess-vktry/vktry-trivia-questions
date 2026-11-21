@@ -1493,5 +1493,40 @@
     "question": "About how many feet above the ground is the sky bridge connecting the Petronas Twin Towers?",
     "answer": "558",
     "hint": "The sky bridge is roughly at the mid-point of the towers, which are about 1,483 feet tall."
+  },
+  {
+    "question": "How many miles wide is the International Space Station from end to end?",
+    "answer": "0.07",
+    "hint": "It's roughly the size of an American football field including end zones."
+  },
+  {
+    "question": "How many career strikeouts did Walter Johnson accumulate in his MLB pitching career?",
+    "answer": "3,509",
+    "hint": "He was one of the greatest pitchers of the Dead Ball Era and played his entire career for the Washington Senators."
+  },
+  {
+    "question": "What year was the Sistine Chapel ceiling painted by Michelangelo completed?",
+    "answer": "1512",
+    "hint": "It was completed in the early 16th century after about four years of work, commissioned by Pope Julius II."
+  },
+  {
+    "question": "How many feet long is the main span of the Golden Gate Bridge between its two towers?",
+    "answer": "4,200",
+    "hint": "When it opened in 1937, it was the longest suspension bridge span in the world."
+  },
+  {
+    "question": "How many career NBA playoff points had LeBron James, the all-time leader, scored through the end of the 2023-24 season?",
+    "answer": "8,162",
+    "hint": "He has appeared in more NBA Finals than almost any player in history, accumulating points across dozens of playoff runs."
+  },
+  {
+    "question": "How many total episodes of 'Frasier' aired across all eleven seasons?",
+    "answer": "264",
+    "hint": "It ran from 1993 to 2004 and was a spin-off of Cheers, following the psychiatrist who moved to Seattle."
+  },
+  {
+    "question": "How many miles long is the Volga River, the longest river in Europe?",
+    "answer": "2,193",
+    "hint": "It flows entirely within Russia and empties into the Caspian Sea."
   }
 ]
