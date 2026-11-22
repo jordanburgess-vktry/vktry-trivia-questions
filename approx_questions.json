@@ -1528,5 +1528,35 @@
     "question": "How many miles long is the Volga River, the longest river in Europe?",
     "answer": "2,193",
     "hint": "It flows entirely within Russia and empties into the Caspian Sea."
+  },
+  {
+    "question": "How many miles long is the main span of the Brooklyn Bridge in New York City?",
+    "answer": "0.3",
+    "hint": "The bridge opened in 1883 and the central suspended section is just a fraction of a mile long — think a few city blocks."
+  },
+  {
+    "question": "How many career regular-season goals did Mario Lemieux score in the NHL?",
+    "answer": "690",
+    "hint": "He played for the Pittsburgh Penguins, won multiple Stanley Cups, and is considered one of the greatest players ever despite injury-shortened seasons."
+  },
+  {
+    "question": "What year did the Hiroshima atomic bomb drop occur?",
+    "answer": "1945",
+    "hint": "It happened near the end of World War II, just days before Japan's surrender."
+  },
+  {
+    "question": "How many career grand slam singles titles did Serena Williams win in professional tennis?",
+    "answer": "23",
+    "hint": "She won titles at all four Grand Slam venues and holds the Open Era record for women's singles majors."
+  },
+  {
+    "question": "How many miles is it from Miami, Florida to Havana, Cuba?",
+    "answer": "228",
+    "hint": "Key West is only about 90 miles from Cuba, but Miami is a good deal farther up the Florida coast."
+  },
+  {
+    "question": "How many worldwide box office dollars did Shrek 2 (2004) gross in its theatrical release?",
+    "answer": "928,760,770",
+    "hint": "It was the highest-grossing animated film of its time when released and is one of DreamWorks Animation's biggest hits."
   }
 ]

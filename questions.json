@@ -14667,7 +14667,111 @@
       "category": "Music",
       "hint": "Jimi Hendrix — All Along the Watchtower",
       "id": 3215
+    },
+    {
+      "category": "Science",
+      "question": "Starting with B, what term describes the variety of life in a particular habitat or on Earth as a whole — from microbes to megafauna?",
+      "answer": "Biodiversity",
+      "hint": "Coral reefs and rainforests are celebrated for having extremely high levels of it.",
+      "difficulty": 2,
+      "id": 3216
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What internet meme shows a cartoon dog sitting calmly with a cup of coffee in a room that is on fire?",
+      "answer": "This Is Fine",
+      "hint": "It originated as a webcomic by KC Green and became shorthand for ignoring an obvious crisis.",
+      "difficulty": 2,
+      "id": 3218
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What actress played the calculating political operative Claire Underwood in the Netflix original series House of Cards?",
+      "answer": "Robin Wright",
+      "hint": "She also played Jenny in a beloved 1994 film set around a bench in Savannah.",
+      "difficulty": 2,
+      "id": 3220
+    },
+    {
+      "category": "TV & Movies",
+      "question": "In what fictional country does the story of Black Panther primarily take place?",
+      "answer": "Wakanda",
+      "hint": "It's a technologically advanced African nation whose power comes from a rare metal called vibranium.",
+      "difficulty": 2,
+      "id": 3221
+    },
+    {
+      "category": "Sports",
+      "question": "What New York Yankees pitcher won the 2023 AL Cy Young Award unanimously, posting a 15-4 record and a 2.63 ERA?",
+      "answer": "Gerrit Cole",
+      "hint": "He signed a record nine-year, $324 million contract with New York before the 2020 season.",
+      "difficulty": 3,
+      "id": 3222
+    },
+    {
+      "category": "Sports",
+      "question": "In tennis, what is the term for winning a game without conceding a single point to your opponent?",
+      "answer": "Love game",
+      "hint": "The scoring term for zero in tennis gives this its name.",
+      "difficulty": 2,
+      "id": 3223
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with G, what word means a small, often metal, loop or ring reinforcing a hole in fabric, leather, or a sail?",
+      "answer": "Grommet",
+      "hint": "You'll find these on tarps, shoes, and banners — they stop the hole from tearing.",
+      "difficulty": 3,
+      "id": 3227
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with R, what word means to arrange items in a line from largest to smallest, or to give something an official position on a scale?",
+      "answer": "Rank",
+      "hint": "Armies use it for hierarchy, and critics use it to order their favorites.",
+      "difficulty": 2,
+      "id": 3228
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with Y, what word means to pull or tug something suddenly and sharply?",
+      "answer": "Yank",
+      "hint": "It's what you do to a stubborn weed in the garden, or a stuck drawer that won't open.",
+      "difficulty": 2,
+      "id": 3229
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What American artist, famous for pop art, created large comic-book-style paintings using Ben-Day dots and bold black outlines?",
+      "answer": "Roy Lichtenstein",
+      "hint": "His works look like blown-up panels from a romance or action comic — think 'Whaam!' and 'Drowning Girl'.",
+      "difficulty": 2,
+      "id": 3231
+    },
+    {
+      "question": "Finish these lyrics: \"Gloria sent me pictures of...\"",
+      "answer": "my boy",
+      "difficulty": 3,
+      "category": "Music",
+      "hint": "Alice in Chains — Rooster",
+      "id": 3240
+    },
+    {
+      "category": "Music",
+      "question": "What band released the album 'Character' in 2005, a melodic death metal record from a Swedish group known for technically intricate guitar work?",
+      "answer": "Dark Tranquillity",
+      "hint": "This Gothenburg band is one of the originators of the melodic death metal sound alongside In Flames and At the Gates.",
+      "difficulty": 3,
+      "id": 3242
+    },
+    {
+      "category": "Music",
+      "question": "Who performed 'Two Months Off,' a 2002 electronic single from the album 'A Hundred Days Off'?",
+      "answer": "Underworld",
+      "hint": "This British act also created the iconic track 'Born Slippy .NUXX' featured in the film Trainspotting.",
+      "difficulty": 3,
+      "id": 3243
     }
   ],
-  "updated": "2026-11-21T13:53:06Z"
+  "updated": "2026-11-22T13:45:32Z"
 }
