@@ -1558,5 +1558,40 @@
     "question": "How many worldwide box office dollars did Shrek 2 (2004) gross in its theatrical release?",
     "answer": "928,760,770",
     "hint": "It was the highest-grossing animated film of its time when released and is one of DreamWorks Animation's biggest hits."
+  },
+  {
+    "question": "How many career regular-season goals did Bobby Orr score in the NHL?",
+    "answer": "270",
+    "hint": "He's widely considered the greatest defenseman of all time, known more for assists than goals."
+  },
+  {
+    "question": "How many feet long is the main span of the Brooklyn Bridge in New York City, from tower to tower?",
+    "answer": "1,595",
+    "hint": "When it opened in 1883, it was the longest suspension bridge in the world."
+  },
+  {
+    "question": "How many worldwide box office dollars has Finding Nemo (2003) grossed in total, including its 2012 3D re-release?",
+    "answer": "940,335,536",
+    "hint": "The Pixar film about a clownfish searching for his son was a massive blockbuster in the early 2000s."
+  },
+  {
+    "question": "How many career receiving yards did Randy Moss accumulate in the NFL?",
+    "answer": "15,292",
+    "hint": "He's considered one of the greatest wide receivers of all time and set the single-season touchdown record with 23."
+  },
+  {
+    "question": "How many total miles long is the Trans-Canada Highway from Victoria, British Columbia to St. John's, Newfoundland?",
+    "answer": "4,860",
+    "hint": "It's one of the longest national highways in the world, stretching across the entire country."
+  },
+  {
+    "question": "How many career grand slam singles titles did Roger Federer win in his professional tennis career?",
+    "answer": "20",
+    "hint": "He held the all-time record for years before Nadal and Djokovic eventually surpassed him."
+  },
+  {
+    "question": "How many career passing touchdowns did Drew Brees throw in his NFL career?",
+    "answer": "571",
+    "hint": "He spent most of his career with the New Orleans Saints and held the all-time passing yards record before Tom Brady."
   }
 ]

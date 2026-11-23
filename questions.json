@@ -14771,7 +14771,168 @@
       "hint": "This British act also created the iconic track 'Born Slippy .NUXX' featured in the film Trainspotting.",
       "difficulty": 3,
       "id": 3243
+    },
+    {
+      "category": "Science",
+      "question": "What is the name for the thin, rigid sections that make up Earth's outer shell and slowly move against each other?",
+      "answer": "Tectonic plates",
+      "hint": "Their movement is responsible for earthquakes and the formation of mountain ranges.",
+      "difficulty": 2,
+      "id": 3244
+    },
+    {
+      "category": "History & Geography",
+      "question": "What medieval battle of 1066 gave William the Conqueror control of England and permanently changed the English language?",
+      "answer": "Battle of Hastings",
+      "hint": "Despite its name, it was actually fought several miles from the town it's named after.",
+      "difficulty": 2,
+      "id": 3245
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What 2014 film stars Michael Keaton as a faded superhero actor trying to mount a Broadway comeback, with the camera appearing to follow him in one continuous shot?",
+      "answer": "Birdman",
+      "hint": "It won Best Picture at the Oscars and was directed by Alejandro González Iñárritu.",
+      "difficulty": 2,
+      "id": 3247
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What AMC drama series follows a high school chemistry teacher who turns to cooking methamphetamine after a cancer diagnosis?",
+      "answer": "Breaking Bad",
+      "hint": "Its main character's transformation is often described as going from 'Mr. Chips to Scarface.'",
+      "difficulty": 2,
+      "id": 3248
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What actress played the fierce warrior Furiosa in the 2015 film 'Mad Max: Fury Road'?",
+      "answer": "Charlize Theron",
+      "hint": "She shaved her head for the role, and her missing forearm was created with visual effects.",
+      "difficulty": 2,
+      "id": 3249
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What 2001 animated film directed by Hayao Miyazaki follows a young girl named Chihiro who must work in a bathhouse for gods after her parents are turned into pigs, and won the Academy Award for Best Animated Feature?",
+      "answer": "Spirited Away",
+      "hint": "The bathhouse is run by a witch who steals people's names.",
+      "difficulty": 2,
+      "id": 3250
+    },
+    {
+      "category": "Math",
+      "question": "A snail travels 1 meter per hour. How many hours does it take to cover a kilometer?",
+      "answer": "1000",
+      "hint": "One kilometer is exactly one thousand meters.",
+      "difficulty": 2,
+      "numeric_type": "exact",
+      "id": 3251
+    },
+    {
+      "category": "Sports",
+      "question": "Which wide receiver was selected fifth overall by the Cincinnati Bengals in the 2021 NFL Draft, reuniting him with his LSU teammate Joe Burrow?",
+      "answer": "Ja'Marr Chase",
+      "hint": "He won the NFL receiving triple crown in the 2024 season.",
+      "difficulty": 3,
+      "id": 3252
+    },
+    {
+      "category": "Sports",
+      "question": "The Ravens, the Orioles, and the football team formerly known as the Redskins all play in which state?",
+      "answer": "Maryland",
+      "hint": "All three franchises play in the Baltimore–Washington metro area, though one has 'Washington' in its name.",
+      "difficulty": 2,
+      "id": 3253
+    },
+    {
+      "category": "Word Play",
+      "question": "What word sounds like both a formal legal proceeding and a physical test of endurance?",
+      "answer": "Trial",
+      "hint": "One happens in a courtroom, the other pushes you to your limits — same word, very different stakes.",
+      "difficulty": 2,
+      "id": 3254
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with R, what word means the thin strip of cane or metal in a woodwind instrument that vibrates to produce sound?",
+      "answer": "Reed",
+      "hint": "Clarinets and oboes both rely on this component, and it also grows naturally in marshes.",
+      "difficulty": 2,
+      "id": 3256
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with T, what word for a strong thin string used to tie packages also means to wind something around an object?",
+      "answer": "Twine",
+      "hint": "Vines are said to do this around a trellis.",
+      "difficulty": 2,
+      "id": 3257
+    },
+    {
+      "category": "Brands & Business",
+      "question": "What outdoor apparel company uses the slogan 'Never Stop Exploring'?",
+      "answer": "The North Face",
+      "hint": "The brand is named after the coldest, most challenging side of a mountain.",
+      "difficulty": 2,
+      "id": 3258
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What American poet wrote 'The Road Not Taken,' a poem often misread as endorsing nonconformity when it's actually about the arbitrariness of choice?",
+      "answer": "Robert Frost",
+      "hint": "The narrator admits the two paths were 'really about the same' — the poem's irony is usually missed.",
+      "difficulty": 2,
+      "id": 3260
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What is the name of the fictional hotel in Stanley Kubrick's 1980 horror film where a writer becomes dangerously unhinged while serving as off-season caretaker?",
+      "answer": "Overlook Hotel",
+      "hint": "Room 237 is one of its most infamous locations, and the film is based on a Stephen King novel.",
+      "difficulty": 2,
+      "id": 3261
+    },
+    {
+      "question": "Finish these lyrics: \"I see a ship in the harbor, I can and...\"",
+      "answer": "shall obey",
+      "difficulty": 3,
+      "category": "Music",
+      "hint": "New Order — Blue Monday",
+      "id": 3263
+    },
+    {
+      "question": "Finish these lyrics: \"I've been walking my mind to an...\"",
+      "answer": "easy time",
+      "difficulty": 3,
+      "category": "Music",
+      "hint": "James Taylor — Fire and Rain",
+      "id": 3267
+    },
+    {
+      "question": "Finish these lyrics: \"Talking out your neck sayin' you're a...\"",
+      "answer": "Christian",
+      "difficulty": 3,
+      "category": "Music",
+      "hint": "Lauryn Hill — Doo Wop That Thing",
+      "id": 3269
+    },
+    {
+      "question": "Finish these lyrics: \"From a family meek and...\"",
+      "answer": "mild",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Merle Haggard — Mama Tried",
+      "id": 3271
+    },
+    {
+      "category": "Music",
+      "question": "Who performed 'Right Here, Right Now,' the 1999 big beat hit whose music video shows a creature evolving from single-celled life into a modern man?",
+      "answer": "Fatboy Slim",
+      "hint": "This Brighton-based DJ and producer is also known for 'Praise You' and 'The Rockafeller Skank.'",
+      "difficulty": 2,
+      "id": 3272
     }
   ],
-  "updated": "2026-11-22T13:45:32Z"
+  "updated": "2026-11-23T16:45:12Z"
 }
