@@ -14932,7 +14932,127 @@
       "hint": "This Brighton-based DJ and producer is also known for 'Praise You' and 'The Rockafeller Skank.'",
       "difficulty": 2,
       "id": 3272
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What author wrote the 'A Song of Ice and Fire' book series that became the basis for the TV show Game of Thrones?",
+      "answer": "George R.R. Martin",
+      "hint": "His initials are part of how fans commonly refer to him, and fans have been waiting years for his next book.",
+      "difficulty": 2,
+      "id": 3273
+    },
+    {
+      "category": "TV & Movies",
+      "question": "In what film does a linguist race to decode an alien language before the military decides to open fire on the visitors?",
+      "answer": "Arrival",
+      "hint": "The 2016 film stars Amy Adams and is based on a short story called 'Story of Your Life'.",
+      "difficulty": 2,
+      "id": 3274
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What Oscar-winning film sees a mute woman fall in love with an amphibian creature held captive in a government laboratory?",
+      "answer": "The Shape of Water",
+      "hint": "Guillermo del Toro directed it, and it won Best Picture at the 2018 Academy Awards.",
+      "difficulty": 2,
+      "id": 3275
+    },
+    {
+      "category": "TV & Movies",
+      "question": "In the TV series 'Succession', what is the name of the fictional media conglomerate at the centre of the family drama?",
+      "answer": "Waystar Royco",
+      "hint": "The company is modelled loosely on a Murdoch-style empire and owns a major news network.",
+      "difficulty": 2,
+      "id": 3276
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What actress plays Wednesday Addams in the Netflix series 'Wednesday', released in 2022?",
+      "answer": "Jenna Ortega",
+      "hint": "She became a viral sensation thanks to a particular dance scene in the show.",
+      "difficulty": 2,
+      "id": 3277
+    },
+    {
+      "category": "Word Play",
+      "question": "What word connects a sudden light rainstorm, a confetti celebration, and a bathroom fixture?",
+      "answer": "Shower",
+      "hint": "One falls from the sky, one falls at a party, and one you stand under each morning.",
+      "difficulty": 2,
+      "id": 3280
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with W, what word means a sudden rotating column of air that moves across a landscape, smaller than a tornado?",
+      "answer": "Whirlwind",
+      "hint": "You might also use it to describe an extremely hectic and fast-moving period of time.",
+      "difficulty": 2,
+      "id": 3281
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "Starting with L, what word describes the organ in the throat responsible for producing sound in humans and many other animals?",
+      "answer": "Larynx",
+      "hint": "It's sometimes called the voice box, and you can feel it vibrate when you hum.",
+      "difficulty": 2,
+      "id": 3282
+    },
+    {
+      "category": "Arts & Style",
+      "question": "Starting with U, what word describes the technique in fashion of transforming old or discarded materials into new, higher-quality garments or products?",
+      "answer": "Upcycling",
+      "hint": "It's the opposite of downcycling and has become a major trend in sustainable fashion.",
+      "difficulty": 2,
+      "id": 3283
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What sci-fi novel series by Frank Herbert, set on a desert planet where a precious substance controls galactic power, was adapted into a blockbuster film in 2021?",
+      "answer": "Dune",
+      "hint": "The substance in question grants foresight and is essential for space travel.",
+      "difficulty": 2,
+      "id": 3284
+    },
+    {
+      "question": "Finish these lyrics: \"In a tree by the brook, there's a songbird who...\"",
+      "answer": "sings",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Led Zeppelin — Stairway to Heaven",
+      "id": 3286
+    },
+    {
+      "question": "Finish these lyrics: \"Silly little games you and me play, and I am feeling...\"",
+      "answer": "right on",
+      "difficulty": 3,
+      "category": "Music",
+      "hint": "D'Angelo — Untitled",
+      "id": 3289
+    },
+    {
+      "question": "Finish these lyrics: \"Baby I could never steal you from...\"",
+      "answer": "another",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Prince — Purple Rain",
+      "id": 3292
+    },
+    {
+      "category": "Music",
+      "question": "Who performed 'C.R.E.A.M.,' the 1993 hip-hop classic built around a looped piano sample from a Charmels soul record?",
+      "answer": "Wu-Tang Clan",
+      "hint": "The acronym in the title stands for 'Cash Rules Everything Around Me.'",
+      "difficulty": 2,
+      "id": 3296
+    },
+    {
+      "category": "Music",
+      "question": "What band featured members David Gedge and Pete Solowka, a Leeds group whose jangly, lovelorn guitar work defined early UK indie in the late 1980s?",
+      "answer": "The Wedding Present",
+      "hint": "In 1992 they released a new single every month, equalling Elvis Presley's record for UK Top 40 hits in a single year.",
+      "difficulty": 3,
+      "id": 3297
     }
   ],
-  "updated": "2026-11-23T16:45:12Z"
+  "updated": "2026-11-24T16:40:54Z"
 }
