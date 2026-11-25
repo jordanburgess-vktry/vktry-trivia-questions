@@ -15052,7 +15052,168 @@
       "hint": "In 1992 they released a new single every month, equalling Elvis Presley's record for UK Top 40 hits in a single year.",
       "difficulty": 3,
       "id": 3297
+    },
+    {
+      "category": "Science",
+      "question": "What is the name of the force that causes objects in a rotating system to appear to be pushed outward, even though no actual outward force exists?",
+      "answer": "Centrifugal force",
+      "hint": "It's why water stays in a bucket swung overhead, though physicists call it a fictitious force.",
+      "difficulty": 2,
+      "id": 3298
+    },
+    {
+      "category": "History & Geography",
+      "question": "What empire, at its peak around 1700, stretched across most of the Indian subcontinent and was later gradually dismantled by the British?",
+      "answer": "Mughal Empire",
+      "hint": "Its rulers built the Taj Mahal and the Red Fort in Delhi.",
+      "difficulty": 2,
+      "id": 3299
+    },
+    {
+      "category": "History & Geography",
+      "question": "Which country lying entirely within Europe has the most land borders, sharing frontiers with nine different countries?",
+      "answer": "Germany",
+      "hint": "It borders Denmark, Poland, Switzerland and France, among others.",
+      "difficulty": 2,
+      "id": 3300
+    },
+    {
+      "category": "History & Geography",
+      "question": "Which US state has the longest freshwater coastline of any state, bordering four of the five Great Lakes?",
+      "answer": "Michigan",
+      "hint": "It's shaped like a mitten and is split into two peninsulas.",
+      "difficulty": 2,
+      "id": 3301
+    },
+    {
+      "category": "History & Geography",
+      "question": "What Carthaginian general crossed the Alps with war elephants in 218 BC, catching Rome completely off guard in the Second Punic War?",
+      "answer": "Hannibal",
+      "hint": "He never actually sacked Rome itself, despite coming agonizingly close.",
+      "difficulty": 2,
+      "id": 3302
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What 2023 TikTok trend had women asking the men in their lives how often they think about a particular ancient civilization?",
+      "answer": "Roman Empire trend",
+      "hint": "Its emperors included Augustus and Nero.",
+      "difficulty": 2,
+      "id": 3303
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What global phenomenon — a 2023 film and toy brand — caused a worldwide shortage of pink paint and broke box office records?",
+      "answer": "Barbie",
+      "hint": "Its director also made 'Lady Bird' and 'Little Women'.",
+      "difficulty": 2,
+      "id": 3304
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What is the name of the smash-hit video game series where players catch and battle small creatures?",
+      "answer": "Pokémon",
+      "hint": "The name is a contraction of two English words describing the pocket-sized creatures.",
+      "difficulty": 2,
+      "id": 3305
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What actress plays Kim Wexler, the lawyer and love interest of Jimmy McGill, in 'Better Call Saul'?",
+      "answer": "Rhea Seehorn",
+      "hint": "Despite widespread acclaim, she was famously overlooked by the Emmys for years before finally being nominated.",
+      "difficulty": 3,
+      "id": 3306
+    },
+    {
+      "category": "Math",
+      "question": "A snail travels at 0.03 mph. At that speed, how many hours would it take to travel one mile?",
+      "answer": "33⅓ (about 33.3)",
+      "hint": "Divide 1 by 0.03 — the answer is a repeating decimal.",
+      "difficulty": 2,
+      "numeric_type": "exact",
+      "id": 3307
+    },
+    {
+      "category": "Sports",
+      "question": "What MLB team won the World Series in 2022?",
+      "answer": "Houston Astros",
+      "hint": "They beat the Philadelphia Phillies in six games.",
+      "difficulty": 2,
+      "id": 3309
+    },
+    {
+      "category": "Word Play",
+      "question": "What word sounds like both a formal document that grants rights and a type of bus or aircraft hired privately?",
+      "answer": "Charter",
+      "hint": "One is a legal declaration of rights; the other describes a hire arrangement for travel.",
+      "difficulty": 2,
+      "id": 3311
+    },
+    {
+      "category": "Word Play",
+      "question": "Finish the phrase: 'You can lead a horse to water, but you can't make it...'",
+      "answer": "Drink",
+      "hint": "The phrase means you can offer opportunity but can't force someone to take it.",
+      "difficulty": 2,
+      "id": 3312
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with U, what word means a person who shows guests to their seats at a wedding or formal event?",
+      "answer": "Usher",
+      "hint": "They walk guests down the aisle — and it's also the name of a famous R&B singer.",
+      "difficulty": 2,
+      "id": 3314
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "What does the first 'A' in NASA stand for?",
+      "answer": "Aeronautics",
+      "hint": "National ___ and Space Administration — the word relates to the science of flight.",
+      "difficulty": 2,
+      "id": 3315
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "Starting with L, what word means the transparent disc inside the eye that focuses light onto the retina?",
+      "answer": "Lens",
+      "hint": "Cameras and eyeglasses use one too.",
+      "difficulty": 2,
+      "id": 3317
+    },
+    {
+      "category": "History & Geography",
+      "question": "What modern-day country contains the ancient city of Carthage, once Rome's greatest rival in the Mediterranean?",
+      "answer": "Tunisia",
+      "hint": "It sits on the northern coast of Africa, directly south of Sicily.",
+      "difficulty": 2,
+      "id": 3319
+    },
+    {
+      "category": "Sports",
+      "question": "What tennis player won the 2023 US Open men's singles title, claiming his 24th Grand Slam and equalling Margaret Court's all-time record?",
+      "answer": "Novak Djokovic",
+      "hint": "He's Serbian and was a longtime rival of Federer and Nadal.",
+      "difficulty": 2,
+      "id": 3320
+    },
+    {
+      "question": "Finish these lyrics: \"Bite your lip and take a trip though there may be...\"",
+      "answer": "wet road ahead",
+      "difficulty": 3,
+      "category": "Music",
+      "hint": "Curtis Mayfield — Move On Up",
+      "id": 3324
+    },
+    {
+      "category": "Music",
+      "question": "What band, led by singer-songwriter Mark Linkous, released sparse, haunting indie rock from the mid-1990s onward?",
+      "answer": "Sparklehorse",
+      "hint": "Their 1995 debut was called 'Vivadixiesubmarinetransmissionplot'.",
+      "difficulty": 3,
+      "id": 3331
     }
   ],
-  "updated": "2026-11-24T16:40:54Z"
+  "updated": "2026-11-25T16:24:04Z"
 }

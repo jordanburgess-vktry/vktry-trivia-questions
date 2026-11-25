@@ -1623,5 +1623,40 @@
     "question": "How many career Olympic gold medals did Michael Phelps win across all his Olympic appearances?",
     "answer": "23",
     "hint": "He competed in multiple Olympics and is the most decorated Olympian of all time."
+  },
+  {
+    "question": "How many feet per second does a bullet from a typical 9mm handgun travel?",
+    "answer": "1,200",
+    "hint": "It's faster than the speed of sound in air, which is about 1,125 feet per second."
+  },
+  {
+    "question": "How many career regular-season wins did Peyton Manning accumulate as an NFL starting quarterback?",
+    "answer": "186",
+    "hint": "He played for the Indianapolis Colts and Denver Broncos and was considered one of the greatest quarterbacks ever."
+  },
+  {
+    "question": "How many feet above sea level is the base camp of Mount Everest on the Nepal side?",
+    "answer": "17,598",
+    "hint": "It's roughly 60% of the mountain's total height above sea level, used as the staging point for most climbers."
+  },
+  {
+    "question": "How many career NBA regular-season points did Shaquille O'Neal score in his career?",
+    "answer": "28,596",
+    "hint": "He won four championships, three with the Lakers and one with the Heat, while dominating the paint."
+  },
+  {
+    "question": "How many dollars did Forrest Gump (1994) gross at the worldwide box office?",
+    "answer": "678,226,133",
+    "hint": "Tom Hanks won an Oscar for his role, and the film became one of the most beloved movies of the 1990s."
+  },
+  {
+    "question": "How many career strikeouts did Steve Carlton accumulate in his MLB pitching career?",
+    "answer": "4,136",
+    "hint": "Known as 'Lefty,' he played most of his career for the Philadelphia Phillies and was a four-time Cy Young winner."
+  },
+  {
+    "question": "How many total episodes of 'The X-Files' aired across all eleven seasons?",
+    "answer": "218",
+    "hint": "The show ran originally for nine seasons starting in the early 1990s, then returned for two revival seasons decades later."
   }
 ]
