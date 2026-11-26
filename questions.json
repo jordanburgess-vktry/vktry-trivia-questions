@@ -15213,7 +15213,135 @@
       "hint": "Their 1995 debut was called 'Vivadixiesubmarinetransmissionplot'.",
       "difficulty": 3,
       "id": 3331
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What actor plays the sharp-tongued lawyer Saul Goodman in the Breaking Bad spinoff series?",
+      "answer": "Bob Odenkirk",
+      "hint": "He was originally a comedy writer before becoming an actor",
+      "difficulty": 2,
+      "id": 3332
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What 2023 animated film from Sony follows a teenager who discovers a multiverse of Spider-People?",
+      "answer": "Spider-Man: Across the Spider-Verse",
+      "hint": "It's the sequel to the 2018 film that introduced Miles Morales to the big screen",
+      "difficulty": 2,
+      "id": 3333
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What actress won the Emmy for Outstanding Lead Actress in a Drama Series in 2024 for her role in 'Shōgun'?",
+      "answer": "Anna Sawai",
+      "hint": "She plays Lady Mariko in the FX series set in feudal Japan",
+      "difficulty": 3,
+      "id": 3334
+    },
+    {
+      "category": "Sports",
+      "question": "What MLB player hit his 700th career home run in 2022, becoming just the fourth player in history to reach that milestone?",
+      "answer": "Albert Pujols",
+      "hint": "He was 42 years old at the time and playing for the St. Louis Cardinals in his farewell season",
+      "difficulty": 3,
+      "id": 3335
+    },
+    {
+      "category": "Sports",
+      "question": "In tennis, what is the term for a score of 40-40, requiring one player to win two consecutive points to take the game?",
+      "answer": "Deuce",
+      "hint": "The word comes from the French word for two",
+      "difficulty": 2,
+      "id": 3336
+    },
+    {
+      "category": "Word Play",
+      "question": "What word sounds like both a large male pig and a verb meaning to drill a hole?",
+      "answer": "Boar / bore",
+      "hint": "One is a farmyard animal, the other is what a drill does",
+      "difficulty": 2,
+      "id": 3338
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with T, what word means the small flap of leather or fabric attached to the back of a boot to help pull it on?",
+      "answer": "Tab",
+      "hint": "You'll also see this word on a keyboard key and on a can of soda",
+      "difficulty": 2,
+      "id": 3339
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with L, what word means to move in a slow, heavy, awkward way?",
+      "answer": "Lumber",
+      "hint": "A big bear or a large man walking slowly might be described as doing this",
+      "difficulty": 2,
+      "id": 3340
+    },
+    {
+      "category": "Food & Drink",
+      "question": "What Japanese dish consists of seafood or vegetables coated in a light batter and deep-fried?",
+      "answer": "Tempura",
+      "hint": "It was actually introduced to Japan by Portuguese missionaries in the 16th century",
+      "difficulty": 2,
+      "id": 3341
+    },
+    {
+      "category": "Animals & the Body",
+      "question": "What is the name of the largest artery in the human body, running from the heart down through the torso?",
+      "answer": "Aorta",
+      "hint": "It's about the diameter of a garden hose",
+      "difficulty": 2,
+      "id": 3342
+    },
+    {
+      "category": "History & Geography",
+      "question": "What ancient wonder of the world was a giant lighthouse, standing roughly 100 metres tall, on an island in the harbour of an Egyptian city?",
+      "answer": "Lighthouse of Alexandria (Pharos of Alexandria)",
+      "hint": "It was built on an island whose name became the word for lighthouse in several languages",
+      "difficulty": 3,
+      "id": 3345
+    },
+    {
+      "question": "Finish these lyrics: \"One of these mornings you're going to rise up...\"",
+      "answer": "singing",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Ella Fitzgerald — Summertime",
+      "id": 3348
+    },
+    {
+      "question": "Finish these lyrics: \"I bet I'd move it on a little farther...\"",
+      "answer": "down the line",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Johnny Cash — Folsom Prison Blues",
+      "id": 3350
+    },
+    {
+      "question": "Finish these lyrics: \"When the taxman come to the door, the house look like a...\"",
+      "answer": "rummage sale",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "Creedence Clearwater Revival — Fortunate Son",
+      "id": 3354
+    },
+    {
+      "question": "Finish these lyrics: \"I fight for my meals, I get my back into...\"",
+      "answer": "my living",
+      "difficulty": 3,
+      "category": "Music",
+      "hint": "The Who — Baba O'Riley",
+      "id": 3355
+    },
+    {
+      "category": "Music",
+      "question": "Who performed 'Inside Out,' a 1998 alt-rock hit driven by a kinetic guitar riff and released on the band's self-titled debut album?",
+      "answer": "Eve 6",
+      "hint": "The band's name comes from a character in the TV show The X-Files",
+      "difficulty": 2,
+      "id": 3356
     }
   ],
-  "updated": "2026-11-25T16:24:04Z"
+  "updated": "2026-11-26T15:58:37Z"
 }

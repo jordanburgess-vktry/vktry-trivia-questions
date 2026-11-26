@@ -1658,5 +1658,35 @@
     "question": "How many total episodes of 'The X-Files' aired across all eleven seasons?",
     "answer": "218",
     "hint": "The show ran originally for nine seasons starting in the early 1990s, then returned for two revival seasons decades later."
+  },
+  {
+    "question": "How many feet long is the wingspan of a Space Shuttle orbiter?",
+    "answer": "78",
+    "hint": "It's roughly the width of a large house and much shorter than a commercial jumbo jet."
+  },
+  {
+    "question": "How many career NBA regular-season points had LeBron James scored through the end of the 2023-24 season?",
+    "answer": "40,474",
+    "hint": "He surpassed Kareem Abdul-Jabbar's record in February 2023 and kept playing afterward."
+  },
+  {
+    "question": "What year did the Aztec Empire fall to Spanish conquistadors led by Hernán Cortés?",
+    "answer": "1521",
+    "hint": "It happened in the early 1500s, about 30 years after Columbus first arrived in the Americas."
+  },
+  {
+    "question": "How many worldwide box office dollars did The Incredibles (2004) gross in its theatrical release?",
+    "answer": "631,442,092",
+    "hint": "It was Pixar's superhero hit and won the Academy Award for Best Animated Feature."
+  },
+  {
+    "question": "How many career regular-season touchdown passes did Aaron Rodgers throw in his NFL career through the end of the 2023 season?",
+    "answer": "475",
+    "hint": "He spent most of his career with the Green Bay Packers and won four MVP awards."
+  },
+  {
+    "question": "How many career strikeouts did Curt Schilling accumulate in his MLB pitching career?",
+    "answer": "3,116",
+    "hint": "He was famous for his playoff performances, including the bloody sock game, and struck out far more than he walked."
   }
 ]
