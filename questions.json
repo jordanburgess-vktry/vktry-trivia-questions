@@ -15341,7 +15341,120 @@
       "hint": "The band's name comes from a character in the TV show The X-Files",
       "difficulty": 2,
       "id": 3356
+    },
+    {
+      "category": "Science",
+      "question": "Starting with B, what is the name for the temperature at which a liquid turns into a gas under normal atmospheric pressure?",
+      "answer": "Boiling point",
+      "hint": "Water reaches this at 100 degrees Celsius at sea level.",
+      "difficulty": 2,
+      "id": 3357
+    },
+    {
+      "category": "History & Geography",
+      "question": "What African country's name translates to 'Land of Honest Men' — a name chosen by its revolutionary leader in 1984?",
+      "answer": "Burkina Faso",
+      "hint": "It is a landlocked nation in West Africa, formerly called Upper Volta.",
+      "difficulty": 3,
+      "id": 3358
+    },
+    {
+      "category": "History & Geography",
+      "question": "What country spans eleven time zones, the most of any nation's contiguous territory?",
+      "answer": "Russia",
+      "hint": "It stretches from Eastern Europe all the way to the Pacific coast.",
+      "difficulty": 2,
+      "id": 3359
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What author wrote the dystopian novel series that features the fictional nation of Panem divided into twelve districts?",
+      "answer": "Suzanne Collins",
+      "hint": "The books are named after the annual televised event that forces children to fight to the death.",
+      "difficulty": 2,
+      "id": 3361
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What term describes the backlash that occurs when a previously beloved celebrity falls from public favor, often triggered by viral resurfaced content?",
+      "answer": "Cancel culture",
+      "hint": "The phrase became widespread on social media in the late 2010s.",
+      "difficulty": 2,
+      "id": 3362
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with J, what word means a playful, teasing remark made in good humor?",
+      "answer": "Jest",
+      "hint": "If you say something 'in ___', you don't mean it seriously.",
+      "difficulty": 3,
+      "id": 3366
+    },
+    {
+      "category": "Science",
+      "question": "Approximately how many neurons are in the human brain?",
+      "answer": "86 billion",
+      "hint": "The number is often cited as 100 billion, but modern research puts it slightly lower.",
+      "difficulty": 2,
+      "numeric_type": "approximation",
+      "id": 3369
+    },
+    {
+      "category": "History & Geography",
+      "question": "What South American country is home to both the world's highest navigable lake and the ruins of Machu Picchu?",
+      "answer": "Peru",
+      "hint": "Its capital Lima sits on the Pacific coast, while these landmarks are deep in the Andes.",
+      "difficulty": 2,
+      "id": 3370
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What author created the fictional universe set in a small fictional county in rural Mississippi, populated by the same recurring families across dozens of novels?",
+      "answer": "William Faulkner",
+      "hint": "His fictional Yoknapatawpha County is to literature what Westeros is to fantasy — a fully realized world.",
+      "difficulty": 3,
+      "id": 3371
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with Z, what word means great enthusiasm and energy, or the lively quality of a performance that makes it exciting?",
+      "answer": "Zest",
+      "hint": "It's also the word for the grated outer peel of a lemon or orange used in cooking.",
+      "difficulty": 2,
+      "id": 3373
+    },
+    {
+      "question": "Finish these lyrics: \"For here am I sitting in a tin can, far...\"",
+      "answer": "above the world",
+      "difficulty": 2,
+      "category": "Music",
+      "hint": "David Bowie — Space Oddity",
+      "id": 3377
+    },
+    {
+      "category": "Music",
+      "question": "What folk-rock duo originally recorded 'Hazy Shade of Winter' in 1966, a song the Bangles made famous again with a 1987 cover?",
+      "answer": "Simon and Garfunkel",
+      "hint": "Their other hits include 'Mrs. Robinson' and 'The Sound of Silence'.",
+      "difficulty": 2,
+      "id": 3384
+    },
+    {
+      "category": "Music",
+      "question": "What band released the album 'The Great Eastern' in 2000, a sprawling indie pop record from a Glasgow collective known for orchestral arrangements?",
+      "answer": "Delgados",
+      "hint": "They also founded the Scottish independent label Chemikal Underground",
+      "difficulty": 3,
+      "id": 3385
+    },
+    {
+      "category": "Music",
+      "question": "What band featured members Chan Kinchla, John Popper, and Brendan Hill, a jam rock group formed in Princeton, New Jersey?",
+      "answer": "Blues Traveler",
+      "hint": "Their harmonica-driven hit 'Run-Around' dominated 1995 radio",
+      "difficulty": 2,
+      "id": 3386
     }
   ],
-  "updated": "2026-11-26T15:58:37Z"
+  "updated": "2026-11-27T15:47:44Z"
 }
