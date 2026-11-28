@@ -1718,5 +1718,35 @@
     "question": "How many career Olympic gold medals did Usain Bolt win across all his Olympic appearances?",
     "answer": "8",
     "hint": "He won the 100m and 200m at three straight Games; one relay gold was later stripped over a teammate's doping."
+  },
+  {
+    "question": "How many feet long is the wingspan of a Boeing 787 Dreamliner?",
+    "answer": "197",
+    "hint": "It's a wide-body jet but smaller than a 747, designed for long-haul efficiency."
+  },
+  {
+    "question": "How many career regular-season points did Mats Sundin score in the NHL?",
+    "answer": "1,349",
+    "hint": "He was the captain of the Toronto Maple Leafs for most of his career and is Sweden's all-time leading NHL scorer."
+  },
+  {
+    "question": "How many miles long is the Yangtze River, the longest river in Asia?",
+    "answer": "3,917",
+    "hint": "It flows entirely through China and is significantly longer than the Mississippi River."
+  },
+  {
+    "question": "How many career home runs did Willie Mays hit in his MLB career?",
+    "answer": "660",
+    "hint": "He's widely considered one of the greatest all-around players ever and wore a New York Giants and San Francisco Giants uniform."
+  },
+  {
+    "question": "How many total episodes of 'Downton Abbey' aired across all six seasons?",
+    "answer": "52",
+    "hint": "This British period drama followed an aristocratic family and their servants from the Edwardian era through the 1920s."
+  },
+  {
+    "question": "How many feet tall is the Willis Tower (formerly Sears Tower) in Chicago, including its antenna?",
+    "answer": "1,730",
+    "hint": "It was the world's tallest building when it was completed in 1973 and held that title for over two decades."
   }
 ]

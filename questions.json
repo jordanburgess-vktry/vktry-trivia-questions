@@ -15454,7 +15454,103 @@
       "hint": "Their harmonica-driven hit 'Run-Around' dominated 1995 radio",
       "difficulty": 2,
       "id": 3386
+    },
+    {
+      "category": "Science",
+      "question": "What is the name of the force that keeps electrons bound to the nucleus of an atom, described as one of the four fundamental forces?",
+      "answer": "Electromagnetic force",
+      "hint": "It's also responsible for light, magnets, and static cling.",
+      "difficulty": 3,
+      "id": 3387
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What author created the fictional wizard detective Harry Dresden, starring in a long-running urban fantasy series set in modern Chicago?",
+      "answer": "Jim Butcher",
+      "hint": "The series shares its name with a German city.",
+      "difficulty": 3,
+      "id": 3388
+    },
+    {
+      "category": "TV & Movies",
+      "question": "In Breaking Bad, what is the name of the fast food fried chicken chain that serves as a front for a drug distribution network?",
+      "answer": "Los Pollos Hermanos",
+      "hint": "Its mild-mannered owner is one of the show's most dangerous antagonists.",
+      "difficulty": 2,
+      "id": 3389
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What HBO series, based on a video game, follows a smuggler escorting a young girl named Ellie through a post-apocalyptic United States?",
+      "answer": "The Last of Us",
+      "hint": "Pedro Pascal plays the gruff survivor tasked with keeping her safe.",
+      "difficulty": 2,
+      "id": 3390
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What director made both The Silence of the Lambs and Philadelphia, winning a Best Director Oscar for the former?",
+      "answer": "Jonathan Demme",
+      "hint": "He also directed the Talking Heads concert film Stop Making Sense.",
+      "difficulty": 3,
+      "id": 3391
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with R, what word means a repeated set of actions or tasks done regularly, often without thinking?",
+      "answer": "Routine",
+      "hint": "A morning one might involve coffee, a shower, and checking your phone.",
+      "difficulty": 2,
+      "id": 3397
+    },
+    {
+      "category": "Acronyms & Terms",
+      "question": "Starting with W, what word means a deep crease or fold that forms on skin or fabric over time?",
+      "answer": "Wrinkle",
+      "hint": "Ironing removes it from clothes; aging adds it to faces.",
+      "difficulty": 2,
+      "id": 3399
+    },
+    {
+      "category": "Arts & Style",
+      "question": "What literary term describes when an author hints at future plot events before they occur?",
+      "answer": "Foreshadowing",
+      "hint": "A gun shown in Act One that fires in Act Three is the classic example.",
+      "difficulty": 2,
+      "id": 3402
+    },
+    {
+      "category": "Pop Culture",
+      "question": "What dystopian novel by Margaret Atwood, set in a theocratic America, was adapted into a hit Hulu series starting in 2017?",
+      "answer": "The Handmaid's Tale",
+      "hint": "Its protagonist narrates from a society where fertile women are forced to bear children for ruling families.",
+      "difficulty": 2,
+      "id": 3403
+    },
+    {
+      "category": "TV & Movies",
+      "question": "What character in The Office is known for the catchphrase 'That's what she said' and manages the Scranton branch of a paper company?",
+      "answer": "Michael Scott",
+      "hint": "He's played by Steve Carell.",
+      "difficulty": 2,
+      "id": 3404
+    },
+    {
+      "question": "Finish these lyrics: \"People writing songs that voices...\"",
+      "answer": "never share",
+      "difficulty": 3,
+      "category": "Music",
+      "hint": "Simon and Garfunkel — The Sound of Silence",
+      "id": 3414
+    },
+    {
+      "category": "Music",
+      "question": "What artist's real name is Robert Van Winkle, a rapper who scored a massive 1990 pop-rap crossover hit?",
+      "answer": "Vanilla Ice",
+      "hint": "His biggest hit sampled the bassline from Queen and David Bowie's 'Under Pressure.'",
+      "difficulty": 2,
+      "id": 3415
     }
   ],
-  "updated": "2026-11-27T15:47:44Z"
+  "updated": "2026-11-28T14:43:01Z"
 }
